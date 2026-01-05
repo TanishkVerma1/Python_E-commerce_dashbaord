@@ -359,13 +359,21 @@ if page == "Executive View":
     tmp["discount_amount"] = pd.to_numeric(tmp["discount_amount"], errors="coerce").fillna(0)
     tmp["net_amount"] = pd.to_numeric(tmp["net_amount"], errors="coerce")
     
+    plot_df = tmp.sample(min(len(tmp), 2000), random_state=1)
+
     fig = px.scatter(
-        tmp.sample(min(len(tmp), 2000), random_state=1),
+        plot_df,
         x="discount_amount",
         y="net_amount",
         color="order_channel",
-        trendline="ols" if len(tmp) >= 50 else None
     )
+    fig.update_layout(height=380, margin=dict(l=10, r=10, t=30, b=10), xaxis_title="Discount (AED)", yaxis_title="Net (AED)")
+    st.plotly_chart(fig, use_container_width=True)
+    
+    # Optional: simple correlation insight (no statsmodels)
+    corr = plot_df[["discount_amount","net_amount"]].corr().iloc[0,1]
+    st.info(f"**Insight:** Discount vs Net correlation ≈ **{corr:.2f}** (closer to 1 = strong positive relationship).")
+
     fig.update_layout(height=380, margin=dict(l=10, r=10, t=30, b=10), xaxis_title="Discount (AED)", yaxis_title="Net (AED)")
     st.plotly_chart(fig, use_container_width=True)
     
