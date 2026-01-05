@@ -358,9 +358,14 @@ if page == "Executive View":
     tmp = delivered.copy()
     tmp["discount_amount"] = pd.to_numeric(tmp["discount_amount"], errors="coerce").fillna(0)
     tmp["net_amount"] = pd.to_numeric(tmp["net_amount"], errors="coerce")
+    tmp["order_channel"] = tmp["order_channel"].fillna("Unknown")
     
-   plot_df = tmp.sample(min(len(tmp), 2000), random_state=1)
+    plot_df = tmp.dropna(subset=["discount_amount", "net_amount"]).sample(
+        min(len(tmp.dropna(subset=["discount_amount", "net_amount"])), 2000),
+        random_state=1
+    )
     
+    # IMPORTANT: No trendline="ols" here (avoids statsmodels dependency)
     fig = px.scatter(
         plot_df,
         x="discount_amount",
@@ -374,23 +379,16 @@ if page == "Executive View":
         xaxis_title="Discount (AED)",
         yaxis_title="Net (AED)"
     )
+    
     st.plotly_chart(fig, use_container_width=True)
     
-    # Optional simple insight without statsmodels
-    corr = plot_df[["discount_amount", "net_amount"]].corr().iloc[0, 1]
-    st.info(f"**Insight:** Discount vs Net correlation ≈ **{corr:.2f}** (closer to 1 means stronger positive relationship).")
-
-    st.plotly_chart(fig, use_container_width=True)
-
+    # Simple insight without statsmodels
+    if len(plot_df) >= 2:
+        corr = plot_df[["discount_amount", "net_amount"]].corr().iloc[0, 1]
+        st.info(f"**Insight:** Discount vs Net correlation ≈ **{corr:.2f}** (closer to 1 means stronger positive relationship).")
+    else:
+        st.info("**Insight:** Not enough points to compute correlation under current filters.")
     
-    # Optional: simple correlation insight (no statsmodels)
-    corr = plot_df[["discount_amount","net_amount"]].corr().iloc[0,1]
-    st.info(f"**Insight:** Discount vs Net correlation ≈ **{corr:.2f}** (closer to 1 = strong positive relationship).")
-
-    fig.update_layout(height=380, margin=dict(l=10, r=10, t=30, b=10), xaxis_title="Discount (AED)", yaxis_title="Net (AED)")
-    st.plotly_chart(fig, use_container_width=True)
-    
-    st.info("**Insight:** Look for a healthy trend where higher discounts still produce proportionally higher net value. If not, promo spend may be inefficient.")
 
     st.subheader("Revenue Heatmap (Day-of-Week Pattern)")
 
