@@ -341,7 +341,7 @@ if page == "Executive View":
     colA, colB = st.columns(2)
     with colA:
         st.subheader("Revenue Trend (Daily)")
-        trend = delivered.groupby(pd.Grouper(key="order_date", freq="D"), as_index=False)["net_amount"].sum()
+        trend = delivered.groupby(pd.Grouper(key="order_date", freq="D"))["net_amount"].sum().reset_index()
         fig = px.line(trend, x="order_date", y="net_amount")
         fig.update_layout(height=380, margin=dict(l=10,r=10,t=30,b=10), yaxis_title="AED", xaxis_title="Date")
         st.plotly_chart(fig, use_container_width=True)
