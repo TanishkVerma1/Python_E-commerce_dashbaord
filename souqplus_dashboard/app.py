@@ -337,7 +337,74 @@ if page == "Executive View":
 
     st.divider()
     delivered = orders_f[orders_f["order_status"] == "Delivered"].copy()
+    st.subheader("Revenue by Category (Delivered)")
 
+    cat_rev = (
+        delivered.groupby("primary_category", as_index=False)["net_amount"].sum()
+        .sort_values("net_amount", ascending=False)
+    )
+    
+    fig = px.bar(cat_rev, x="primary_category", y="net_amount")
+    fig.update_layout(height=360, margin=dict(l=10, r=10, t=30, b=10), xaxis_title="Category", yaxis_title="AED")
+    st.plotly_chart(fig, use_container_width=True)
+    
+    if len(cat_rev):
+        top = cat_rev.iloc[0]
+        share = (top["net_amount"] / cat_rev["net_amount"].sum()) * 100 if cat_rev["net_amount"].sum() else np.nan
+        st.info(f"**Insight:** **{top['primary_category']}** contributes the most delivered revenue: **{fmt_aed(top['net_amount'])}** ({pct(share)} share).")
+
+    st.subheader("Promotion Efficiency: Discount vs Net Amount (Delivered)")
+
+    tmp = delivered.copy()
+    tmp["discount_amount"] = pd.to_numeric(tmp["discount_amount"], errors="coerce").fillna(0)
+    tmp["net_amount"] = pd.to_numeric(tmp["net_amount"], errors="coerce")
+    
+    fig = px.scatter(
+        tmp.sample(min(len(tmp), 2000), random_state=1),
+        x="discount_amount",
+        y="net_amount",
+        color="order_channel",
+        trendline="ols" if len(tmp) >= 50 else None
+    )
+    fig.update_layout(height=380, margin=dict(l=10, r=10, t=30, b=10), xaxis_title="Discount (AED)", yaxis_title="Net (AED)")
+    st.plotly_chart(fig, use_container_width=True)
+    
+    st.info("**Insight:** Look for a healthy trend where higher discounts still produce proportionally higher net value. If not, promo spend may be inefficient.")
+
+    st.subheader("Revenue Heatmap (Day-of-Week Pattern)")
+
+    hm = delivered.copy()
+    hm["dow"] = hm["order_date"].dt.day_name()
+    hm["week"] = hm["order_date"].dt.to_period("W").astype(str)
+    
+    # order weekdays nicely
+    dow_order = ["Monday","Tuesday","Wednesday","Thursday","Friday","Saturday","Sunday"]
+    hm["dow"] = pd.Categorical(hm["dow"], categories=dow_order, ordered=True)
+    
+    pivot = hm.groupby(["week","dow"], as_index=False)["net_amount"].sum()
+    fig = px.density_heatmap(pivot, x="week", y="dow", z="net_amount")
+    fig.update_layout(height=420, margin=dict(l=10, r=10, t=30, b=10), xaxis_title="Week", yaxis_title="Day", coloraxis_colorbar_title="AED")
+    st.plotly_chart(fig, use_container_width=True)
+    
+    st.info("**Insight:** Bright bands indicate peak shopping days. Use this to schedule campaigns, inventory pushes, and staffing.")
+
+    st.subheader("Top 10 Customers by Delivered Spend")
+
+    top_cust = (
+        delivered.groupby("customer_id", as_index=False)["net_amount"].sum()
+        .sort_values("net_amount", ascending=False)
+        .head(10)
+        .merge(customers[["customer_id","customer_name","customer_segment","city_std"]], on="customer_id", how="left")
+    )
+    
+    fig = px.bar(top_cust, x="net_amount", y="customer_name", orientation="h", color="customer_segment")
+    fig.update_layout(height=420, margin=dict(l=10, r=10, t=30, b=10), xaxis_title="AED", yaxis_title="Customer")
+    st.plotly_chart(fig, use_container_width=True)
+    
+    if len(top_cust):
+        st.info(f"**Insight:** Highest spender is **{top_cust.iloc[-1]['customer_name']}** with **{fmt_aed(top_cust.iloc[-1]['net_amount'])}** delivered spend. Prioritize retention here.")
+
+    
     colA, colB = st.columns(2)
     with colA:
         st.subheader("Revenue Trend (Daily)")
