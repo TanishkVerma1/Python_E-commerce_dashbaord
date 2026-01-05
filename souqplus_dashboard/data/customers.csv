@@ -1,0 +1,2031 @@
+customer_id,customer_name,city,signup_date,signup_channel,customer_segment
+CUST_00001,Customer 1,Dubai,2025-07-16 12:45:15,App,Premium
+CUST_00002,Customer 2,Ras Al Khaimah,2025-04-27 10:57:10,Call Center,Premium
+CUST_00003,Customer 3,Sharjah,2025-08-30 04:14:26,App,Regular
+CUST_00004,Customer 4,Abu Dhabi,2025-04-22 02:40:54,Web,Premium
+CUST_00005,Customer 5,Dubai,2025-01-04 05:27:55,Web,Regular
+CUST_00006,Customer 6,Dubai,2025-10-23 03:03:41,App,Regular
+CUST_00007,Customer 7,Dubai,2025-11-02 11:16:25,App,Premium
+CUST_00008,Customer 8,Ajman,2025-11-14 09:41:35,Web,Regular
+CUST_00009,Customer 9,Abu Dhabi,2025-07-22 19:33:35,App,VIP
+CUST_00010,Customer 10,Sharjah,2025-03-23 19:53:25,Call Center,Regular
+CUST_00011,Customer 11,Dubai,2025-12-18 13:30:06,App,Premium
+CUST_00012,Customer 12,Ras Al Khaimah,2025-08-12 02:01:13,Call Center,Regular
+CUST_00013,Customer 13,Sharjah,2025-02-24 16:05:44,App,Regular
+CUST_00014,Customer 14,Dubai,2025-06-15 16:54:36,Web,Regular
+CUST_00015,Customer 15,Dubai,2025-05-08 23:20:37,Web,Premium
+CUST_00016,Customer 16,Dubai,2025-05-26 11:27:39,Web,Regular
+CUST_00017,Customer 17,Dubai,2025-01-10 13:14:48,App,VIP
+CUST_00018,Customer 18,Abu Dhabi,2025-06-11 21:12:12,Web,Regular
+CUST_00019,Customer 19,Abu Dhabi,2025-03-20 21:55:47,App,Regular
+CUST_00020,Customer 20,Dubai,2025-05-01 11:53:27,Web,Regular
+CUST_00021,Customer 21,Abu Dhabi,2025-01-11 14:46:43,App,Regular
+CUST_00022,Customer 22,Dubai,2025-05-08 20:51:29,Web,Premium
+CUST_00023,Customer 23,Dubai,2025-01-13 07:38:33,App,Regular
+CUST_00024,Customer 24,Dubai,2026-01-02 03:37:14,Web,Regular
+CUST_00025,Customer 25,Abu Dhabi,2025-11-19 18:43:04,Web,Regular
+CUST_00026,Customer 26,Sharjah,2025-04-21 21:26:44,Web,Regular
+CUST_00027,Customer 27,Dubai,2025-03-03 04:40:35,App,Premium
+CUST_00028,Customer 28,Abu Dhabi,2025-05-17 16:43:29,App,Regular
+CUST_00029,Customer 29,Abu Dhabi,2025-09-01 21:01:20,Call Center,Regular
+CUST_00030,Customer 30,Dubai,2025-11-09 19:56:10,App,VIP
+CUST_00031,Customer 31,Abu Dhabi,2025-07-01 15:00:22,App,Premium
+CUST_00032,Customer 32,Dubai,2025-01-28 05:08:21,Web,Regular
+CUST_00033,Customer 33,Dubai,2025-03-14 09:18:54,Web,Regular
+CUST_00034,Customer 34,Ajman,2025-05-03 18:25:18,App,Regular
+CUST_00035,Customer 35,Ras Al Khaimah,2025-11-08 02:58:25,Web,Regular
+CUST_00036,Customer 36,Sharjah,2025-10-23 14:33:03,Web,Premium
+CUST_00037,Customer 37,Dubai,2025-03-16 20:38:34,App,Regular
+CUST_00038,Customer 38,Dubai,2025-05-06 03:14:27,Call Center,Regular
+CUST_00039,Customer 39,Sharjah,2025-06-01 13:04:23,App,Regular
+CUST_00040,Customer 40,Abu Dhabi,2025-10-03 10:42:22,App,Regular
+CUST_00041,Customer 41,Dubai,2025-12-24 17:06:55,App,Regular
+CUST_00042,Customer 42,Abu Dhabi,2025-12-24 16:20:22,App,Regular
+CUST_00043,Customer 43,DUBAI,2025-05-24 07:47:32,Call Center,Regular
+CUST_00044,Customer 44,Ajman,2025-09-28 14:01:13,App,Regular
+CUST_00045,Customer 45,Dubai,2025-08-27 04:04:59,App,Regular
+CUST_00046,Customer 46,Sharjah,2025-11-21 06:40:55,App,Regular
+CUST_00047,Customer 47,Dubai,2025-04-30 14:02:39,Web,Regular
+CUST_00048,Customer 48,Abu Dhabi,2025-12-29 19:12:13,Web,Regular
+CUST_00049,Customer 49,Abu Dhabi,2025-08-03 16:32:56,App,Regular
+CUST_00050,Customer 50,Dubai,2025-04-28 00:24:04,App,Regular
+CUST_00051,Customer 51,Ras Al Khaimah,2025-08-27 08:35:05,Web,Regular
+CUST_00052,Customer 52,Sharjah,2025-06-01 13:13:56,App,Regular
+CUST_00053,Customer 53,Ajman,2025-11-24 14:40:17,App,Premium
+CUST_00054,Customer 54,Ajman,2025-08-07 17:54:12,App,VIP
+CUST_00055,Customer 55,Abu Dhabi,2025-10-16 04:37:22,Web,Premium
+CUST_00056,Customer 56,Ajman,2025-11-18 10:20:06,App,Regular
+CUST_00057,Customer 57,Dubai,2025-05-22 10:47:53,App,Premium
+CUST_00058,Customer 58,Dubai,2025-07-06 11:10:28,App,Regular
+CUST_00059,Customer 59,Dubai,2025-05-24 16:37:43,Call Center,Regular
+CUST_00060,Customer 60,Dubai,2025-04-29 14:33:20,App,Regular
+CUST_00061,Customer 61,dubai,2025-06-01 21:09:38,Web,Premium
+CUST_00062,Customer 62,Dubai,2025-07-22 09:35:46,App,Regular
+CUST_00063,Customer 63,Sharjah,2025-06-14 19:45:28,App,Regular
+CUST_00064,Customer 64,Dubai,2025-03-30 16:12:04,Web,Premium
+CUST_00065,Customer 65,Dubai,2025-12-16 05:17:51,App,Premium
+CUST_00066,Customer 66,Abu Dhabi,2025-11-19 01:46:51,Web,Regular
+CUST_00067,Customer 67,Dubai,2025-10-17 03:37:28,Call Center,Regular
+CUST_00068,Customer 68,Sharjah,2025-06-18 10:23:56,Web,Regular
+CUST_00069,Customer 69,Dubai,2025-08-26 16:07:04,App,Premium
+CUST_00070,Customer 70,Ras Al Khaimah,2025-11-18 15:37:04,Web,Regular
+CUST_00071,Customer 71,Sharjah,2025-05-23 15:39:29,App,Regular
+CUST_00072,Customer 72,Dubai,2025-03-07 12:54:12,Web,Premium
+CUST_00073,Customer 73,Dubai,2025-11-26 10:38:59,Web,Regular
+CUST_00074,Customer 74,Sharjah,2025-07-18 05:37:02,Web,Regular
+CUST_00075,Customer 75,Sharjah,2025-02-21 01:16:25,App,Regular
+CUST_00076,Customer 76,Sharjah,2025-05-28 07:06:32,App,Regular
+CUST_00077,Customer 77,Sharjah,2025-12-11 07:31:18,App,Regular
+CUST_00078,Customer 78,Dubai,2025-07-25 03:39:01,Web,Regular
+CUST_00079,Customer 79,Dubai,2025-11-24 20:54:14,App,Regular
+CUST_00080,Customer 80,Dubai,2025-10-31 09:36:32,App,Regular
+CUST_00081,Customer 81,Ajman,2025-07-19 13:41:43,Web,Regular
+CUST_00082,Customer 82,Abu Dhabi,2025-09-29 03:08:44,Web,VIP
+CUST_00083,Customer 83,Dubai,2025-02-15 02:30:20,App,VIP
+CUST_00084,Customer 84,Dubai,2025-02-11 00:18:41,Web,Regular
+CUST_00085,Customer 85,Dubai,2025-10-06 09:55:39,App,Regular
+CUST_00086,Customer 86,Dubai,2025-07-25 00:54:17,App,Regular
+CUST_00087,Customer 87,Sharjah,2025-06-26 03:44:42,App,Premium
+CUST_00088,Customer 88,Abu Dhabi,2025-09-17 22:05:28,App,Regular
+CUST_00089,Customer 89,Ajman,2025-05-15 02:38:30,App,VIP
+CUST_00090,Customer 90,Abu Dhabi,2025-08-26 03:21:57,Web,Regular
+CUST_00091,Customer 91,Dubai,2025-04-11 14:44:00,App,VIP
+CUST_00092,Customer 92,Sharjah,2025-08-14 11:44:16,App,Premium
+CUST_00093,Customer 93,Sharjah,2025-06-28 05:40:49,Call Center,Premium
+CUST_00094,Customer 94,Abu Dhabi,2025-07-01 23:22:45,App,Regular
+CUST_00095,Customer 95,Sharjah,2025-09-18 06:46:29,App,Regular
+CUST_00096,Customer 96,Abu Dhabi,2025-06-10 12:26:09,Web,Regular
+CUST_00097,Customer 97,Abu Dhabi,2025-01-19 23:18:24,Call Center,Regular
+CUST_00098,Customer 98,Abu Dhabi,2025-12-05 19:40:57,Web,Regular
+CUST_00099,Customer 99,Dubai,2025-03-30 02:32:52,Web,Regular
+CUST_00100,Customer 100,Dubai,2025-01-20 15:13:08,Web,Regular
+CUST_00101,Customer 101,Dubai,2025-01-23 04:05:21,App,Regular
+CUST_00102,Customer 102,Abu Dhabi,2025-01-10 05:37:25,Web,Regular
+CUST_00103,Customer 103,Dubai,2025-11-09 11:09:35,App,Regular
+CUST_00104,Customer 104,Abu Dhabi,2025-09-17 03:42:48,Call Center,VIP
+CUST_00105,Customer 105,Ajman,2025-09-07 13:18:57,App,Regular
+CUST_00106,Customer 106,Dubai,2025-07-12 12:30:01,Web,Regular
+CUST_00107,Customer 107,Abu Dhabi,2025-03-12 12:13:21,App,Regular
+CUST_00108,Customer 108,Sharjah,2025-05-13 20:07:43,Web,Premium
+CUST_00109,Customer 109,Dubai,2025-10-05 04:17:51,App,Regular
+CUST_00110,Customer 110,Dubai,2025-12-19 19:46:58,Web,Regular
+CUST_00111,Customer 111,Dubai,2025-05-10 01:31:40,Web,Regular
+CUST_00112,Customer 112,Dubai,2025-12-22 18:06:30,App,Regular
+CUST_00113,Customer 113,Ajman,2025-11-16 14:57:25,Web,Regular
+CUST_00114,Customer 114,Sharjah,2025-03-20 19:28:11,Web,VIP
+CUST_00115,Customer 115,Abu Dhabi,2025-10-15 08:23:10,Web,VIP
+CUST_00116,Customer 116,Ajman,2025-08-25 03:33:59,App,Regular
+CUST_00117,Customer 117,Sharjah,2025-05-11 07:17:57,App,Regular
+CUST_00118,Customer 118,Dubai,2025-03-30 07:24:43,App,Regular
+CUST_00119,Customer 119,Ajman,2025-08-11 06:22:50,App,Regular
+CUST_00120,Customer 120,Abu Dhabi,2025-11-03 23:19:37,Call Center,Regular
+CUST_00121,Customer 121,Sharjah,2025-03-19 12:45:22,App,Regular
+CUST_00122,Customer 122,Ajman,2025-09-13 14:33:35,Web,VIP
+CUST_00123,Customer 123,Dubai,2025-09-05 22:23:46,App,VIP
+CUST_00124,Customer 124,Dubai,2025-09-10 22:52:46,App,Regular
+CUST_00125,Customer 125,Dubai,2025-09-12 22:52:32,Web,Regular
+CUST_00126,Customer 126,Abu Dhabi,2025-10-31 19:27:59,Web,Regular
+CUST_00127,Customer 127,Sharjah,2025-07-13 21:16:15,App,Regular
+CUST_00128,Customer 128,Ajman,2025-02-13 04:22:30,App,Regular
+CUST_00129,Customer 129,Dubai,2025-09-06 23:26:12,App,Regular
+CUST_00130,Customer 130,Abu Dhabi,2025-02-05 00:08:51,App,Premium
+CUST_00131,Customer 131,Abu Dhabi,2025-10-18 14:05:13,App,Premium
+CUST_00132,Customer 132,Dubai,2025-04-17 21:32:46,App,Regular
+CUST_00133,Customer 133,Dubai,2025-02-03 10:45:23,App,Regular
+CUST_00134,Customer 134,Dubai,2025-12-05 14:51:25,Web,Regular
+CUST_00135,Customer 135,Ajman,2025-07-27 04:39:15,App,Regular
+CUST_00136,Customer 136,dubai,2025-07-09 22:53:09,App,Regular
+CUST_00137,Customer 137,Abu Dhabi,2025-04-29 08:40:46,App,Regular
+CUST_00138,Customer 138,Sharjah,2025-04-01 07:19:19,Web,Regular
+CUST_00139,Customer 139,Dubai,2025-03-07 07:48:55,Web,Regular
+CUST_00140,Customer 140,Ras Al Khaimah,2025-05-24 16:24:52,App,VIP
+CUST_00141,Customer 141,Ras Al Khaimah,2025-06-20 23:44:14,Web,Regular
+CUST_00142,Customer 142,Dubai,2025-08-19 18:22:13,App,Regular
+CUST_00143,Customer 143,Abu Dhabi,2025-09-27 22:25:55,App,Regular
+CUST_00144,Customer 144,Dubai,2025-06-21 13:32:11,App,Regular
+CUST_00145,Customer 145,Dubai,2025-10-04 01:49:01,App,Regular
+CUST_00146,Customer 146,Dubai,2025-08-11 18:42:34,Web,VIP
+CUST_00147,Customer 147,Abu Dhabi,2025-03-10 21:19:56,Web,Premium
+CUST_00148,Customer 148,Abu Dhabi,2025-10-25 14:59:52,App,Regular
+CUST_00149,Customer 149,Dubai,2025-10-04 03:29:43,Web,Regular
+CUST_00150,Customer 150,Dubai,2025-02-03 13:18:49,Web,Regular
+CUST_00151,Customer 151,Ajman,2025-02-09 06:20:11,App,Regular
+CUST_00152,Customer 152,Dubai,2025-11-17 12:33:29,App,Premium
+CUST_00153,Customer 153,Dubai,2025-06-16 16:59:28,App,Regular
+CUST_00154,Customer 154,Abu Dhabi,2025-07-08 09:58:22,App,Regular
+CUST_00155,Customer 155,Ras Al Khaimah,2025-10-11 07:07:45,App,Regular
+CUST_00156,Customer 156,Dubai,2025-05-18 10:42:32,App,Regular
+CUST_00157,Customer 157,Sharjah,2025-01-23 23:29:59,App,VIP
+CUST_00158,Customer 158,Sharjah,2025-06-01 19:50:21,Web,Regular
+CUST_00159,Customer 159,Dubai,2025-05-31 15:35:35,Web,Premium
+CUST_00160,Customer 160,Sharjah,2025-03-03 16:51:55,Call Center,Regular
+CUST_00161,Customer 161,Dubai,2025-01-09 03:19:05,App,Premium
+CUST_00162,Customer 162,Abu Dhabi,2025-10-10 14:53:39,Web,Regular
+CUST_00163,Customer 163,Abu Dhabi,2025-03-18 00:48:34,Web,Regular
+CUST_00164,Customer 164,Abu Dhabi,2025-07-17 10:14:29,Web,Premium
+CUST_00165,Customer 165,Dubai,2025-08-27 21:12:06,App,Regular
+CUST_00166,Customer 166,Sharjah,2025-01-30 08:26:27,Web,Regular
+CUST_00167,Customer 167,Dubai,2025-11-17 08:47:18,App,Regular
+CUST_00168,Customer 168,Dubai,2025-04-03 00:20:40,App,Premium
+CUST_00169,Customer 169,Dubai,2025-12-05 20:41:30,App,Regular
+CUST_00170,Customer 170,Abu Dhabi,2025-09-30 10:19:29,Web,VIP
+CUST_00171,Customer 171,Sharjah,2025-04-22 02:06:10,App,Regular
+CUST_00172,Customer 172,Dxb,2025-06-30 13:44:36,Call Center,Regular
+CUST_00173,Customer 173,Abu Dhabi,2025-06-28 22:22:42,Web,Premium
+CUST_00174,Customer 174,Dubai,2025-01-18 18:03:54,App,Regular
+CUST_00175,Customer 175,Abu Dhabi,2025-02-04 21:17:43,Call Center,Premium
+CUST_00176,Customer 176,Dubai,2025-12-19 18:01:47,App,VIP
+CUST_00177,Customer 177,Sharjah,2025-01-18 05:20:07,Call Center,Regular
+CUST_00178,Customer 178,Dubai,2025-10-23 16:36:39,App,Regular
+CUST_00179,Customer 179,Ajman,2025-09-14 22:38:51,App,Regular
+CUST_00180,Customer 180,Dubai,2025-07-11 11:56:11,Web,Premium
+CUST_00181,Customer 181,Dubai,2025-12-31 22:24:35,Web,Premium
+CUST_00182,Customer 182,Dubai,2025-06-02 08:08:04,Web,Regular
+CUST_00183,Customer 183,Ajman,2025-04-01 23:35:48,Call Center,Regular
+CUST_00184,Customer 184,Ajman,2025-02-24 15:45:58,Web,Regular
+CUST_00185,Customer 185,Dubai,2025-04-15 21:20:08,Web,Premium
+CUST_00186,Customer 186,Sharjah,2025-09-26 17:23:58,Web,Regular
+CUST_00187,Customer 187,Sharjah,2025-01-30 06:17:50,Web,Regular
+CUST_00188,Customer 188,Abu Dhabi,2025-02-24 01:55:59,App,Regular
+CUST_00189,Customer 189,Abu Dhabi,2025-11-14 19:28:45,Web,Premium
+CUST_00190,Customer 190,Dubai,2025-04-02 10:16:07,App,Regular
+CUST_00191,Customer 191,Dubai,2025-08-18 22:53:05,Web,Regular
+CUST_00192,Customer 192,Ajman,2025-03-29 17:55:53,Web,Regular
+CUST_00193,Customer 193,Ajman,2025-04-27 20:36:11,Web,Regular
+CUST_00194,Customer 194,Abu Dhabi,2025-02-02 03:51:47,Web,Premium
+CUST_00195,Customer 195,Dubai,2025-06-08 17:26:29,Web,VIP
+CUST_00196,Customer 196,Dubai,2025-07-31 17:25:31,App,Regular
+CUST_00197,Customer 197,Sharjah,2025-04-12 00:27:45,Web,Regular
+CUST_00198,Customer 198,Ajman,2025-08-03 20:22:30,App,Regular
+CUST_00199,Customer 199,Ajman,2025-07-26 17:15:59,App,Regular
+CUST_00200,Customer 200,Sharjah,2025-10-10 05:02:58,App,Premium
+CUST_00201,Customer 201,Abu Dhabi,2025-07-08 04:58:20,App,Regular
+CUST_00202,Customer 202,Dubai,2025-11-26 03:59:22,App,Regular
+CUST_00203,Customer 203,Dubai,2025-06-25 08:16:49,Web,Regular
+CUST_00204,Customer 204,Ajman,2025-08-30 04:43:22,App,Regular
+CUST_00205,Customer 205,Abu Dhabi,2025-12-15 22:22:31,App,Regular
+CUST_00206,Customer 206,Dubai,2025-12-20 12:17:41,App,Regular
+CUST_00207,Customer 207,Dubai,2025-01-08 07:13:36,App,Regular
+CUST_00208,Customer 208,Sharjah,2025-08-08 20:49:31,Web,Premium
+CUST_00209,Customer 209,Dubai,2025-12-03 05:11:28,App,Regular
+CUST_00210,Customer 210,Dubai,2025-04-20 01:29:26,App,Regular
+CUST_00211,Customer 211,Abu Dhabi,2025-08-17 13:15:43,App,VIP
+CUST_00212,Customer 212,Sharjah,2025-08-06 15:43:03,App,Regular
+CUST_00213,Customer 213,Sharjah,2025-06-20 06:15:00,App,Premium
+CUST_00214,Customer 214,Dubai,2025-11-01 21:03:27,App,Regular
+CUST_00215,Customer 215,Sharjah,2025-10-22 01:20:59,Web,Regular
+CUST_00216,Customer 216,Dubai,2025-01-07 05:33:35,Web,Regular
+CUST_00217,Customer 217,Dubai,2025-07-05 06:38:34,App,Regular
+CUST_00218,Customer 218,Sharjah,2025-02-05 21:47:16,Call Center,Regular
+CUST_00219,Customer 219,Abu Dhabi,2025-05-24 08:27:47,App,VIP
+CUST_00220,Customer 220,Sharjah,2025-03-30 09:58:53,App,Regular
+CUST_00221,Customer 221,Sharjah,2025-10-25 10:26:13,Call Center,Regular
+CUST_00222,Customer 222,Abu Dhabi,2025-12-08 22:38:37,App,Regular
+CUST_00223,Customer 223,Dubai,2025-09-26 09:46:29,Call Center,Regular
+CUST_00224,Customer 224,Dubai,2025-09-25 00:47:14,App,Regular
+CUST_00225,Customer 225,Dubai,2025-01-26 16:36:24,App,Regular
+CUST_00226,Customer 226,Dubai,2025-12-04 11:27:07,App,Premium
+CUST_00227,Customer 227,Ras Al Khaimah,2025-09-27 05:09:30,Web,VIP
+CUST_00228,Customer 228,Dubai,2025-09-19 19:55:25,Web,Regular
+CUST_00229,Customer 229,Ajman,2025-12-26 06:21:42,Web,Regular
+CUST_00230,Customer 230,Abu Dhabi,2025-11-07 15:53:51,App,VIP
+CUST_00231,Customer 231,Sharjah,2025-07-23 21:05:04,App,Premium
+CUST_00232,Customer 232,Abu Dhabi,2025-07-06 20:27:42,App,Regular
+CUST_00233,Customer 233,Abu Dhabi,2025-02-21 21:55:56,App,VIP
+CUST_00234,Customer 234,Abu Dhabi,2025-09-21 19:11:48,Call Center,Regular
+CUST_00235,Customer 235,Dubai,2025-07-14 18:10:28,App,VIP
+CUST_00236,Customer 236,Sharjah,2025-11-19 21:54:37,Web,Regular
+CUST_00237,Customer 237,Dubai,2025-04-06 09:36:12,Web,Regular
+CUST_00238,Customer 238,Dubai,2025-05-18 03:40:17,App,Premium
+CUST_00239,Customer 239,Abu Dhabi,2025-04-08 01:42:27,Web,Regular
+CUST_00240,Customer 240,Dubai,2025-09-04 02:46:51,App,Regular
+CUST_00241,Customer 241,Ajman,2025-12-14 09:07:49,App,Regular
+CUST_00242,Customer 242,Ras Al Khaimah,2025-06-13 01:33:45,App,VIP
+CUST_00243,Customer 243,Ajman,2025-10-10 02:35:10,Web,Premium
+CUST_00244,Customer 244,Dubai,2025-10-28 10:29:10,App,Premium
+CUST_00245,Customer 245,Dubai,2025-08-31 22:11:11,App,Regular
+CUST_00246,Customer 246,Ajman,2025-08-30 08:40:58,App,Premium
+CUST_00247,Customer 247,Abu Dhabi,2025-12-26 14:18:44,App,Regular
+CUST_00248,Customer 248,Ras Al Khaimah,2025-09-12 22:35:04,Web,Regular
+CUST_00249,Customer 249,Ras Al Khaimah,2025-12-22 14:15:30,Web,Premium
+CUST_00250,Customer 250,Ajman,2025-07-19 22:59:44,App,Regular
+CUST_00251,Customer 251,Dubai,2025-10-25 14:46:27,App,Regular
+CUST_00252,Customer 252,Dubai,2025-02-03 00:08:56,Web,Regular
+CUST_00253,Customer 253,Ajman,2025-05-15 12:44:03,App,Regular
+CUST_00254,Customer 254,Dubai,2025-11-29 11:27:21,Web,Premium
+CUST_00255,Customer 255,Dubai,2025-03-08 16:59:41,App,Regular
+CUST_00256,Customer 256,Abu Dhabi,2025-07-23 04:33:01,App,Premium
+CUST_00257,Customer 257,Ajman,2025-09-06 06:28:20,App,Regular
+CUST_00258,Customer 258,Sharjah,2025-08-26 00:08:02,App,Regular
+CUST_00259,Customer 259,Abu Dhabi,2025-02-17 21:19:23,Web,Regular
+CUST_00260,Customer 260,Dubai,2025-11-28 19:28:28,App,Premium
+CUST_00261,Customer 261,Abu Dhabi,2025-11-26 06:34:27,Web,Regular
+CUST_00262,Customer 262,Ras Al Khaimah,2025-07-29 01:46:13,Web,VIP
+CUST_00263,Customer 263,Dubai,2025-03-31 01:28:17,App,Regular
+CUST_00264,Customer 264,Abu Dhabi,2025-03-13 06:34:45,Web,Regular
+CUST_00265,Customer 265,Ajman,2025-12-23 19:51:46,App,Regular
+CUST_00266,Customer 266,Sharjah,2025-04-01 23:35:23,App,VIP
+CUST_00267,Customer 267,Sharjah,2025-04-05 23:15:55,Web,Premium
+CUST_00268,Customer 268,Sharjah,2025-07-06 11:01:12,App,Regular
+CUST_00269,Customer 269,Dubai,2025-05-04 04:39:38,Web,Regular
+CUST_00270,Customer 270,Dubai,2025-05-26 02:19:45,App,Regular
+CUST_00271,Customer 271,Sharjah,2025-03-10 20:03:58,Web,Premium
+CUST_00272,Customer 272,Sharjah,2025-06-13 14:02:19,Web,Regular
+CUST_00273,Customer 273,Ajman,2025-11-05 05:32:27,Web,Premium
+CUST_00274,Customer 274,Ajman,2025-03-22 14:06:00,Web,VIP
+CUST_00275,Customer 275,Abu Dhabi,2025-11-09 23:33:40,Web,Regular
+CUST_00276,Customer 276,Abu Dhabi,2025-08-06 20:19:35,Web,Premium
+CUST_00277,Customer 277,Sharjah,2025-04-14 15:50:57,Web,Regular
+CUST_00278,Customer 278,Abu Dhabi,2025-12-05 19:09:09,App,Regular
+CUST_00279,Customer 279,Sharjah,2025-01-10 04:13:54,App,Regular
+CUST_00280,Customer 280,Sharjah,2025-08-31 16:46:03,App,Regular
+CUST_00281,Customer 281,Ajman,2025-12-22 02:24:27,Call Center,Premium
+CUST_00282,Customer 282,Dubai,2025-04-13 07:00:45,App,Regular
+CUST_00283,Customer 283,Dubai,2025-04-07 18:47:53,App,Regular
+CUST_00284,Customer 284,Dubai,2025-04-20 23:57:35,App,Regular
+CUST_00285,Customer 285,Abu Dhabi,2025-02-26 12:20:36,Web,Regular
+CUST_00286,Customer 286,Dubai,2025-06-30 09:02:19,Web,Regular
+CUST_00287,Customer 287,Abu Dhabi,2025-10-12 15:27:51,App,Regular
+CUST_00288,Customer 288,Abu Dhabi,2025-03-06 17:43:53,App,Regular
+CUST_00289,Customer 289,Dubai,2025-12-12 09:05:01,Web,Premium
+CUST_00290,Customer 290,Abu Dhabi,2025-01-20 06:39:28,App,Premium
+CUST_00291,Customer 291,Dubai,2025-10-04 08:41:56,App,Regular
+CUST_00292,Customer 292,Dubai,2025-11-01 01:21:38,Web,Premium
+CUST_00293,Customer 293,Sharjah,2025-03-11 23:01:07,Web,Regular
+CUST_00294,Customer 294,Dubai,2025-12-14 02:42:41,App,Regular
+CUST_00295,Customer 295,Dubai,2025-07-31 08:32:40,Web,Regular
+CUST_00296,Customer 296,Abu Dhabi,2025-09-24 06:44:02,Web,Regular
+CUST_00297,Customer 297,Sharjah,2025-09-11 11:08:30,App,Regular
+CUST_00298,Customer 298,Dubai,2025-07-09 22:21:05,Call Center,Premium
+CUST_00299,Customer 299,Abu Dhabi,2025-11-30 00:26:33,Web,Regular
+CUST_00300,Customer 300,Dubai,2025-08-10 20:17:14,Web,Premium
+CUST_00301,Customer 301,Dubai,2025-05-18 17:15:36,Web,Regular
+CUST_00302,Customer 302,Abu Dhabi,2025-10-20 05:05:26,App,Premium
+CUST_00303,Customer 303,Abu Dhabi,2025-07-08 23:15:59,App,Regular
+CUST_00304,Customer 304,Abu Dhabi,2025-12-14 20:26:39,App,Regular
+CUST_00305,Customer 305,Sharjah,2025-02-13 09:17:09,App,Regular
+CUST_00306,Customer 306,Ras Al Khaimah,2025-07-06 15:15:28,App,Regular
+CUST_00307,Customer 307,Abu Dhabi,2025-10-04 21:44:36,Web,Regular
+CUST_00308,Customer 308,Dubai,2025-03-19 23:34:03,Web,Premium
+CUST_00309,Customer 309,Sharjah,2025-05-10 02:57:14,Web,Regular
+CUST_00310,Customer 310,Dubai,2025-05-10 09:14:54,Web,Premium
+CUST_00311,Customer 311,Abu Dhabi,2025-07-20 14:12:42,Web,Regular
+CUST_00312,Customer 312,Dubai,2025-03-11 02:19:14,App,Premium
+CUST_00313,Customer 313,Dubai,2025-03-07 20:53:39,App,Regular
+CUST_00314,Customer 314,Ras Al Khaimah,2025-09-05 13:28:28,App,Regular
+CUST_00315,Customer 315,Sharjah,2025-08-05 21:09:35,Web,VIP
+CUST_00316,Customer 316,Sharjah,2025-08-29 16:13:21,App,Regular
+CUST_00317,Customer 317,Abu Dhabi,2025-08-30 04:29:53,Web,Regular
+CUST_00318,Customer 318,Dubai,2025-05-04 06:40:34,App,Regular
+CUST_00319,Customer 319,Dubai,2025-11-30 01:28:07,Web,Regular
+CUST_00320,Customer 320,Dubai,2025-07-12 18:01:27,Web,Regular
+CUST_00321,Customer 321,Abu Dhabi,2025-12-24 23:43:23,Web,Premium
+CUST_00322,Customer 322,Sharjah,2025-04-12 12:35:58,Call Center,Regular
+CUST_00323,Customer 323,Sharjah,2025-06-02 10:49:10,Web,Regular
+CUST_00324,Customer 324,Dubai,2025-06-05 14:03:49,Call Center,Regular
+CUST_00325,Customer 325,Ras Al Khaimah,2025-07-30 12:40:40,Call Center,Regular
+CUST_00326,Customer 326,Sharjah,2025-12-10 06:17:55,Web,Regular
+CUST_00327,Customer 327,Abu Dhabi,2025-02-03 16:10:35,Web,Premium
+CUST_00328,Customer 328,Abu Dhabi,2025-02-27 20:40:39,App,Regular
+CUST_00329,Customer 329,Abu Dhabi,2025-05-01 05:39:02,App,Premium
+CUST_00330,Customer 330,Dubai,2025-10-21 05:42:46,Web,Regular
+CUST_00331,Customer 331,Dubai,2025-12-06 07:34:23,App,Regular
+CUST_00332,Customer 332,Sharjah,2025-04-26 04:36:14,App,Regular
+CUST_00333,Customer 333,Dubai,2025-08-12 20:12:50,Call Center,Regular
+CUST_00334,Customer 334,Dubai,2025-11-30 14:26:11,Web,Regular
+CUST_00335,Customer 335,Dubai,2025-12-18 13:03:53,Web,Regular
+CUST_00336,Customer 336,Dubai,2025-09-01 17:02:16,App,Premium
+CUST_00337,Customer 337,Ajman,2025-08-20 06:54:38,App,Regular
+CUST_00338,Customer 338,Sharjah,2025-02-03 23:28:37,App,Premium
+CUST_00339,Customer 339,Abu Dhabi,2025-02-22 20:24:46,App,Regular
+CUST_00340,Customer 340,Dubai,2025-03-29 20:23:26,App,VIP
+CUST_00341,Customer 341,Abu Dhabi,2025-10-29 12:44:04,App,Premium
+CUST_00342,Customer 342,Abu Dhabi,2025-04-10 09:44:02,Call Center,Regular
+CUST_00343,Customer 343,Dubai,2025-09-26 14:12:08,Web,Premium
+CUST_00344,Customer 344,Abu Dhabi,2025-12-21 12:30:44,App,Regular
+CUST_00345,Customer 345,Dubai,2025-04-16 05:18:44,App,Premium
+CUST_00346,Customer 346,Abu Dhabi,2025-08-26 21:29:17,App,Regular
+CUST_00347,Customer 347,Abu Dhabi,2025-03-16 09:29:23,App,Regular
+CUST_00348,Customer 348,Dubai,2025-02-13 00:10:53,Call Center,Premium
+CUST_00349,Customer 349,Dubai,2025-09-18 00:27:15,App,Regular
+CUST_00350,Customer 350,Abu Dhabi,2025-07-22 16:26:51,App,Regular
+CUST_00351,Customer 351,Abu Dhabi,2025-11-08 05:39:28,App,Premium
+CUST_00352,Customer 352,Ajman,2025-01-25 20:40:06,App,Regular
+CUST_00353,Customer 353,Sharjah,2025-05-18 15:23:52,Web,Regular
+CUST_00354,Customer 354,Dubai,2025-12-27 18:45:54,Web,Regular
+CUST_00355,Customer 355,Dubai,2025-08-11 01:01:47,Web,Regular
+CUST_00356,Customer 356,Abu Dhabi,2025-02-18 20:27:56,App,VIP
+CUST_00357,Customer 357,Dubai,2025-01-24 09:01:02,Web,Regular
+CUST_00358,Customer 358,Abu Dhabi,2025-05-07 00:01:21,Web,Regular
+CUST_00359,Customer 359,Ajman,2025-04-29 21:02:42,Web,Regular
+CUST_00360,Customer 360,Abu Dhabi,2025-02-19 23:27:28,App,Premium
+CUST_00361,Customer 361,Dubai,2025-12-19 22:07:01,App,Regular
+CUST_00362,Customer 362,Abu Dhabi,2025-12-01 13:24:10,Web,Regular
+CUST_00363,Customer 363,Abu Dhabi,2025-01-13 08:46:18,Web,VIP
+CUST_00364,Customer 364,Abu Dhabi,2025-10-16 23:45:26,App,Regular
+CUST_00365,Customer 365,Ajman,2025-09-10 11:23:38,App,Regular
+CUST_00366,Customer 366,Dubai,2025-03-25 06:08:26,App,Regular
+CUST_00367,Customer 367,Ras Al Khaimah,2025-12-15 07:57:21,Web,Regular
+CUST_00368,Customer 368,Ajman,2025-03-31 15:32:07,App,Regular
+CUST_00369,Customer 369,Dubai,2025-08-15 20:10:21,Call Center,Regular
+CUST_00370,Customer 370,DUBAI,2025-12-29 13:37:41,App,Premium
+CUST_00371,Customer 371,Dubai,2025-01-12 08:17:17,Call Center,Regular
+CUST_00372,Customer 372,Dubai,2025-09-18 22:14:59,Web,Premium
+CUST_00373,Customer 373,Dubai,2025-11-28 16:21:08,App,Regular
+CUST_00374,Customer 374,Sharjah,2025-07-14 07:41:49,Web,Premium
+CUST_00375,Customer 375,Dubai,2025-09-29 11:06:10,App,Premium
+CUST_00376,Customer 376,Dubai,2025-11-23 16:04:34,Call Center,Regular
+CUST_00377,Customer 377,Sharjah,2025-01-15 19:44:29,Web,Regular
+CUST_00378,Customer 378,Dubai,2025-10-03 09:06:06,App,Regular
+CUST_00379,Customer 379,Sharjah,2025-03-11 21:21:17,Web,Premium
+CUST_00380,Customer 380,Dubai,2025-05-08 15:38:34,Call Center,Premium
+CUST_00381,Customer 381,Dubai,2025-02-06 11:26:11,App,Regular
+CUST_00382,Customer 382,Sharjah,2025-05-02 01:35:44,Web,Regular
+CUST_00383,Customer 383,Abu Dhabi,2025-05-31 06:00:56,Web,Regular
+CUST_00384,Customer 384,Ajman,2025-10-05 20:30:15,Web,Premium
+CUST_00385,Customer 385,Sharjah,2025-07-08 19:01:33,App,Regular
+CUST_00386,Customer 386,Sharjah,2025-07-22 12:56:57,App,Regular
+CUST_00387,Customer 387,Dubai,2025-09-24 18:11:49,App,Regular
+CUST_00388,Customer 388,Dubai,2025-11-28 01:54:30,Web,Regular
+CUST_00389,Customer 389,Sharjah,2025-05-05 23:41:09,App,Premium
+CUST_00390,Customer 390,Sharjah,2025-12-06 23:52:15,Call Center,Regular
+CUST_00391,Customer 391,Ras Al Khaimah,2025-08-18 20:15:52,App,Regular
+CUST_00392,Customer 392,Abu Dhabi,2025-06-09 20:55:46,Web,Regular
+CUST_00393,Customer 393,Dubai,2025-07-23 03:35:09,App,Regular
+CUST_00394,Customer 394,Sharjah,2025-08-16 16:45:38,App,Regular
+CUST_00395,Customer 395,Dubai,2025-10-15 16:02:10,App,VIP
+CUST_00396,Customer 396,Ajman,2025-07-19 22:43:53,App,Premium
+CUST_00397,Customer 397,Ajman,2025-07-21 23:36:50,Web,Regular
+CUST_00398,Customer 398,Abu Dhabi,2025-01-14 21:36:08,Call Center,Regular
+CUST_00399,Customer 399,Sharjah,2025-06-28 03:35:55,Web,Premium
+CUST_00400,Customer 400,Sharjah,2025-05-02 09:18:11,Call Center,Regular
+CUST_00401,Customer 401,Dubai,2025-09-21 07:01:00,Web,Regular
+CUST_00402,Customer 402,Ajman,2025-04-07 02:24:06,Web,Premium
+CUST_00403,Customer 403,Abu Dhabi,2025-07-29 15:29:17,Web,Premium
+CUST_00404,Customer 404,Sharjah,2025-01-09 09:26:22,Web,VIP
+CUST_00405,Customer 405,Dubai,2025-08-15 13:29:44,App,VIP
+CUST_00406,Customer 406,Ajman,2025-01-07 03:52:26,Web,Premium
+CUST_00407,Customer 407,Dubai,2025-06-13 23:12:59,App,Regular
+CUST_00408,Customer 408,Dubai,2025-03-08 02:46:14,Web,Regular
+CUST_00409,Customer 409,Ajman,2025-03-15 21:09:12,Web,Regular
+CUST_00410,Customer 410,Dubai,2025-01-17 11:33:15,App,Regular
+CUST_00411,Customer 411,Dubai,2025-04-27 04:05:38,App,Regular
+CUST_00412,Customer 412,Ras Al Khaimah,2025-10-07 16:54:06,Call Center,Regular
+CUST_00413,Customer 413,Ras Al Khaimah,2025-08-17 04:09:23,Web,Regular
+CUST_00414,Customer 414,Abu Dhabi,2025-06-12 08:10:53,App,Regular
+CUST_00415,Customer 415,Abu Dhabi,2025-01-31 21:16:21,Web,Regular
+CUST_00416,Customer 416,Abu Dhabi,2025-06-05 02:23:48,Web,Regular
+CUST_00417,Customer 417,Dubai,2025-03-26 07:48:12,App,Regular
+CUST_00418,Customer 418,Dubai,2025-10-21 08:30:27,Call Center,Premium
+CUST_00419,Customer 419,Sharjah,2025-05-22 10:00:07,Web,Regular
+CUST_00420,Customer 420,Sharjah,2025-10-04 13:40:32,App,Regular
+CUST_00421,Customer 421,Sharjah,2025-12-21 00:10:48,Web,Premium
+CUST_00422,Customer 422,Sharjah,2025-08-20 05:55:11,Web,Regular
+CUST_00423,Customer 423,Dubai,2025-08-24 04:27:12,App,Regular
+CUST_00424,Customer 424,Abu Dhabi,2025-01-04 21:26:15,App,Regular
+CUST_00425,Customer 425,Dubai,2025-05-12 04:12:35,App,Regular
+CUST_00426,Customer 426,Abu Dhabi,2025-08-10 05:47:04,Web,VIP
+CUST_00427,Customer 427,Abu Dhabi,2025-08-01 21:24:29,Web,Regular
+CUST_00428,Customer 428,Ajman,2025-08-21 00:56:42,Web,Regular
+CUST_00429,Customer 429,Dubai,2025-07-18 06:44:04,Call Center,Regular
+CUST_00430,Customer 430,Dubai,2025-01-22 00:50:42,Web,Regular
+CUST_00431,Customer 431,DUBAI,2025-06-04 07:46:02,App,Regular
+CUST_00432,Customer 432,Sharjah,2025-07-06 02:45:33,App,Regular
+CUST_00433,Customer 433,Abu Dhabi,2025-02-22 23:50:53,App,Regular
+CUST_00434,Customer 434,Dubai,2025-09-12 10:47:04,App,Regular
+CUST_00435,Customer 435,Dubai,2025-03-08 00:35:15,Web,Regular
+CUST_00436,Customer 436,Sharjah,2025-04-12 23:40:42,Web,Regular
+CUST_00437,Customer 437,Dubai,2025-08-13 13:59:31,App,Regular
+CUST_00438,Customer 438,Sharjah,2025-04-25 07:46:35,Web,Premium
+CUST_00439,Customer 439,Sharjah,2025-02-07 20:45:59,Web,Regular
+CUST_00440,Customer 440,Dubai,2025-04-26 10:22:57,App,Regular
+CUST_00441,Customer 441,Dubai,2025-07-09 00:35:52,App,Regular
+CUST_00442,Customer 442,Ras Al Khaimah,2025-04-27 11:43:56,App,Regular
+CUST_00443,Customer 443,Dubai,2026-01-01 02:14:05,App,Premium
+CUST_00444,Customer 444,Dubai,2025-08-14 02:56:21,Call Center,Regular
+CUST_00445,Customer 445,Sharjah,2025-03-28 09:19:36,App,Premium
+CUST_00446,Customer 446,Ajman,2025-08-23 07:40:39,App,Regular
+CUST_00447,Customer 447,Ras Al Khaimah,2025-10-11 11:58:54,App,Premium
+CUST_00448,Customer 448,Sharjah,2025-03-03 11:14:06,Call Center,Regular
+CUST_00449,Customer 449,Dubai,2025-02-14 23:07:34,App,Premium
+CUST_00450,Customer 450,Dubai,2025-01-07 07:21:51,App,Regular
+CUST_00451,Customer 451,Sharjah,2025-09-16 06:29:48,App,Regular
+CUST_00452,Customer 452,Abu Dhabi,2025-04-24 02:13:17,App,Regular
+CUST_00453,Customer 453,Abu Dhabi,2025-10-05 04:34:56,App,Regular
+CUST_00454,Customer 454,Ajman,2025-07-23 20:18:55,Web,VIP
+CUST_00455,Customer 455,Dubai,2025-06-23 00:32:29,App,Regular
+CUST_00456,Customer 456,Abu Dhabi,2026-01-02 06:17:47,App,Regular
+CUST_00457,Customer 457,Dubai,2025-08-24 17:38:42,Web,Regular
+CUST_00458,Customer 458,Abu Dhabi,2025-04-20 23:02:34,App,Regular
+CUST_00459,Customer 459,dubai,2025-06-14 13:25:19,App,Regular
+CUST_00460,Customer 460,Dubai,2025-01-08 21:19:41,App,Regular
+CUST_00461,Customer 461,Dubai,2025-07-28 11:34:09,Call Center,Regular
+CUST_00462,Customer 462,Abu Dhabi,2025-06-03 23:05:56,App,VIP
+CUST_00463,Customer 463,Sharjah,2025-10-20 08:21:18,Web,Regular
+CUST_00464,Customer 464,Abu Dhabi,2025-05-12 00:11:00,Web,Regular
+CUST_00465,Customer 465,Ras Al Khaimah,2025-03-01 17:09:24,App,Premium
+CUST_00466,Customer 466,Dubai,2025-04-28 16:39:11,Call Center,Regular
+CUST_00467,Customer 467,Dubai,2025-06-14 11:37:55,App,Regular
+CUST_00468,Customer 468,Ajman,2025-03-18 08:05:56,App,Regular
+CUST_00469,Customer 469,Dubai,2025-09-20 21:50:58,Web,Regular
+CUST_00470,Customer 470,Ras Al Khaimah,2025-07-21 19:44:43,Web,Regular
+CUST_00471,Customer 471,Dubai,2025-10-07 06:56:32,Web,Premium
+CUST_00472,Customer 472,Ras Al Khaimah,2025-06-11 14:43:00,App,Regular
+CUST_00473,Customer 473,Dubai,2025-01-09 07:59:56,App,Regular
+CUST_00474,Customer 474,Ajman,2025-04-03 14:10:16,Web,Premium
+CUST_00475,Customer 475,Abu Dhabi,2025-06-20 20:42:36,App,VIP
+CUST_00476,Customer 476,Ras Al Khaimah,2025-03-14 09:06:16,App,Regular
+CUST_00477,Customer 477,Dubai,2025-09-16 09:34:59,App,Regular
+CUST_00478,Customer 478,Abu Dhabi,2025-03-12 19:18:58,App,Regular
+CUST_00479,Customer 479,Ras Al Khaimah,2025-03-02 18:05:04,Web,VIP
+CUST_00480,Customer 480,Abu Dhabi,2025-04-22 17:03:29,App,Premium
+CUST_00481,Customer 481,Abu Dhabi,2025-07-20 19:00:39,Call Center,Regular
+CUST_00482,Customer 482,Sharjah,2025-05-18 04:36:47,App,Regular
+CUST_00483,Customer 483,Abu Dhabi,2025-03-17 13:40:16,Web,Regular
+CUST_00484,Customer 484,Abu Dhabi,2025-03-29 17:29:43,App,Premium
+CUST_00485,Customer 485,Abu Dhabi,2025-04-04 12:57:16,App,Regular
+CUST_00486,Customer 486,Ajman,2025-12-15 12:13:10,App,Regular
+CUST_00487,Customer 487,Dubai,2025-02-09 18:45:02,App,VIP
+CUST_00488,Customer 488,Dubai,2025-07-25 22:05:27,App,Regular
+CUST_00489,Customer 489,Ras Al Khaimah,2025-08-13 00:58:51,Call Center,Regular
+CUST_00490,Customer 490,Ajman,2025-08-12 01:07:01,Web,Regular
+CUST_00491,Customer 491,Abu Dhabi,2025-09-05 00:01:15,App,Regular
+CUST_00492,Customer 492,Abu Dhabi,2025-06-26 18:34:21,App,Regular
+CUST_00493,Customer 493,Dubai,2025-01-25 23:30:54,App,Regular
+CUST_00494,Customer 494,Dubai,2025-08-26 04:46:06,Web,Regular
+CUST_00495,Customer 495,Abu Dhabi,2025-01-21 22:36:24,Web,Premium
+CUST_00496,Customer 496,Dubai,2025-09-03 11:54:58,Call Center,Regular
+CUST_00497,Customer 497,Abu Dhabi,2025-04-08 08:45:13,App,Regular
+CUST_00498,Customer 498,Dubai,2025-02-10 21:18:43,App,Regular
+CUST_00499,Customer 499,Ras Al Khaimah,2025-10-23 07:08:12,App,Premium
+CUST_00500,Customer 500,Ras Al Khaimah,2025-11-24 01:57:41,Web,Premium
+CUST_00501,Customer 501,Sharjah,2025-10-05 18:03:19,Web,Regular
+CUST_00502,Customer 502,Abu Dhabi,2025-05-22 23:32:36,Web,Regular
+CUST_00503,Customer 503,Dubai,2025-11-13 13:12:18,Web,Regular
+CUST_00504,Customer 504,Sharjah,2025-10-17 07:32:35,App,Regular
+CUST_00505,Customer 505,Sharjah,2026-01-02 22:37:16,Web,Regular
+CUST_00506,Customer 506,dubai,2025-12-07 16:26:26,App,Premium
+CUST_00507,Customer 507,Ajman,2025-06-05 00:53:23,Web,Premium
+CUST_00508,Customer 508,Sharjah,2025-08-18 05:59:18,App,Regular
+CUST_00509,Customer 509,Ajman,2025-08-18 05:53:10,App,Premium
+CUST_00510,Customer 510,Sharjah,2025-12-02 17:35:23,Call Center,VIP
+CUST_00511,Customer 511,Abu Dhabi,2025-05-16 08:15:23,Web,Regular
+CUST_00512,Customer 512,Abu Dhabi,2025-03-29 10:46:45,Web,Regular
+CUST_00513,Customer 513,Ajman,2025-10-04 10:09:15,App,VIP
+CUST_00514,Customer 514,Ajman,2025-06-16 15:35:08,Web,Regular
+CUST_00515,Customer 515,Dubai,2025-04-14 05:25:22,App,VIP
+CUST_00516,Customer 516,Dubai,2025-07-11 05:47:01,Web,VIP
+CUST_00517,Customer 517,Dubai,2025-09-02 17:56:59,App,Regular
+CUST_00518,Customer 518,Sharjah,2025-09-20 09:58:25,Call Center,Premium
+CUST_00519,Customer 519,Ras Al Khaimah,2025-10-26 11:11:19,Call Center,Premium
+CUST_00520,Customer 520,Dubai,2025-12-13 01:17:21,Web,Regular
+CUST_00521,Customer 521,Abu Dhabi,2025-07-29 03:43:22,App,Regular
+CUST_00522,Customer 522,Dubai,2025-03-14 21:55:02,App,Regular
+CUST_00523,Customer 523,Ras Al Khaimah,2025-12-31 18:46:00,Web,Regular
+CUST_00524,Customer 524,Sharjah,2025-11-11 11:41:52,App,Regular
+CUST_00525,Customer 525,Sharjah,2025-06-18 17:32:55,Web,Regular
+CUST_00526,Customer 526,Abu Dhabi,2025-03-09 04:51:34,App,Regular
+CUST_00527,Customer 527,Abu Dhabi,2025-02-08 21:16:21,App,Regular
+CUST_00528,Customer 528,Dubai,2025-02-03 19:20:37,Call Center,Premium
+CUST_00529,Customer 529,Dubai,2025-02-15 12:04:37,Web,VIP
+CUST_00530,Customer 530,Ajman,2025-08-10 07:22:00,Web,VIP
+CUST_00531,Customer 531,Sharjah,2025-05-29 04:55:45,Web,Regular
+CUST_00532,Customer 532,Ras Al Khaimah,2025-05-07 04:29:04,App,Premium
+CUST_00533,Customer 533,Ras Al Khaimah,2025-02-07 23:16:12,Web,Premium
+CUST_00534,Customer 534,Abu Dhabi,2025-07-09 01:59:39,App,Regular
+CUST_00535,Customer 535,Sharjah,2025-05-08 17:33:57,Call Center,Regular
+CUST_00536,Customer 536,Ajman,2025-11-27 09:41:45,Web,Regular
+CUST_00537,Customer 537,Sharjah,2025-03-01 04:20:42,App,VIP
+CUST_00538,Customer 538,Dubai,2025-12-28 11:46:15,Web,Regular
+CUST_00539,Customer 539,Abu Dhabi,2025-08-14 18:49:54,Web,Regular
+CUST_00540,Customer 540,Dubai,2025-06-20 20:41:31,App,Regular
+CUST_00541,Customer 541,Ras Al Khaimah,2025-02-17 07:55:21,Call Center,Regular
+CUST_00542,Customer 542,Abu Dhabi,2025-05-22 07:52:32,App,Regular
+CUST_00543,Customer 543,Dubai,2025-09-17 03:32:08,App,Regular
+CUST_00544,Customer 544,Sharjah,2025-06-13 04:00:28,App,Regular
+CUST_00545,Customer 545,Abu Dhabi,2025-08-01 20:15:40,App,Premium
+CUST_00546,Customer 546,Dubai,2025-10-03 08:10:24,Web,Regular
+CUST_00547,Customer 547,Dubai,2025-09-26 01:33:22,Web,Regular
+CUST_00548,Customer 548,Sharjah,2025-02-12 00:47:35,Web,Regular
+CUST_00549,Customer 549,Abu Dhabi,2025-02-22 09:36:13,Web,Regular
+CUST_00550,Customer 550,Sharjah,2025-03-14 20:18:42,App,Regular
+CUST_00551,Customer 551,Abu Dhabi,2025-04-21 03:46:55,App,Regular
+CUST_00552,Customer 552,Ajman,2025-12-30 04:28:28,App,Premium
+CUST_00553,Customer 553,Abu Dhabi,2025-10-06 07:35:47,App,Premium
+CUST_00554,Customer 554,Abu Dhabi,2025-07-15 06:12:07,Web,Premium
+CUST_00555,Customer 555,Ajman,2025-09-06 01:38:56,App,Regular
+CUST_00556,Customer 556,Abu Dhabi,2025-02-20 02:33:48,App,Regular
+CUST_00557,Customer 557,Dubai,2025-10-17 04:57:32,App,VIP
+CUST_00558,Customer 558,Dubai,2025-10-04 16:40:05,Call Center,Regular
+CUST_00559,Customer 559,Sharjah,2025-05-11 22:18:24,Call Center,Regular
+CUST_00560,Customer 560,Abu Dhabi,2025-05-14 07:59:44,Web,Regular
+CUST_00561,Customer 561,Sharjah,2025-01-19 20:21:17,Call Center,Regular
+CUST_00562,Customer 562,Dubai,2025-09-19 02:23:03,Web,Regular
+CUST_00563,Customer 563,Dubai,2025-10-02 23:35:06,Web,VIP
+CUST_00564,Customer 564,Dubai,2025-01-12 16:19:31,App,Regular
+CUST_00565,Customer 565,Dubai,2025-11-21 06:58:03,Web,Regular
+CUST_00566,Customer 566,Abu Dhabi,2025-07-04 20:11:12,Web,VIP
+CUST_00567,Customer 567,Dubai,2025-05-29 07:27:21,Web,VIP
+CUST_00568,Customer 568,Abu Dhabi,2025-04-09 04:01:42,Web,Regular
+CUST_00569,Customer 569,Ajman,2025-10-14 21:06:28,App,Regular
+CUST_00570,Customer 570,Dubai,2025-02-24 14:57:56,Web,Premium
+CUST_00571,Customer 571,Abu Dhabi,2025-03-31 07:18:08,Call Center,Premium
+CUST_00572,Customer 572,Sharjah,2025-09-02 08:30:53,App,Regular
+CUST_00573,Customer 573,Dubai,2025-11-06 19:18:01,Web,Premium
+CUST_00574,Customer 574,Abu Dhabi,2025-08-12 00:48:42,App,Regular
+CUST_00575,Customer 575,Ajman,2025-09-25 17:17:41,Web,Regular
+CUST_00576,Customer 576,Ajman,2025-04-16 17:06:05,Web,Regular
+CUST_00577,Customer 577,DUBAI,2025-08-09 22:59:52,App,Regular
+CUST_00578,Customer 578,Ajman,2025-11-17 15:36:40,Web,Premium
+CUST_00579,Customer 579,Abu Dhabi,2025-07-30 21:32:07,App,Regular
+CUST_00580,Customer 580,Dubai,2025-03-02 10:17:08,Web,Regular
+CUST_00581,Customer 581,Abu Dhabi,2025-06-17 15:43:44,App,Regular
+CUST_00582,Customer 582,Ras Al Khaimah,2025-10-14 16:19:28,Web,Regular
+CUST_00583,Customer 583,Abu Dhabi,2025-08-13 21:02:15,App,Regular
+CUST_00584,Customer 584,Dubai,2025-01-21 08:55:48,Web,Regular
+CUST_00585,Customer 585,Abu Dhabi,2025-03-18 05:31:30,App,Regular
+CUST_00586,Customer 586,Dubai,2025-09-02 17:24:10,Web,Premium
+CUST_00587,Customer 587,Dubai,2025-08-14 01:24:06,Call Center,Regular
+CUST_00588,Customer 588,Dubai,2025-12-19 17:06:48,Call Center,Regular
+CUST_00589,Customer 589,Dubai,2025-11-09 17:32:22,Web,Premium
+CUST_00590,Customer 590,Dubai,2025-03-12 13:26:36,Web,Regular
+CUST_00591,Customer 591,Dubai,2025-06-29 05:35:59,App,Regular
+CUST_00592,Customer 592,Abu Dhabi,2025-12-15 07:13:14,App,VIP
+CUST_00593,Customer 593,Dubai,2025-10-18 21:00:29,App,Regular
+CUST_00594,Customer 594,Dubai,2025-02-04 06:49:54,Web,Regular
+CUST_00595,Customer 595,Ajman,2025-09-23 16:40:42,Call Center,Regular
+CUST_00596,Customer 596,Abu Dhabi,2025-11-22 13:49:00,App,Regular
+CUST_00597,Customer 597,Sharjah,2025-03-09 07:50:05,Call Center,VIP
+CUST_00598,Customer 598,Dubai,2025-03-01 17:47:24,Web,Regular
+CUST_00599,Customer 599,Dubai,2025-07-19 09:48:48,Web,Premium
+CUST_00600,Customer 600,Dubai,2025-12-20 22:43:51,App,Premium
+CUST_00601,Customer 601,Dubai,2025-06-16 22:26:26,App,Regular
+CUST_00602,Customer 602,Dubai,2025-08-29 04:06:35,Web,Regular
+CUST_00603,Customer 603,Dubai,2025-12-30 19:47:19,Web,Regular
+CUST_00604,Customer 604,Dubai,2025-03-12 15:44:07,App,Regular
+CUST_00605,Customer 605,Dubai,2025-12-12 00:45:48,Web,Regular
+CUST_00606,Customer 606,Abu Dhabi,2025-06-06 20:39:16,Web,VIP
+CUST_00607,Customer 607,Dubai,2025-01-21 22:23:40,Web,VIP
+CUST_00608,Customer 608,Dubai,2025-11-15 07:08:59,Call Center,Regular
+CUST_00609,Customer 609,Abu Dhabi,2025-05-19 20:25:32,App,Regular
+CUST_00610,Customer 610,Sharjah,2025-08-24 21:41:03,App,Premium
+CUST_00611,Customer 611,Dubai,2025-06-25 21:16:28,Web,Regular
+CUST_00612,Customer 612,Sharjah,2025-04-10 05:08:54,App,Premium
+CUST_00613,Customer 613,Abu Dhabi,2025-02-18 03:26:19,App,Regular
+CUST_00614,Customer 614,Dubai,2025-02-17 00:46:49,App,Regular
+CUST_00615,Customer 615,Ajman,2025-05-15 09:45:40,App,Premium
+CUST_00616,Customer 616,Ajman,2025-03-22 19:14:15,App,Regular
+CUST_00617,Customer 617,Dubai,2025-06-27 06:13:44,App,VIP
+CUST_00618,Customer 618,Dubai,2025-07-01 09:41:46,App,VIP
+CUST_00619,Customer 619,Sharjah,2025-04-18 13:59:09,App,Regular
+CUST_00620,Customer 620,Sharjah,2025-08-03 18:49:58,Web,Regular
+CUST_00621,Customer 621,Dubai,2025-11-29 19:25:17,Web,VIP
+CUST_00622,Customer 622,Dubai,2025-03-17 16:54:06,Web,VIP
+CUST_00623,Customer 623,Dubai,2025-09-01 11:00:38,App,Regular
+CUST_00624,Customer 624,Abu Dhabi,2025-03-19 09:04:48,App,Premium
+CUST_00625,Customer 625,Abu Dhabi,2025-04-25 00:00:46,Web,Regular
+CUST_00626,Customer 626,dubai,2025-08-11 05:36:19,Web,Regular
+CUST_00627,Customer 627,Abu Dhabi,2025-12-13 02:54:09,App,Premium
+CUST_00628,Customer 628,Sharjah,2025-12-02 18:31:45,App,Regular
+CUST_00629,Customer 629,Dubai,2025-09-15 03:36:33,Call Center,VIP
+CUST_00630,Customer 630,Dubai,2025-03-06 02:58:11,App,Regular
+CUST_00631,Customer 631,Sharjah,2025-02-24 00:31:25,App,Regular
+CUST_00632,Customer 632,Ajman,2025-06-25 23:39:12,Web,Regular
+CUST_00633,Customer 633,Abu Dhabi,2025-06-07 16:10:38,App,Regular
+CUST_00634,Customer 634,Abu Dhabi,2025-11-18 20:48:35,App,Regular
+CUST_00635,Customer 635,Dubai,2025-04-06 17:39:29,App,Regular
+CUST_00636,Customer 636,Abu Dhabi,2025-11-15 12:36:52,Web,Regular
+CUST_00637,Customer 637,Abu Dhabi,2025-07-13 18:18:58,App,Regular
+CUST_00638,Customer 638,Dubai,2025-05-11 19:56:30,App,Regular
+CUST_00639,Customer 639,Dubai,2025-09-03 20:22:51,App,Premium
+CUST_00640,Customer 640,Dubai,2025-05-18 15:32:55,Web,Regular
+CUST_00641,Customer 641,Dubai,2025-03-03 13:27:47,App,Regular
+CUST_00642,Customer 642,Dubai,2025-04-07 15:25:36,Call Center,Regular
+CUST_00643,Customer 643,Dubai,2025-02-07 13:21:36,App,Regular
+CUST_00644,Customer 644,Dubai,2025-10-19 10:19:55,Call Center,Regular
+CUST_00645,Customer 645,Dubai,2025-04-16 03:43:53,Call Center,Regular
+CUST_00646,Customer 646,Ajman,2025-02-11 04:58:26,App,Regular
+CUST_00647,Customer 647,Abu Dhabi,2025-06-12 12:14:06,App,Premium
+CUST_00648,Customer 648,Sharjah,2025-08-02 01:28:06,App,Premium
+CUST_00649,Customer 649,Sharjah,2025-11-19 09:42:25,App,Regular
+CUST_00650,Customer 650,Abu Dhabi,2025-08-16 04:49:02,Web,Regular
+CUST_00651,Customer 651,Dubai,2025-10-02 23:22:04,App,Regular
+CUST_00652,Customer 652,Abu Dhabi,2025-12-07 18:41:44,App,Regular
+CUST_00653,Customer 653,Abu Dhabi,2025-10-20 13:36:09,App,Regular
+CUST_00654,Customer 654,Sharjah,2025-05-10 12:17:05,Call Center,Regular
+CUST_00655,Customer 655,Abu Dhabi,2025-09-20 19:32:02,App,Regular
+CUST_00656,Customer 656,Dubai,2025-09-06 16:31:08,App,Regular
+CUST_00657,Customer 657,Dubai,2025-04-29 06:17:45,App,Regular
+CUST_00658,Customer 658,Dubai,2025-04-21 01:21:17,Call Center,Regular
+CUST_00659,Customer 659,Abu Dhabi,2025-06-16 05:25:37,Web,Regular
+CUST_00660,Customer 660,Abu Dhabi,2025-11-01 04:27:30,App,Regular
+CUST_00661,Customer 661,Dubai,2025-12-19 19:24:37,App,Regular
+CUST_00662,Customer 662,Ras Al Khaimah,2025-11-16 06:52:56,App,Regular
+CUST_00663,Customer 663,Abu Dhabi,2025-06-11 23:55:36,App,Regular
+CUST_00664,Customer 664,Dubai,2025-10-23 11:57:26,Call Center,Regular
+CUST_00665,Customer 665,Dubai,2025-11-23 16:02:35,Web,Regular
+CUST_00666,Customer 666,Dubai,2025-09-20 15:20:51,App,Regular
+CUST_00667,Customer 667,Dubai,2025-09-12 18:17:41,Web,Regular
+CUST_00668,Customer 668,Dubai,2025-06-20 13:39:38,App,Regular
+CUST_00669,Customer 669,Dubai,2025-11-28 09:33:40,Web,Regular
+CUST_00670,Customer 670,Dubai,2025-07-22 15:02:25,Web,Regular
+CUST_00671,Customer 671,Dubai,2025-11-25 19:15:40,App,Regular
+CUST_00672,Customer 672,Ajman,2025-07-19 01:11:01,Web,Premium
+CUST_00673,Customer 673,Dubai,2025-02-17 09:04:02,App,Regular
+CUST_00674,Customer 674,Abu Dhabi,2025-05-19 02:03:59,App,Regular
+CUST_00675,Customer 675,Abu Dhabi,2025-12-12 09:58:53,App,Premium
+CUST_00676,Customer 676,Ras Al Khaimah,2025-03-20 04:01:43,App,Premium
+CUST_00677,Customer 677,Dubai,2025-07-16 13:51:12,Web,Regular
+CUST_00678,Customer 678,Dubai,2025-01-11 22:00:29,Call Center,Regular
+CUST_00679,Customer 679,Ras Al Khaimah,2025-03-06 18:35:55,Web,Regular
+CUST_00680,Customer 680,Ajman,2025-10-28 04:16:34,Web,Regular
+CUST_00681,Customer 681,Sharjah,2025-06-29 00:03:54,Web,Regular
+CUST_00682,Customer 682,Dubai,2025-03-25 19:17:20,App,Regular
+CUST_00683,Customer 683,Dubai,2025-11-11 13:16:38,App,Regular
+CUST_00684,Customer 684,Sharjah,2025-12-12 08:58:20,App,VIP
+CUST_00685,Customer 685,Ajman,2025-02-19 07:01:34,Web,VIP
+CUST_00686,Customer 686,Abu Dhabi,2025-08-24 11:22:01,Call Center,Regular
+CUST_00687,Customer 687,Abu Dhabi,2025-07-16 02:33:08,App,Regular
+CUST_00688,Customer 688,Dubai,2025-10-20 02:30:44,Web,Regular
+CUST_00689,Customer 689,Sharjah,2025-06-18 18:58:05,Web,Premium
+CUST_00690,Customer 690,Dubai,2025-07-19 14:22:40,Web,Regular
+CUST_00691,Customer 691,Dubai,2025-09-15 05:05:02,App,Regular
+CUST_00692,Customer 692,Abu Dhabi,2025-12-29 09:33:18,App,Regular
+CUST_00693,Customer 693,Abu Dhabi,2025-10-12 20:54:48,App,Regular
+CUST_00694,Customer 694,Dubai,2025-05-13 19:01:42,App,Regular
+CUST_00695,Customer 695,Dubai,2025-08-01 22:28:39,App,Premium
+CUST_00696,Customer 696,Abu Dhabi,2025-07-14 14:11:04,Web,Regular
+CUST_00697,Customer 697,Dubai,2025-09-03 19:29:41,App,Regular
+CUST_00698,Customer 698,Abu Dhabi,2025-04-06 04:20:43,Web,Regular
+CUST_00699,Customer 699,Dubai,2025-08-19 16:15:16,App,Regular
+CUST_00700,Customer 700,Abu Dhabi,2025-09-09 04:40:21,Web,Premium
+CUST_00701,Customer 701,Abu Dhabi,2025-01-17 20:32:42,App,VIP
+CUST_00702,Customer 702,Dubai,2025-01-16 02:36:01,Web,VIP
+CUST_00703,Customer 703,Dubai,2025-10-02 10:27:47,Call Center,Premium
+CUST_00704,Customer 704,Dubai,2025-02-27 06:21:22,App,Regular
+CUST_00705,Customer 705,Dubai,2026-01-01 23:47:56,App,Regular
+CUST_00706,Customer 706,Ras Al Khaimah,2025-04-10 14:53:42,Web,Regular
+CUST_00707,Customer 707,Dubai,2025-06-25 14:06:00,App,VIP
+CUST_00708,Customer 708,Sharjah,2025-03-25 19:53:24,App,Regular
+CUST_00709,Customer 709,Dubai,2025-05-01 16:31:33,App,Regular
+CUST_00710,Customer 710,Sharjah,2025-08-08 03:25:17,App,Premium
+CUST_00711,Customer 711,Sharjah,2025-02-28 00:43:39,Web,Regular
+CUST_00712,Customer 712,Abu Dhabi,2025-03-19 19:56:17,App,Regular
+CUST_00713,Customer 713,Abu Dhabi,2025-03-15 22:37:19,Web,Regular
+CUST_00714,Customer 714,Abu Dhabi,2025-04-18 21:10:26,Web,Regular
+CUST_00715,Customer 715,Dubai,2025-08-31 03:34:26,Web,Regular
+CUST_00716,Customer 716,Ajman,2025-10-29 06:05:15,Web,Premium
+CUST_00717,Customer 717,Sharjah,2025-03-01 17:40:59,Web,Regular
+CUST_00718,Customer 718,Ras Al Khaimah,2025-05-11 21:23:26,App,VIP
+CUST_00719,Customer 719,Dubai,2025-03-21 11:31:52,Web,Regular
+CUST_00720,Customer 720,Sharjah,2025-03-09 12:14:54,Web,Regular
+CUST_00721,Customer 721,Ajman,2025-09-15 16:43:02,Web,Premium
+CUST_00722,Customer 722,Dubai,2025-11-16 11:54:15,Web,Regular
+CUST_00723,Customer 723,Dubai,2025-12-09 23:52:42,App,Regular
+CUST_00724,Customer 724,Sharjah,2025-07-25 12:10:23,App,Premium
+CUST_00725,Customer 725,Abu Dhabi,2025-08-15 13:22:39,Web,Regular
+CUST_00726,Customer 726,Sharjah,2025-07-21 02:12:09,App,Regular
+CUST_00727,Customer 727,Dubai,2025-05-26 09:52:58,Web,Regular
+CUST_00728,Customer 728,Sharjah,2026-01-03 02:04:40,App,Regular
+CUST_00729,Customer 729,Dxb,2025-07-20 23:40:37,App,Regular
+CUST_00730,Customer 730,Dubai,2025-05-06 07:55:15,App,Regular
+CUST_00731,Customer 731,Dubai,2025-04-30 18:44:11,App,Premium
+CUST_00732,Customer 732,Sharjah,2025-02-17 23:43:28,App,VIP
+CUST_00733,Customer 733,Sharjah,2025-05-02 01:36:23,App,Regular
+CUST_00734,Customer 734,Abu Dhabi,2025-07-15 07:45:37,Call Center,Regular
+CUST_00735,Customer 735,Dubai,2025-05-23 01:47:35,Web,Regular
+CUST_00736,Customer 736,Ajman,2025-03-22 20:07:55,App,Regular
+CUST_00737,Customer 737,Dubai,2025-02-14 20:20:52,Web,Regular
+CUST_00738,Customer 738,Sharjah,2025-09-15 07:02:30,Web,Premium
+CUST_00739,Customer 739,Abu Dhabi,2025-04-11 21:16:51,Web,Premium
+CUST_00740,Customer 740,Dubai,2025-10-15 03:23:16,App,Regular
+CUST_00741,Customer 741,Abu Dhabi,2026-01-01 02:47:19,Web,Regular
+CUST_00742,Customer 742,Dubai,2025-07-26 12:42:40,Web,Regular
+CUST_00743,Customer 743,Sharjah,2025-04-19 18:09:04,App,Regular
+CUST_00744,Customer 744,Abu Dhabi,2025-03-11 05:03:42,App,Regular
+CUST_00745,Customer 745,Dubai,2025-10-30 08:49:23,Web,VIP
+CUST_00746,Customer 746,Ajman,2025-07-13 10:57:22,App,Regular
+CUST_00747,Customer 747,Dubai,2025-04-13 22:20:12,Web,Premium
+CUST_00748,Customer 748,Abu Dhabi,2025-03-25 06:01:45,App,Regular
+CUST_00749,Customer 749,Ajman,2025-09-19 08:43:39,Call Center,Regular
+CUST_00750,Customer 750,Abu Dhabi,2025-07-17 09:08:33,Web,Regular
+CUST_00751,Customer 751,Dubai,2025-07-26 07:20:59,App,Regular
+CUST_00752,Customer 752,Ajman,2025-12-03 13:48:18,App,Regular
+CUST_00753,Customer 753,Abu Dhabi,2025-08-23 23:32:58,Web,Regular
+CUST_00754,Customer 754,Dubai,2025-06-05 05:06:54,Web,Premium
+CUST_00755,Customer 755,Dubai,2025-03-14 13:32:14,Web,Regular
+CUST_00756,Customer 756,Sharjah,2025-05-16 02:50:02,App,Regular
+CUST_00757,Customer 757,Abu Dhabi,2025-06-20 23:10:53,App,Premium
+CUST_00758,Customer 758,Abu Dhabi,2025-04-25 07:02:34,App,Premium
+CUST_00759,Customer 759,Ajman,2025-11-24 14:35:28,Web,Premium
+CUST_00760,Customer 760,Sharjah,2025-09-21 18:17:09,App,Regular
+CUST_00761,Customer 761,Dubai,2025-06-21 11:49:19,App,VIP
+CUST_00762,Customer 762,Dubai,2025-08-01 14:46:28,Web,Regular
+CUST_00763,Customer 763,Dubai,2025-09-20 10:10:41,Call Center,Regular
+CUST_00764,Customer 764,Sharjah,2025-10-18 14:48:15,App,Regular
+CUST_00765,Customer 765,Dubai,2025-12-15 17:42:11,App,Regular
+CUST_00766,Customer 766,Abu Dhabi,2025-04-18 05:14:31,Web,Regular
+CUST_00767,Customer 767,Sharjah,2025-07-04 23:42:03,Web,Regular
+CUST_00768,Customer 768,Ajman,2025-09-09 14:21:25,App,Regular
+CUST_00769,Customer 769,Dubai,2025-02-16 13:50:56,Call Center,Regular
+CUST_00770,Customer 770,Sharjah,2025-07-06 18:19:10,Web,Regular
+CUST_00771,Customer 771,Dubai,2025-02-11 11:41:55,App,Premium
+CUST_00772,Customer 772,Sharjah,2025-06-16 21:45:20,App,VIP
+CUST_00773,Customer 773,Dubai,2025-06-15 19:32:01,App,Regular
+CUST_00774,Customer 774,Dubai,2025-03-05 09:11:32,Web,Premium
+CUST_00775,Customer 775,Sharjah,2025-04-09 15:43:25,App,Regular
+CUST_00776,Customer 776,Dubai,2025-07-26 18:33:27,Web,Regular
+CUST_00777,Customer 777,Dubai,2025-02-17 05:21:27,Web,Regular
+CUST_00778,Customer 778,Sharjah,2025-10-02 04:12:42,App,Regular
+CUST_00779,Customer 779,Sharjah,2025-02-05 22:37:54,Web,VIP
+CUST_00780,Customer 780,Abu Dhabi,2025-06-06 02:28:26,Call Center,Regular
+CUST_00781,Customer 781,Sharjah,2025-05-31 23:09:32,App,Regular
+CUST_00782,Customer 782,Abu Dhabi,2025-03-14 07:21:39,App,Regular
+CUST_00783,Customer 783,Dubai,2025-10-07 00:02:33,App,Regular
+CUST_00784,Customer 784,Dubai,2025-10-16 06:58:53,Web,Premium
+CUST_00785,Customer 785,Dubai,2025-07-10 00:38:02,Call Center,Premium
+CUST_00786,Customer 786,Ajman,2025-09-18 05:08:15,App,Regular
+CUST_00787,Customer 787,Abu Dhabi,2025-01-08 08:39:54,Web,Premium
+CUST_00788,Customer 788,Abu Dhabi,2025-07-10 15:40:25,App,Regular
+CUST_00789,Customer 789,Abu Dhabi,2025-08-31 01:41:06,App,VIP
+CUST_00790,Customer 790,Ajman,2025-02-08 02:35:49,App,Regular
+CUST_00791,Customer 791,Dubai,2025-11-08 21:08:10,App,Regular
+CUST_00792,Customer 792,Abu Dhabi,2025-11-19 23:27:56,App,Regular
+CUST_00793,Customer 793,Abu Dhabi,2025-09-29 08:04:30,Web,Regular
+CUST_00794,Customer 794,Abu Dhabi,2025-06-25 19:16:04,App,Regular
+CUST_00795,Customer 795,Dubai,2025-01-13 01:27:57,Call Center,Regular
+CUST_00796,Customer 796,Ajman,2025-09-11 22:14:01,App,Regular
+CUST_00797,Customer 797,Ajman,2025-03-26 19:22:12,App,Premium
+CUST_00798,Customer 798,Abu Dhabi,2025-12-06 05:43:24,App,Regular
+CUST_00799,Customer 799,Sharjah,2025-06-12 13:03:32,Web,Regular
+CUST_00800,Customer 800,Ajman,2025-05-22 21:10:01,App,Regular
+CUST_00801,Customer 801,Sharjah,2025-03-17 21:51:32,App,Premium
+CUST_00802,Customer 802,Dubai,2025-09-22 07:09:22,Call Center,Regular
+CUST_00803,Customer 803,Abu Dhabi,2025-10-08 22:31:50,App,VIP
+CUST_00804,Customer 804,Abu Dhabi,2025-11-29 11:09:57,App,Premium
+CUST_00805,Customer 805,Abu Dhabi,2025-03-13 14:50:43,Web,Regular
+CUST_00806,Customer 806,Sharjah,2025-05-16 17:59:45,App,Regular
+CUST_00807,Customer 807,Ajman,2025-11-17 21:22:03,App,Regular
+CUST_00808,Customer 808,Ajman,2025-11-14 02:24:08,App,Regular
+CUST_00809,Customer 809,Abu Dhabi,2025-04-26 13:18:20,App,Premium
+CUST_00810,Customer 810,Dubai,2025-12-25 16:46:04,App,VIP
+CUST_00811,Customer 811,Ras Al Khaimah,2025-09-25 04:51:06,App,Regular
+CUST_00812,Customer 812,Sharjah,2025-01-13 20:12:30,App,Regular
+CUST_00813,Customer 813,Dubai,2025-06-09 10:16:29,App,Premium
+CUST_00814,Customer 814,Ajman,2025-12-01 12:54:11,Web,Regular
+CUST_00815,Customer 815,Ajman,2025-05-18 04:30:36,App,Regular
+CUST_00816,Customer 816,Abu Dhabi,2025-04-13 00:44:15,App,Regular
+CUST_00817,Customer 817,Abu Dhabi,2025-08-13 04:34:55,Web,Regular
+CUST_00818,Customer 818,Dubai,2025-01-09 00:57:57,Web,Premium
+CUST_00819,Customer 819,Dubai,2025-04-30 13:48:51,App,Regular
+CUST_00820,Customer 820,Dubai,2025-06-29 07:07:48,Call Center,Regular
+CUST_00821,Customer 821,Sharjah,2025-10-14 17:21:40,App,VIP
+CUST_00822,Customer 822,Dubai,2025-03-10 09:59:04,App,Regular
+CUST_00823,Customer 823,Dubai,2025-12-09 20:14:40,Web,Premium
+CUST_00824,Customer 824,Dubai,2025-02-23 02:01:48,App,Regular
+CUST_00825,Customer 825,Abu Dhabi,2025-05-15 08:24:01,App,Regular
+CUST_00826,Customer 826,Ajman,2025-08-04 11:37:16,App,VIP
+CUST_00827,Customer 827,Dubai,2025-07-26 06:44:37,App,Regular
+CUST_00828,Customer 828,Dubai,2025-08-26 15:05:24,App,Regular
+CUST_00829,Customer 829,Sharjah,2025-10-05 15:32:10,Call Center,Regular
+CUST_00830,Customer 830,Abu Dhabi,2025-05-13 19:53:58,App,Regular
+CUST_00831,Customer 831,Dubai,2025-05-30 05:10:10,Web,Regular
+CUST_00832,Customer 832,Abu Dhabi,2025-08-21 19:37:38,Web,Premium
+CUST_00833,Customer 833,Dubai,2025-10-02 07:56:25,Web,VIP
+CUST_00834,Customer 834,Dubai,2025-11-23 05:45:05,Web,VIP
+CUST_00835,Customer 835,Abu Dhabi,2025-03-20 16:17:35,Web,Regular
+CUST_00836,Customer 836,Abu Dhabi,2025-10-23 17:31:24,App,Regular
+CUST_00837,Customer 837,Ajman,2025-12-24 03:04:18,App,Regular
+CUST_00838,Customer 838,Dubai,2025-09-24 06:17:29,App,Premium
+CUST_00839,Customer 839,Abu Dhabi,2025-05-31 03:30:56,Web,Regular
+CUST_00840,Customer 840,Abu Dhabi,2025-11-23 15:18:05,Web,Regular
+CUST_00841,Customer 841,Dubai,2025-10-05 00:27:42,App,Premium
+CUST_00842,Customer 842,Sharjah,2025-08-21 19:05:15,App,Regular
+CUST_00843,Customer 843,Dubai,2025-02-05 22:03:00,App,Regular
+CUST_00844,Customer 844,Ras Al Khaimah,2025-10-03 09:45:15,Web,VIP
+CUST_00845,Customer 845,Dubai,2025-05-11 10:23:06,App,VIP
+CUST_00846,Customer 846,Abu Dhabi,2025-06-03 04:34:46,Web,Regular
+CUST_00847,Customer 847,Dubai,2025-10-17 14:05:55,Call Center,Regular
+CUST_00848,Customer 848,Ras Al Khaimah,2025-06-28 07:55:30,App,VIP
+CUST_00849,Customer 849,Abu Dhabi,2025-03-03 15:15:12,App,Regular
+CUST_00850,Customer 850,Abu Dhabi,2025-04-30 10:50:03,App,Regular
+CUST_00851,Customer 851,Dubai,2025-09-02 13:31:42,App,Regular
+CUST_00852,Customer 852,Sharjah,2025-11-17 08:38:47,App,Regular
+CUST_00853,Customer 853,Dubai,2025-11-25 06:59:46,App,Regular
+CUST_00854,Customer 854,Ajman,2025-04-17 14:17:48,Web,Regular
+CUST_00855,Customer 855,Dubai,2025-03-06 08:35:58,App,Regular
+CUST_00856,Customer 856,Dubai,2025-08-03 14:42:41,App,Regular
+CUST_00857,Customer 857,Dubai,2025-08-16 19:56:58,Call Center,VIP
+CUST_00858,Customer 858,Abu Dhabi,2025-07-30 23:42:27,Web,Premium
+CUST_00859,Customer 859,Abu Dhabi,2025-06-19 02:19:30,App,Premium
+CUST_00860,Customer 860,Dubai,2025-03-01 14:04:44,Web,Regular
+CUST_00861,Customer 861,Sharjah,2025-03-27 13:30:56,App,Regular
+CUST_00862,Customer 862,Abu Dhabi,2025-01-14 02:05:22,Web,Regular
+CUST_00863,Customer 863,Abu Dhabi,2025-09-25 04:45:47,Web,VIP
+CUST_00864,Customer 864,Abu Dhabi,2025-07-02 16:07:45,Web,Regular
+CUST_00865,Customer 865,Abu Dhabi,2025-11-09 02:54:31,App,Regular
+CUST_00866,Customer 866,Abu Dhabi,2025-10-04 22:25:25,Web,Premium
+CUST_00867,Customer 867,Dubai,2025-12-11 21:00:40,App,Regular
+CUST_00868,Customer 868,Dubai,2025-06-24 22:37:11,App,Regular
+CUST_00869,Customer 869,Ajman,2025-06-25 15:25:45,App,VIP
+CUST_00870,Customer 870,Ajman,2025-01-29 06:05:06,App,Premium
+CUST_00871,Customer 871,Dubai,2025-10-29 05:48:20,App,Regular
+CUST_00872,Customer 872,Dubai,2025-08-03 13:02:30,Web,VIP
+CUST_00873,Customer 873,Abu Dhabi,2025-08-16 07:55:00,Call Center,Regular
+CUST_00874,Customer 874,Abu Dhabi,2025-01-23 17:40:43,App,Premium
+CUST_00875,Customer 875,Dubai,2025-02-22 11:24:52,App,Regular
+CUST_00876,Customer 876,Dubai,2025-12-07 19:59:12,App,Regular
+CUST_00877,Customer 877,Sharjah,2025-07-19 22:56:35,App,Regular
+CUST_00878,Customer 878,Sharjah,2025-02-07 10:33:25,App,Premium
+CUST_00879,Customer 879,Dubai,2025-03-04 00:25:54,Call Center,Regular
+CUST_00880,Customer 880,Dubai,2025-06-06 16:07:27,App,Regular
+CUST_00881,Customer 881,Dubai,2025-12-21 19:11:22,App,Regular
+CUST_00882,Customer 882,Sharjah,2025-06-12 07:15:00,App,Premium
+CUST_00883,Customer 883,Dubai,2025-09-27 23:21:05,Web,Regular
+CUST_00884,Customer 884,Dubai,2025-06-21 16:17:14,Web,Regular
+CUST_00885,Customer 885,Sharjah,2025-04-08 08:41:25,Call Center,Regular
+CUST_00886,Customer 886,Dubai,2025-04-20 05:05:48,Web,Regular
+CUST_00887,Customer 887,Sharjah,2025-09-26 12:33:50,App,Regular
+CUST_00888,Customer 888,Dubai,2025-05-22 06:39:07,App,Regular
+CUST_00889,Customer 889,Dubai,2025-12-04 15:04:21,Web,Regular
+CUST_00890,Customer 890,Dubai,2025-10-11 23:30:28,App,Regular
+CUST_00891,Customer 891,Sharjah,2025-07-05 13:30:29,Web,Premium
+CUST_00892,Customer 892,Ajman,2025-03-16 22:41:14,App,Regular
+CUST_00893,Customer 893,Sharjah,2025-05-05 15:57:26,App,Regular
+CUST_00894,Customer 894,Dubai,2025-06-04 19:01:24,App,VIP
+CUST_00895,Customer 895,Sharjah,2025-09-16 21:59:44,Web,Regular
+CUST_00896,Customer 896,Dubai,2025-02-26 02:38:47,Web,VIP
+CUST_00897,Customer 897,Dubai,2025-04-29 19:52:51,App,Regular
+CUST_00898,Customer 898,Ajman,2025-10-21 12:50:48,App,Regular
+CUST_00899,Customer 899,Dubai,2025-04-17 22:09:49,App,Regular
+CUST_00900,Customer 900,Dubai,2025-06-12 15:10:49,App,VIP
+CUST_00901,Customer 901,Dubai,2025-11-25 05:00:59,App,Regular
+CUST_00902,Customer 902,Dubai,2025-02-15 15:18:29,App,Regular
+CUST_00903,Customer 903,Dubai,2025-01-21 19:40:00,App,VIP
+CUST_00904,Customer 904,Abu Dhabi,2025-07-11 21:09:06,App,Regular
+CUST_00905,Customer 905,Abu Dhabi,2025-03-31 09:38:26,App,Regular
+CUST_00906,Customer 906,Ajman,2025-09-14 00:30:17,App,Regular
+CUST_00907,Customer 907,Sharjah,2025-08-11 23:05:19,App,Premium
+CUST_00908,Customer 908,Dubai,2025-12-10 06:19:23,App,Regular
+CUST_00909,Customer 909,Dubai,2025-08-21 17:19:47,App,Regular
+CUST_00910,Customer 910,Dubai,2025-07-30 10:01:03,Web,Regular
+CUST_00911,Customer 911,Abu Dhabi,2025-05-22 21:24:14,App,Regular
+CUST_00912,Customer 912,Dubai,2025-10-08 00:13:42,App,VIP
+CUST_00913,Customer 913,Abu Dhabi,2025-01-20 09:35:53,App,VIP
+CUST_00914,Customer 914,Abu Dhabi,2025-12-20 02:50:11,Web,Premium
+CUST_00915,Customer 915,Abu Dhabi,2025-08-17 08:44:21,Web,Premium
+CUST_00916,Customer 916,Abu Dhabi,2025-12-08 23:33:30,Web,Regular
+CUST_00917,Customer 917,Dubai,2025-01-08 21:01:20,Web,Regular
+CUST_00918,Customer 918,Ajman,2025-01-14 12:34:05,App,Premium
+CUST_00919,Customer 919,Sharjah,2025-07-21 03:07:03,Web,Regular
+CUST_00920,Customer 920,Dubai,2025-07-08 02:33:58,Web,Regular
+CUST_00921,Customer 921,Ajman,2025-07-08 07:41:02,App,Premium
+CUST_00922,Customer 922,Abu Dhabi,2025-07-31 10:12:42,App,Regular
+CUST_00923,Customer 923,Ajman,2025-06-25 03:28:10,App,Premium
+CUST_00924,Customer 924,Sharjah,2025-08-24 06:10:07,Call Center,Regular
+CUST_00925,Customer 925,Abu Dhabi,2025-01-10 20:37:12,App,Regular
+CUST_00926,Customer 926,Dubai,2025-05-27 19:35:14,Web,Regular
+CUST_00927,Customer 927,Dubai,2025-12-16 07:23:29,App,Regular
+CUST_00928,Customer 928,Abu Dhabi,2025-12-16 07:18:40,App,Premium
+CUST_00929,Customer 929,Abu Dhabi,2025-11-08 07:26:42,App,Regular
+CUST_00930,Customer 930,Dubai,2025-07-13 06:27:00,App,Regular
+CUST_00931,Customer 931,Dubai,2025-07-30 15:10:05,Web,Regular
+CUST_00932,Customer 932,Sharjah,2025-05-25 21:17:14,Web,Regular
+CUST_00933,Customer 933,Ras Al Khaimah,2025-03-11 07:46:25,App,Regular
+CUST_00934,Customer 934,Abu Dhabi,2025-10-27 01:35:23,Web,VIP
+CUST_00935,Customer 935,Dubai,2025-12-28 05:35:46,App,Regular
+CUST_00936,Customer 936,Dubai,2025-01-31 13:31:26,Call Center,Premium
+CUST_00937,Customer 937,Dubai,2025-12-03 19:39:42,App,Premium
+CUST_00938,Customer 938,Ajman,2025-10-02 21:04:46,App,Regular
+CUST_00939,Customer 939,Dubai,2025-06-12 21:22:11,App,Regular
+CUST_00940,Customer 940,Abu Dhabi,2025-04-08 12:58:46,App,Premium
+CUST_00941,Customer 941,Dubai,2025-05-29 06:15:08,App,Regular
+CUST_00942,Customer 942,Abu Dhabi,2025-09-17 14:31:11,Web,Regular
+CUST_00943,Customer 943,Sharjah,2025-07-18 15:10:54,Web,Regular
+CUST_00944,Customer 944,Sharjah,2025-08-29 19:36:39,Web,VIP
+CUST_00945,Customer 945,Dubai,2025-05-03 06:40:51,App,VIP
+CUST_00946,Customer 946,Dubai,2025-06-10 11:23:24,App,Premium
+CUST_00947,Customer 947,Dubai,2025-03-27 00:18:24,App,Regular
+CUST_00948,Customer 948,Ajman,2025-06-13 00:14:40,App,Regular
+CUST_00949,Customer 949,Ajman,2025-03-22 13:02:24,Web,Regular
+CUST_00950,Customer 950,Abu Dhabi,2025-05-06 13:06:39,App,Regular
+CUST_00951,Customer 951,Abu Dhabi,2025-10-29 15:05:43,App,Regular
+CUST_00952,Customer 952,Sharjah,2025-12-28 11:45:02,App,VIP
+CUST_00953,Customer 953,Dubai,2025-02-05 10:10:45,Call Center,VIP
+CUST_00954,Customer 954,Ajman,2025-10-31 15:01:22,App,Regular
+CUST_00955,Customer 955,Abu Dhabi,2025-06-02 10:58:02,App,Regular
+CUST_00956,Customer 956,Dubai,2025-05-14 05:45:48,App,Regular
+CUST_00957,Customer 957,Abu Dhabi,2025-05-22 08:17:50,App,Regular
+CUST_00958,Customer 958,Dubai,2025-03-24 03:56:29,App,Premium
+CUST_00959,Customer 959,Dubai,2025-04-13 04:42:36,App,Premium
+CUST_00960,Customer 960,Sharjah,2025-08-16 01:47:10,Web,Regular
+CUST_00961,Customer 961,Dubai,2025-06-26 13:02:07,App,Regular
+CUST_00962,Customer 962,Abu Dhabi,2025-08-29 19:24:33,Web,Regular
+CUST_00963,Customer 963,Dubai,2025-01-17 23:12:31,Call Center,Regular
+CUST_00964,Customer 964,Dubai,2025-01-15 00:54:52,Web,Regular
+CUST_00965,Customer 965,Dubai,2025-12-23 12:53:41,App,Regular
+CUST_00966,Customer 966,Dubai,2025-07-19 16:49:46,App,Regular
+CUST_00967,Customer 967,Sharjah,2025-09-02 15:12:02,Web,Premium
+CUST_00968,Customer 968,Dubai,2025-09-11 03:55:33,Web,Regular
+CUST_00969,Customer 969,Abu Dhabi,2025-07-11 08:04:25,App,Regular
+CUST_00970,Customer 970,Abu Dhabi,2025-03-25 15:52:09,Web,Regular
+CUST_00971,Customer 971,Sharjah,2025-05-09 07:10:53,App,Regular
+CUST_00972,Customer 972,Ajman,2025-07-14 03:35:48,App,Regular
+CUST_00973,Customer 973,Sharjah,2025-12-25 13:53:19,App,Regular
+CUST_00974,Customer 974,Dubai,2026-01-01 18:36:59,App,Regular
+CUST_00975,Customer 975,Dubai,2025-09-23 14:03:20,App,Regular
+CUST_00976,Customer 976,Dubai,2025-09-25 13:50:15,Web,Premium
+CUST_00977,Customer 977,Abu Dhabi,2025-11-22 13:18:26,App,Regular
+CUST_00978,Customer 978,DUBAI,2025-09-16 12:59:09,App,Premium
+CUST_00979,Customer 979,Abu Dhabi,2025-08-06 21:33:44,App,Regular
+CUST_00980,Customer 980,Abu Dhabi,2025-08-07 07:42:21,App,Regular
+CUST_00981,Customer 981,DUBAI,2025-02-25 05:37:50,App,Regular
+CUST_00982,Customer 982,Sharjah,2025-11-06 18:19:14,Web,Regular
+CUST_00983,Customer 983,Dubai,2025-10-11 00:51:30,Web,VIP
+CUST_00984,Customer 984,Dubai,2025-09-26 09:05:53,Web,Premium
+CUST_00985,Customer 985,Sharjah,2025-09-06 21:09:27,Web,VIP
+CUST_00986,Customer 986,Abu Dhabi,2025-05-06 08:15:21,App,VIP
+CUST_00987,Customer 987,Sharjah,2025-01-21 02:46:08,App,Regular
+CUST_00988,Customer 988,Abu Dhabi,2025-07-15 14:38:31,App,Regular
+CUST_00989,Customer 989,Dubai,2025-10-07 05:38:14,App,Regular
+CUST_00990,Customer 990,Sharjah,2025-04-29 04:57:01,Call Center,VIP
+CUST_00991,Customer 991,Sharjah,2025-11-23 06:07:02,App,Premium
+CUST_00992,Customer 992,Sharjah,2025-09-14 11:51:30,App,Regular
+CUST_00993,Customer 993,Dubai,2025-06-26 17:07:12,Web,Premium
+CUST_00994,Customer 994,Abu Dhabi,2025-10-21 13:14:11,Call Center,Regular
+CUST_00995,Customer 995,Dubai,2025-10-30 05:39:36,Web,Regular
+CUST_00996,Customer 996,Dubai,2025-01-08 15:56:20,App,Regular
+CUST_00997,Customer 997,Ajman,2025-11-03 06:56:00,App,Regular
+CUST_00998,Customer 998,Dubai,2025-11-24 14:02:54,App,Premium
+CUST_00999,Customer 999,Ras Al Khaimah,2025-04-24 14:52:20,App,Regular
+CUST_01000,Customer 1000,Abu Dhabi,2025-10-12 15:34:36,App,Regular
+CUST_01001,Customer 1001,Dubai,2025-06-23 09:39:51,App,Regular
+CUST_01002,Customer 1002,Abu Dhabi,2025-06-16 22:24:04,Call Center,Regular
+CUST_01003,Customer 1003,Ajman,2025-03-25 05:44:27,App,Regular
+CUST_01004,Customer 1004,Sharjah,2025-04-27 20:41:35,Web,Regular
+CUST_01005,Customer 1005,Sharjah,2025-08-15 11:32:24,Web,Regular
+CUST_01006,Customer 1006,Sharjah,2025-01-28 09:42:22,App,Regular
+CUST_01007,Customer 1007,Sharjah,2025-03-25 02:54:56,Web,Regular
+CUST_01008,Customer 1008,Sharjah,2025-04-21 22:37:23,App,Premium
+CUST_01009,Customer 1009,Dubai,2025-08-26 17:17:22,App,Regular
+CUST_01010,Customer 1010,Abu Dhabi,2025-08-02 05:31:45,Web,Regular
+CUST_01011,Customer 1011,Dxb,2025-05-25 06:12:14,App,Regular
+CUST_01012,Customer 1012,Ras Al Khaimah,2025-05-16 14:06:31,Call Center,Regular
+CUST_01013,Customer 1013,Ajman,2025-02-05 22:37:10,App,Regular
+CUST_01014,Customer 1014,Dubai,2025-06-14 16:44:56,Web,Premium
+CUST_01015,Customer 1015,Sharjah,2025-08-10 16:47:29,App,VIP
+CUST_01016,Customer 1016,Ajman,2026-01-03 17:11:09,App,VIP
+CUST_01017,Customer 1017,Dubai,2025-12-12 20:23:41,App,Regular
+CUST_01018,Customer 1018,Abu Dhabi,2025-03-09 06:38:55,Web,Regular
+CUST_01019,Customer 1019,Ajman,2025-02-15 13:50:21,Web,Premium
+CUST_01020,Customer 1020,Dubai,2025-02-25 17:46:06,Web,Regular
+CUST_01021,Customer 1021,Sharjah,2025-06-27 11:24:21,App,Regular
+CUST_01022,Customer 1022,Dubai,2025-03-17 01:43:38,Web,Premium
+CUST_01023,Customer 1023,Ajman,2025-09-13 01:22:42,Web,Regular
+CUST_01024,Customer 1024,Ras Al Khaimah,2025-04-26 02:43:19,Web,Regular
+CUST_01025,Customer 1025,Ajman,2025-03-25 16:25:38,App,Regular
+CUST_01026,Customer 1026,Abu Dhabi,2025-12-22 10:29:33,Web,Regular
+CUST_01027,Customer 1027,Ajman,2025-06-29 08:35:07,Web,Regular
+CUST_01028,Customer 1028,Sharjah,2025-12-04 11:00:28,App,Regular
+CUST_01029,Customer 1029,Dubai,2025-05-02 02:06:36,Web,Regular
+CUST_01030,Customer 1030,Sharjah,2025-05-05 11:32:47,Web,Regular
+CUST_01031,Customer 1031,Dubai,2025-04-13 14:50:09,App,Regular
+CUST_01032,Customer 1032,Abu Dhabi,2025-11-02 16:09:16,App,Premium
+CUST_01033,Customer 1033,Dubai,2025-04-12 22:25:00,App,Regular
+CUST_01034,Customer 1034,Dubai,2025-12-27 11:26:10,App,Regular
+CUST_01035,Customer 1035,Dubai,2025-12-15 13:34:50,Web,Regular
+CUST_01036,Customer 1036,Sharjah,2025-04-01 07:53:09,App,VIP
+CUST_01037,Customer 1037,Dubai,2025-05-17 18:06:07,Web,Regular
+CUST_01038,Customer 1038,Sharjah,2025-04-16 11:02:25,Web,Regular
+CUST_01039,Customer 1039,Dubai,2025-11-25 13:56:55,App,Regular
+CUST_01040,Customer 1040,Dubai,2025-06-29 19:14:24,Web,Premium
+CUST_01041,Customer 1041,Abu Dhabi,2025-02-04 00:46:46,Call Center,Regular
+CUST_01042,Customer 1042,Sharjah,2025-11-05 01:38:41,Web,Regular
+CUST_01043,Customer 1043,Dubai,2025-10-02 01:44:09,Web,Regular
+CUST_01044,Customer 1044,Abu Dhabi,2025-01-06 04:09:31,Call Center,Regular
+CUST_01045,Customer 1045,Ajman,2025-07-19 22:13:35,Web,Premium
+CUST_01046,Customer 1046,Abu Dhabi,2025-03-29 09:03:33,App,Premium
+CUST_01047,Customer 1047,Dubai,2025-06-19 13:55:07,Web,Regular
+CUST_01048,Customer 1048,Dubai,2025-08-19 06:01:37,Web,Premium
+CUST_01049,Customer 1049,Ajman,2025-05-12 17:11:29,Web,Regular
+CUST_01050,Customer 1050,Dubai,2025-12-17 05:30:01,App,Regular
+CUST_01051,Customer 1051,Ajman,2025-08-12 12:05:32,Web,Regular
+CUST_01052,Customer 1052,Abu Dhabi,2025-05-22 18:53:43,App,Regular
+CUST_01053,Customer 1053,Ajman,2025-11-09 14:17:18,Call Center,Premium
+CUST_01054,Customer 1054,Sharjah,2025-01-12 16:45:18,App,Regular
+CUST_01055,Customer 1055,Ras Al Khaimah,2025-10-20 09:42:19,App,Regular
+CUST_01056,Customer 1056,Dubai,2025-07-23 02:55:29,App,Regular
+CUST_01057,Customer 1057,Sharjah,2025-05-26 14:16:34,App,Regular
+CUST_01058,Customer 1058,Abu Dhabi,2025-11-28 11:20:39,Web,Regular
+CUST_01059,Customer 1059,Abu Dhabi,2025-06-24 15:05:58,Call Center,Regular
+CUST_01060,Customer 1060,Abu Dhabi,2025-07-16 11:26:47,Web,Premium
+CUST_01061,Customer 1061,Ajman,2025-12-01 07:53:33,App,Regular
+CUST_01062,Customer 1062,Ras Al Khaimah,2025-01-30 23:50:14,App,Regular
+CUST_01063,Customer 1063,Sharjah,2025-11-18 05:47:33,Web,VIP
+CUST_01064,Customer 1064,Abu Dhabi,2025-03-03 19:37:00,Call Center,Premium
+CUST_01065,Customer 1065,Abu Dhabi,2025-09-16 03:17:58,App,Regular
+CUST_01066,Customer 1066,Sharjah,2025-11-12 20:08:06,App,Premium
+CUST_01067,Customer 1067,Dubai,2025-12-31 20:10:40,App,Regular
+CUST_01068,Customer 1068,Dubai,2025-04-18 15:53:52,Web,Regular
+CUST_01069,Customer 1069,Dubai,2025-01-30 01:06:37,Web,Regular
+CUST_01070,Customer 1070,Dubai,2025-05-04 05:31:32,App,VIP
+CUST_01071,Customer 1071,Dubai,2025-05-04 06:11:24,App,Regular
+CUST_01072,Customer 1072,Dubai,2025-04-09 23:17:40,Web,Regular
+CUST_01073,Customer 1073,Dubai,2025-07-06 11:01:38,App,Regular
+CUST_01074,Customer 1074,Dubai,2025-11-10 18:25:56,App,Premium
+CUST_01075,Customer 1075,Ras Al Khaimah,2025-04-16 08:23:46,Web,Regular
+CUST_01076,Customer 1076,Abu Dhabi,2025-12-27 12:55:20,App,Regular
+CUST_01077,Customer 1077,Dubai,2025-04-03 10:12:40,App,Regular
+CUST_01078,Customer 1078,Sharjah,2025-10-15 23:57:09,Web,Premium
+CUST_01079,Customer 1079,Dubai,2025-01-21 01:02:22,Web,VIP
+CUST_01080,Customer 1080,Ajman,2025-10-21 15:14:24,Web,Regular
+CUST_01081,Customer 1081,Sharjah,2025-02-24 18:30:14,Web,Regular
+CUST_01082,Customer 1082,Dubai,2025-06-06 07:17:42,Web,VIP
+CUST_01083,Customer 1083,Abu Dhabi,2025-07-23 16:37:17,Web,Regular
+CUST_01084,Customer 1084,Ajman,2025-02-13 20:30:01,App,Premium
+CUST_01085,Customer 1085,Ajman,2025-02-28 15:36:03,Web,Premium
+CUST_01086,Customer 1086,Abu Dhabi,2025-03-17 17:47:31,Call Center,Regular
+CUST_01087,Customer 1087,Abu Dhabi,2025-08-04 16:15:15,App,Regular
+CUST_01088,Customer 1088,Dubai,2025-05-29 15:17:51,App,Regular
+CUST_01089,Customer 1089,Ras Al Khaimah,2025-05-25 05:24:01,App,Regular
+CUST_01090,Customer 1090,Dubai,2025-04-25 02:42:57,App,Regular
+CUST_01091,Customer 1091,Ajman,2025-06-02 21:11:55,App,Regular
+CUST_01092,Customer 1092,Abu Dhabi,2025-01-17 20:11:25,Web,Regular
+CUST_01093,Customer 1093,Abu Dhabi,2025-04-24 11:18:11,Call Center,Regular
+CUST_01094,Customer 1094,Abu Dhabi,2025-11-14 02:55:48,App,Regular
+CUST_01095,Customer 1095,Dubai,2025-12-22 02:57:27,App,Regular
+CUST_01096,Customer 1096,Dubai,2025-02-18 02:49:50,App,Premium
+CUST_01097,Customer 1097,Dubai,2025-10-10 16:02:29,Web,Regular
+CUST_01098,Customer 1098,Dubai,2025-02-12 05:14:05,App,Premium
+CUST_01099,Customer 1099,Sharjah,2025-08-17 22:16:30,App,Regular
+CUST_01100,Customer 1100,Dubai,2025-05-21 12:11:47,App,Regular
+CUST_01101,Customer 1101,Dubai,2025-04-25 21:29:48,App,Premium
+CUST_01102,Customer 1102,Ras Al Khaimah,2025-05-19 16:03:06,App,Regular
+CUST_01103,Customer 1103,Ajman,2025-04-08 21:06:30,Web,Regular
+CUST_01104,Customer 1104,Ajman,2025-04-08 16:55:35,Web,Regular
+CUST_01105,Customer 1105,Ras Al Khaimah,2025-10-18 13:02:09,Web,Regular
+CUST_01106,Customer 1106,Dubai,2025-06-02 12:50:19,App,Regular
+CUST_01107,Customer 1107,Dubai,2025-08-16 02:09:58,Web,Regular
+CUST_01108,Customer 1108,Sharjah,2025-05-02 00:28:14,Web,Regular
+CUST_01109,Customer 1109,Sharjah,2025-06-03 07:52:45,App,Regular
+CUST_01110,Customer 1110,Dubai,2025-12-17 13:58:57,Web,Regular
+CUST_01111,Customer 1111,Sharjah,2025-02-23 11:58:09,App,Regular
+CUST_01112,Customer 1112,Dubai,2025-06-25 06:36:39,Web,Regular
+CUST_01113,Customer 1113,Dubai,2025-08-18 13:32:17,App,Regular
+CUST_01114,Customer 1114,Abu Dhabi,2025-05-31 17:12:30,Call Center,VIP
+CUST_01115,Customer 1115,Abu Dhabi,2025-10-25 09:16:24,App,Regular
+CUST_01116,Customer 1116,Abu Dhabi,2025-11-21 00:22:35,Web,Regular
+CUST_01117,Customer 1117,Dubai,2025-07-22 07:05:20,Web,Regular
+CUST_01118,Customer 1118,Ajman,2025-09-13 20:47:10,Web,VIP
+CUST_01119,Customer 1119,Dubai,2025-03-03 22:39:52,App,Regular
+CUST_01120,Customer 1120,Dubai,2025-01-10 16:42:06,App,VIP
+CUST_01121,Customer 1121,Ajman,2025-03-21 12:43:28,Web,Regular
+CUST_01122,Customer 1122,Ras Al Khaimah,2025-06-17 20:54:17,App,Regular
+CUST_01123,Customer 1123,Ajman,2025-04-01 19:41:16,App,Premium
+CUST_01124,Customer 1124,Sharjah,2025-07-26 20:56:49,Web,Regular
+CUST_01125,Customer 1125,Sharjah,2025-05-19 19:28:31,App,Regular
+CUST_01126,Customer 1126,Abu Dhabi,2025-07-14 10:59:49,App,Premium
+CUST_01127,Customer 1127,Dubai,2025-09-14 14:36:00,App,VIP
+CUST_01128,Customer 1128,Abu Dhabi,2025-01-13 10:13:42,App,Regular
+CUST_01129,Customer 1129,Dubai,2025-09-16 14:04:07,Web,Regular
+CUST_01130,Customer 1130,Dubai,2025-06-22 01:32:33,Web,Premium
+CUST_01131,Customer 1131,Sharjah,2025-10-30 18:40:07,Web,Regular
+CUST_01132,Customer 1132,Abu Dhabi,2025-07-12 21:20:40,Call Center,Premium
+CUST_01133,Customer 1133,Dubai,2025-08-12 09:04:05,App,Regular
+CUST_01134,Customer 1134,Dubai,2025-08-22 11:23:48,App,Regular
+CUST_01135,Customer 1135,Sharjah,2025-05-30 13:42:03,App,VIP
+CUST_01136,Customer 1136,Dubai,2025-11-24 13:28:24,App,Regular
+CUST_01137,Customer 1137,Ajman,2025-08-20 04:38:23,Call Center,Regular
+CUST_01138,Customer 1138,Abu Dhabi,2025-07-10 09:57:48,App,Regular
+CUST_01139,Customer 1139,Abu Dhabi,2025-03-04 15:30:35,App,Regular
+CUST_01140,Customer 1140,Abu Dhabi,2025-01-20 09:34:02,App,Regular
+CUST_01141,Customer 1141,Sharjah,2025-11-18 06:04:40,Web,Premium
+CUST_01142,Customer 1142,dubai,2025-02-15 16:43:44,Web,Regular
+CUST_01143,Customer 1143,Sharjah,2025-09-06 01:37:46,App,Regular
+CUST_01144,Customer 1144,Abu Dhabi,2025-08-29 00:47:14,Call Center,Premium
+CUST_01145,Customer 1145,Dubai,2025-05-07 11:56:56,App,Regular
+CUST_01146,Customer 1146,Ajman,2025-12-06 18:10:34,App,Regular
+CUST_01147,Customer 1147,Sharjah,2025-12-26 13:41:53,Web,Regular
+CUST_01148,Customer 1148,Sharjah,2025-02-15 03:36:11,App,VIP
+CUST_01149,Customer 1149,Ajman,2025-03-19 09:34:59,Call Center,Regular
+CUST_01150,Customer 1150,Ajman,2025-02-20 05:10:41,Call Center,Regular
+CUST_01151,Customer 1151,Sharjah,2025-03-06 23:53:50,Web,Regular
+CUST_01152,Customer 1152,Sharjah,2025-10-03 14:26:58,Web,Regular
+CUST_01153,Customer 1153,Sharjah,2025-07-28 07:11:08,App,Regular
+CUST_01154,Customer 1154,Sharjah,2025-01-29 07:52:50,Call Center,Regular
+CUST_01155,Customer 1155,Abu Dhabi,2025-07-06 14:05:36,App,Regular
+CUST_01156,Customer 1156,Sharjah,2025-04-29 00:18:13,Web,VIP
+CUST_01157,Customer 1157,Dubai,2025-04-29 05:32:31,Call Center,Regular
+CUST_01158,Customer 1158,Ajman,2025-11-29 18:15:19,Call Center,Regular
+CUST_01159,Customer 1159,Ajman,2025-06-09 03:15:23,Web,Regular
+CUST_01160,Customer 1160,Dubai,2025-06-15 07:22:26,App,Regular
+CUST_01161,Customer 1161,Sharjah,2025-06-19 15:07:16,Call Center,Regular
+CUST_01162,Customer 1162,Dubai,2025-11-30 10:59:28,Web,Regular
+CUST_01163,Customer 1163,Dubai,2026-01-03 11:08:41,Call Center,Regular
+CUST_01164,Customer 1164,Sharjah,2025-06-13 12:38:46,Web,Premium
+CUST_01165,Customer 1165,Dubai,2025-03-25 20:32:25,App,Regular
+CUST_01166,Customer 1166,Sharjah,2025-04-19 20:03:40,App,Regular
+CUST_01167,Customer 1167,Sharjah,2025-09-01 09:55:44,Web,Regular
+CUST_01168,Customer 1168,Abu Dhabi,2025-01-28 00:47:55,Web,Regular
+CUST_01169,Customer 1169,Dubai,2025-01-28 18:58:32,App,Regular
+CUST_01170,Customer 1170,Dubai,2025-02-09 09:25:11,Web,Regular
+CUST_01171,Customer 1171,Abu Dhabi,2025-07-20 11:40:38,App,Regular
+CUST_01172,Customer 1172,Ras Al Khaimah,2025-08-08 21:35:05,Web,Premium
+CUST_01173,Customer 1173,Abu Dhabi,2025-11-13 08:11:26,App,Regular
+CUST_01174,Customer 1174,Dubai,2025-05-27 16:36:38,App,Regular
+CUST_01175,Customer 1175,Abu Dhabi,2025-08-02 08:14:12,App,Regular
+CUST_01176,Customer 1176,Abu Dhabi,2025-04-18 19:35:48,App,Regular
+CUST_01177,Customer 1177,Sharjah,2025-01-29 09:54:50,App,Regular
+CUST_01178,Customer 1178,Dubai,2025-04-29 11:20:44,App,VIP
+CUST_01179,Customer 1179,Sharjah,2025-06-08 01:59:00,App,Regular
+CUST_01180,Customer 1180,Abu Dhabi,2025-09-15 00:28:16,Call Center,VIP
+CUST_01181,Customer 1181,Ras Al Khaimah,2025-09-09 15:30:31,Web,Premium
+CUST_01182,Customer 1182,Dubai,2025-06-13 07:55:23,App,Regular
+CUST_01183,Customer 1183,Abu Dhabi,2025-08-20 16:47:06,Call Center,Regular
+CUST_01184,Customer 1184,Ajman,2025-10-02 10:16:48,App,Regular
+CUST_01185,Customer 1185,Dubai,2025-08-02 10:26:11,Web,Regular
+CUST_01186,Customer 1186,Ajman,2025-12-29 07:20:14,Web,VIP
+CUST_01187,Customer 1187,Sharjah,2025-11-22 05:41:44,App,Regular
+CUST_01188,Customer 1188,Dubai,2025-03-03 12:28:13,App,Premium
+CUST_01189,Customer 1189,Dubai,2025-06-19 04:23:36,App,Regular
+CUST_01190,Customer 1190,Sharjah,2025-07-12 00:28:04,App,Premium
+CUST_01191,Customer 1191,Dubai,2025-11-30 21:38:27,Web,VIP
+CUST_01192,Customer 1192,Abu Dhabi,2025-02-01 12:38:42,App,Regular
+CUST_01193,Customer 1193,Dubai,2025-03-20 22:04:02,App,Regular
+CUST_01194,Customer 1194,Abu Dhabi,2025-06-28 04:33:15,App,Regular
+CUST_01195,Customer 1195,Dubai,2025-12-31 19:53:08,App,Premium
+CUST_01196,Customer 1196,Ajman,2025-03-10 04:06:01,App,VIP
+CUST_01197,Customer 1197,Ras Al Khaimah,2025-06-14 08:06:40,App,Premium
+CUST_01198,Customer 1198,Ras Al Khaimah,2025-02-06 13:51:32,Web,Regular
+CUST_01199,Customer 1199,Sharjah,2025-11-17 07:34:13,App,Regular
+CUST_01200,Customer 1200,Dubai,2025-07-05 16:13:35,App,Premium
+CUST_01201,Customer 1201,Sharjah,2025-04-28 17:05:42,Web,Regular
+CUST_01202,Customer 1202,Dubai,2025-01-23 22:35:07,App,Premium
+CUST_01203,Customer 1203,Dubai,2025-11-20 09:23:11,Web,Regular
+CUST_01204,Customer 1204,Dubai,2025-06-04 04:48:40,Web,Regular
+CUST_01205,Customer 1205,Abu Dhabi,2025-12-28 19:05:06,App,Regular
+CUST_01206,Customer 1206,Sharjah,2025-08-19 09:43:10,App,Regular
+CUST_01207,Customer 1207,Sharjah,2025-03-24 15:53:19,App,Regular
+CUST_01208,Customer 1208,Abu Dhabi,2025-10-17 05:13:53,App,Regular
+CUST_01209,Customer 1209,Dubai,2025-03-25 02:46:23,App,Regular
+CUST_01210,Customer 1210,Ras Al Khaimah,2025-03-20 13:02:05,App,Regular
+CUST_01211,Customer 1211,Abu Dhabi,2025-09-17 06:53:22,App,Regular
+CUST_01212,Customer 1212,Abu Dhabi,2025-05-14 12:39:07,App,Premium
+CUST_01213,Customer 1213,Dubai,2025-05-27 05:28:08,Web,VIP
+CUST_01214,Customer 1214,Sharjah,2025-10-03 09:55:07,Web,Premium
+CUST_01215,Customer 1215,Sharjah,2025-04-10 13:38:48,App,VIP
+CUST_01216,Customer 1216,Dubai,2025-11-14 22:32:44,App,Regular
+CUST_01217,Customer 1217,Dubai,2025-05-05 09:20:17,Web,Regular
+CUST_01218,Customer 1218,Sharjah,2025-09-19 05:06:44,Web,Regular
+CUST_01219,Customer 1219,Sharjah,2025-04-06 19:52:44,Web,Premium
+CUST_01220,Customer 1220,Dubai,2025-03-31 05:55:47,App,Regular
+CUST_01221,Customer 1221,Ras Al Khaimah,2025-11-27 23:43:26,Web,Regular
+CUST_01222,Customer 1222,Dubai,2025-02-17 22:17:37,App,Premium
+CUST_01223,Customer 1223,Abu Dhabi,2025-02-25 12:31:11,App,Regular
+CUST_01224,Customer 1224,Ajman,2025-07-20 13:18:00,App,Regular
+CUST_01225,Customer 1225,Abu Dhabi,2025-02-27 20:30:00,App,Regular
+CUST_01226,Customer 1226,Abu Dhabi,2025-05-12 00:53:57,App,Regular
+CUST_01227,Customer 1227,Dubai,2025-06-28 13:36:10,App,Regular
+CUST_01228,Customer 1228,Dubai,2025-07-18 13:16:37,Web,Regular
+CUST_01229,Customer 1229,Ras Al Khaimah,2025-09-17 08:13:43,Call Center,Regular
+CUST_01230,Customer 1230,Abu Dhabi,2025-12-22 08:31:17,App,Regular
+CUST_01231,Customer 1231,Ajman,2025-08-30 18:24:32,App,Premium
+CUST_01232,Customer 1232,Dubai,2025-12-26 19:47:47,App,Premium
+CUST_01233,Customer 1233,Dubai,2025-10-26 04:32:44,Web,Regular
+CUST_01234,Customer 1234,Dxb,2025-07-22 23:40:06,App,Premium
+CUST_01235,Customer 1235,Sharjah,2025-11-07 16:30:36,Call Center,Regular
+CUST_01236,Customer 1236,Dubai,2025-08-25 01:48:28,App,Regular
+CUST_01237,Customer 1237,Ajman,2025-11-10 03:23:13,App,Regular
+CUST_01238,Customer 1238,Abu Dhabi,2025-07-27 06:39:04,Web,Regular
+CUST_01239,Customer 1239,Ras Al Khaimah,2025-07-11 07:44:23,Web,Regular
+CUST_01240,Customer 1240,Dubai,2025-02-28 15:57:59,App,Regular
+CUST_01241,Customer 1241,Ajman,2025-06-12 04:26:46,App,Regular
+CUST_01242,Customer 1242,Sharjah,2025-02-09 00:04:51,Call Center,Premium
+CUST_01243,Customer 1243,Sharjah,2025-08-01 21:35:13,App,Regular
+CUST_01244,Customer 1244,Sharjah,2025-05-19 06:56:02,Web,Regular
+CUST_01245,Customer 1245,Sharjah,2025-06-08 11:03:55,App,Regular
+CUST_01246,Customer 1246,Abu Dhabi,2025-10-21 09:32:53,Web,Regular
+CUST_01247,Customer 1247,Dubai,2025-08-01 03:52:11,Web,Regular
+CUST_01248,Customer 1248,Dubai,2025-09-25 15:20:11,App,Regular
+CUST_01249,Customer 1249,Ajman,2025-08-15 23:45:24,Web,Regular
+CUST_01250,Customer 1250,Abu Dhabi,2025-05-08 14:13:47,App,Premium
+CUST_01251,Customer 1251,Sharjah,2025-04-26 19:28:39,App,Regular
+CUST_01252,Customer 1252,Abu Dhabi,2025-12-28 17:47:33,Web,VIP
+CUST_01253,Customer 1253,Dubai,2025-07-17 00:11:33,App,Regular
+CUST_01254,Customer 1254,Dubai,2025-02-25 04:59:44,Web,Regular
+CUST_01255,Customer 1255,Sharjah,2025-12-28 17:25:40,App,Regular
+CUST_01256,Customer 1256,Abu Dhabi,2025-11-06 04:41:31,App,Regular
+CUST_01257,Customer 1257,Dubai,2025-07-19 01:54:50,App,Regular
+CUST_01258,Customer 1258,Abu Dhabi,2025-02-02 18:01:06,App,Regular
+CUST_01259,Customer 1259,Dubai,2025-05-23 09:29:48,App,Premium
+CUST_01260,Customer 1260,Abu Dhabi,2025-06-22 05:40:08,Web,VIP
+CUST_01261,Customer 1261,Dubai,2025-06-01 23:28:48,Call Center,Regular
+CUST_01262,Customer 1262,Sharjah,2025-04-20 05:47:33,Web,Regular
+CUST_01263,Customer 1263,Dubai,2025-02-11 01:04:53,App,Regular
+CUST_01264,Customer 1264,Abu Dhabi,2025-01-15 18:38:01,App,Regular
+CUST_01265,Customer 1265,Dubai,2025-08-27 18:53:40,App,Premium
+CUST_01266,Customer 1266,Dubai,2025-04-11 19:31:55,App,Premium
+CUST_01267,Customer 1267,Dubai,2025-11-04 01:38:54,App,Premium
+CUST_01268,Customer 1268,Abu Dhabi,2025-01-31 01:32:57,App,Regular
+CUST_01269,Customer 1269,Abu Dhabi,2025-12-12 01:13:17,App,Regular
+CUST_01270,Customer 1270,Dubai,2025-07-26 12:23:00,Call Center,Regular
+CUST_01271,Customer 1271,Sharjah,2025-08-31 12:56:05,App,VIP
+CUST_01272,Customer 1272,Ajman,2025-03-14 23:51:51,App,Regular
+CUST_01273,Customer 1273,Sharjah,2025-04-29 17:14:41,App,Regular
+CUST_01274,Customer 1274,Dubai,2025-07-07 01:24:37,App,Regular
+CUST_01275,Customer 1275,Abu Dhabi,2025-11-11 02:02:56,Web,Premium
+CUST_01276,Customer 1276,Dubai,2025-12-26 23:08:19,App,Regular
+CUST_01277,Customer 1277,Dubai,2025-06-28 15:34:37,App,Regular
+CUST_01278,Customer 1278,Ras Al Khaimah,2025-01-12 12:59:14,App,VIP
+CUST_01279,Customer 1279,Dubai,2025-02-06 15:47:36,App,VIP
+CUST_01280,Customer 1280,Abu Dhabi,2025-04-04 17:48:50,App,Regular
+CUST_01281,Customer 1281,Abu Dhabi,2025-10-21 22:00:14,Web,Regular
+CUST_01282,Customer 1282,Sharjah,2025-04-19 06:36:21,Web,Premium
+CUST_01283,Customer 1283,Abu Dhabi,2025-03-13 16:24:21,Web,VIP
+CUST_01284,Customer 1284,Dubai,2025-02-25 04:56:19,App,Regular
+CUST_01285,Customer 1285,Dubai,2025-04-18 22:54:15,Web,Regular
+CUST_01286,Customer 1286,Abu Dhabi,2025-11-03 13:20:28,App,Regular
+CUST_01287,Customer 1287,Dubai,2025-06-09 23:13:46,App,Premium
+CUST_01288,Customer 1288,Dubai,2025-05-15 14:00:56,Web,Regular
+CUST_01289,Customer 1289,Dubai,2025-05-11 08:16:35,App,Regular
+CUST_01290,Customer 1290,Dubai,2025-05-12 23:08:41,App,Regular
+CUST_01291,Customer 1291,Dubai,2025-06-22 09:02:51,Web,VIP
+CUST_01292,Customer 1292,Dubai,2025-12-19 02:15:53,App,Regular
+CUST_01293,Customer 1293,Abu Dhabi,2025-10-12 17:18:29,Web,Regular
+CUST_01294,Customer 1294,Sharjah,2025-08-15 12:34:08,App,Regular
+CUST_01295,Customer 1295,Sharjah,2025-12-26 17:43:47,Web,Regular
+CUST_01296,Customer 1296,Dubai,2025-04-03 04:11:34,Call Center,Regular
+CUST_01297,Customer 1297,Dubai,2025-01-31 12:48:27,Web,Premium
+CUST_01298,Customer 1298,Dubai,2025-03-25 21:50:07,App,Regular
+CUST_01299,Customer 1299,Abu Dhabi,2026-01-01 17:02:38,App,VIP
+CUST_01300,Customer 1300,Sharjah,2025-02-25 11:04:48,App,Regular
+CUST_01301,Customer 1301,Dubai,2025-10-12 21:49:27,App,Regular
+CUST_01302,Customer 1302,Ajman,2025-11-24 00:35:39,App,Regular
+CUST_01303,Customer 1303,Dubai,2025-12-31 02:04:41,Web,Regular
+CUST_01304,Customer 1304,Abu Dhabi,2025-10-07 17:45:47,App,Regular
+CUST_01305,Customer 1305,Sharjah,2025-01-31 08:26:02,Call Center,Premium
+CUST_01306,Customer 1306,Ajman,2025-09-11 16:25:25,App,Premium
+CUST_01307,Customer 1307,Sharjah,2025-03-10 18:00:20,App,Regular
+CUST_01308,Customer 1308,Sharjah,2025-11-01 20:42:17,App,VIP
+CUST_01309,Customer 1309,Dubai,2025-08-17 08:20:10,Call Center,Regular
+CUST_01310,Customer 1310,Sharjah,2025-05-06 16:29:17,Web,Premium
+CUST_01311,Customer 1311,Dubai,2025-01-31 03:35:04,Web,Regular
+CUST_01312,Customer 1312,Ajman,2025-06-03 02:40:33,Call Center,Regular
+CUST_01313,Customer 1313,Abu Dhabi,2025-04-15 23:45:40,App,Premium
+CUST_01314,Customer 1314,Sharjah,2025-10-20 07:40:54,App,Regular
+CUST_01315,Customer 1315,Abu Dhabi,2025-04-09 19:26:23,App,Regular
+CUST_01316,Customer 1316,Abu Dhabi,2025-07-20 13:36:31,Web,Regular
+CUST_01317,Customer 1317,Abu Dhabi,2025-08-03 01:48:36,App,Regular
+CUST_01318,Customer 1318,Sharjah,2025-10-22 14:39:20,App,Premium
+CUST_01319,Customer 1319,Dubai,2025-08-23 05:31:34,Call Center,Regular
+CUST_01320,Customer 1320,Dubai,2025-04-30 02:23:53,Call Center,VIP
+CUST_01321,Customer 1321,Dubai,2025-08-16 08:40:38,Web,Regular
+CUST_01322,Customer 1322,Dubai,2025-08-08 00:29:39,Web,Regular
+CUST_01323,Customer 1323,Ajman,2025-03-06 09:22:00,Web,Premium
+CUST_01324,Customer 1324,Dubai,2025-08-18 06:30:21,App,Regular
+CUST_01325,Customer 1325,Ras Al Khaimah,2025-01-20 18:12:27,App,VIP
+CUST_01326,Customer 1326,Dubai,2025-03-12 06:56:15,Web,Regular
+CUST_01327,Customer 1327,Dubai,2025-10-09 00:07:43,Web,Regular
+CUST_01328,Customer 1328,Sharjah,2025-05-29 10:17:14,App,Regular
+CUST_01329,Customer 1329,Sharjah,2025-12-05 21:49:40,Call Center,Regular
+CUST_01330,Customer 1330,Abu Dhabi,2025-10-20 23:55:15,App,Regular
+CUST_01331,Customer 1331,Abu Dhabi,2025-03-19 21:57:32,App,Premium
+CUST_01332,Customer 1332,Sharjah,2025-10-01 15:28:06,Web,Regular
+CUST_01333,Customer 1333,Dubai,2025-08-03 12:32:35,App,Regular
+CUST_01334,Customer 1334,Ras Al Khaimah,2025-06-17 13:58:06,App,Regular
+CUST_01335,Customer 1335,Ras Al Khaimah,2025-07-07 04:21:06,App,Regular
+CUST_01336,Customer 1336,Sharjah,2025-01-11 19:51:36,Web,Regular
+CUST_01337,Customer 1337,Dubai,2025-01-08 09:17:19,App,Premium
+CUST_01338,Customer 1338,Sharjah,2025-01-10 02:51:54,Web,Premium
+CUST_01339,Customer 1339,Dubai,2025-03-26 10:20:55,Web,Premium
+CUST_01340,Customer 1340,Dubai,2025-04-10 20:32:32,App,Premium
+CUST_01341,Customer 1341,DUBAI,2025-08-19 21:00:06,Call Center,Regular
+CUST_01342,Customer 1342,Abu Dhabi,2025-12-14 22:06:16,App,Premium
+CUST_01343,Customer 1343,Ajman,2025-04-17 11:37:27,Call Center,Regular
+CUST_01344,Customer 1344,Sharjah,2025-09-03 03:02:31,App,Regular
+CUST_01345,Customer 1345,Sharjah,2025-07-20 08:17:48,Call Center,Regular
+CUST_01346,Customer 1346,Abu Dhabi,2025-07-16 09:17:46,App,Regular
+CUST_01347,Customer 1347,Dubai,2025-10-31 06:51:47,App,Premium
+CUST_01348,Customer 1348,Dubai,2025-02-23 14:10:47,App,Regular
+CUST_01349,Customer 1349,Ras Al Khaimah,2025-06-11 19:36:34,App,Premium
+CUST_01350,Customer 1350,Dubai,2025-12-18 11:46:36,Web,Regular
+CUST_01351,Customer 1351,Ajman,2025-03-28 03:47:52,App,Regular
+CUST_01352,Customer 1352,Abu Dhabi,2025-08-11 12:38:57,Web,Premium
+CUST_01353,Customer 1353,Abu Dhabi,2025-03-30 23:08:17,App,Regular
+CUST_01354,Customer 1354,Sharjah,2025-08-23 04:42:52,App,Regular
+CUST_01355,Customer 1355,Abu Dhabi,2025-09-22 07:44:14,Web,Regular
+CUST_01356,Customer 1356,Ajman,2025-09-10 23:49:15,App,Regular
+CUST_01357,Customer 1357,Ajman,2025-09-12 12:36:38,Web,Regular
+CUST_01358,Customer 1358,Abu Dhabi,2025-06-09 22:23:21,Web,Regular
+CUST_01359,Customer 1359,Dubai,2025-07-26 00:06:27,Web,VIP
+CUST_01360,Customer 1360,Abu Dhabi,2025-08-23 21:19:21,App,Premium
+CUST_01361,Customer 1361,Ajman,2025-10-21 00:05:59,Web,Premium
+CUST_01362,Customer 1362,Dubai,2025-09-20 16:51:20,Call Center,Premium
+CUST_01363,Customer 1363,Abu Dhabi,2025-08-29 19:16:06,Web,Regular
+CUST_01364,Customer 1364,Abu Dhabi,2025-07-18 20:03:16,App,Regular
+CUST_01365,Customer 1365,Sharjah,2026-01-01 21:03:51,Web,Regular
+CUST_01366,Customer 1366,Dubai,2025-12-15 15:08:15,Web,Regular
+CUST_01367,Customer 1367,Sharjah,2025-05-09 06:16:51,Web,VIP
+CUST_01368,Customer 1368,Ajman,2025-09-30 10:06:41,App,Regular
+CUST_01369,Customer 1369,Dubai,2025-07-20 03:49:30,App,Regular
+CUST_01370,Customer 1370,Dubai,2025-04-05 00:17:18,Web,Regular
+CUST_01371,Customer 1371,Ras Al Khaimah,2025-11-28 09:19:27,App,Regular
+CUST_01372,Customer 1372,Dubai,2025-09-24 02:14:51,Web,Regular
+CUST_01373,Customer 1373,Ajman,2025-06-26 12:20:37,App,Regular
+CUST_01374,Customer 1374,Abu Dhabi,2025-11-13 11:03:04,App,Regular
+CUST_01375,Customer 1375,Dubai,2025-04-06 06:32:48,App,Regular
+CUST_01376,Customer 1376,Ajman,2025-11-29 15:24:42,App,Regular
+CUST_01377,Customer 1377,Abu Dhabi,2025-12-11 20:49:29,Call Center,Regular
+CUST_01378,Customer 1378,Abu Dhabi,2025-01-29 21:04:43,Web,Premium
+CUST_01379,Customer 1379,Dubai,2025-05-10 14:46:30,Web,Regular
+CUST_01380,Customer 1380,Abu Dhabi,2025-01-12 20:17:45,App,Regular
+CUST_01381,Customer 1381,Dubai,2025-10-01 22:14:16,Web,VIP
+CUST_01382,Customer 1382,Dubai,2025-09-20 19:01:45,Web,Regular
+CUST_01383,Customer 1383,Ras Al Khaimah,2025-06-24 05:22:32,Web,Premium
+CUST_01384,Customer 1384,Dubai,2025-01-07 13:43:37,App,VIP
+CUST_01385,Customer 1385,Sharjah,2025-05-15 14:02:34,Web,Regular
+CUST_01386,Customer 1386,Dubai,2025-01-12 14:52:28,Web,Premium
+CUST_01387,Customer 1387,Sharjah,2025-05-23 04:19:30,Call Center,Premium
+CUST_01388,Customer 1388,Dubai,2025-11-15 01:10:34,App,Regular
+CUST_01389,Customer 1389,Ras Al Khaimah,2025-09-14 01:35:08,Web,Regular
+CUST_01390,Customer 1390,Abu Dhabi,2025-11-19 22:46:12,Web,VIP
+CUST_01391,Customer 1391,Dubai,2025-07-13 06:35:51,App,Premium
+CUST_01392,Customer 1392,Dubai,2025-06-09 04:47:35,App,Regular
+CUST_01393,Customer 1393,Dubai,2025-01-12 11:57:55,App,Regular
+CUST_01394,Customer 1394,Abu Dhabi,2025-09-27 02:37:34,App,Premium
+CUST_01395,Customer 1395,Dubai,2025-04-26 02:40:27,App,Regular
+CUST_01396,Customer 1396,Sharjah,2025-04-23 01:26:34,Web,Regular
+CUST_01397,Customer 1397,Abu Dhabi,2025-04-18 00:25:14,Web,Premium
+CUST_01398,Customer 1398,Dubai,2025-09-18 03:15:12,Web,Regular
+CUST_01399,Customer 1399,Abu Dhabi,2025-03-16 16:37:04,Call Center,Regular
+CUST_01400,Customer 1400,Sharjah,2025-04-17 12:48:46,App,Premium
+CUST_01401,Customer 1401,Dubai,2025-06-23 04:12:35,App,Premium
+CUST_01402,Customer 1402,Dubai,2025-03-14 17:24:53,Web,Regular
+CUST_01403,Customer 1403,Dubai,2025-03-16 16:22:47,App,Regular
+CUST_01404,Customer 1404,Sharjah,2025-11-09 18:04:37,App,Regular
+CUST_01405,Customer 1405,Sharjah,2025-03-06 13:18:51,App,VIP
+CUST_01406,Customer 1406,Abu Dhabi,2026-01-03 07:24:30,App,Regular
+CUST_01407,Customer 1407,Sharjah,2025-10-26 08:23:58,Web,Regular
+CUST_01408,Customer 1408,Sharjah,2025-08-20 11:39:20,App,Regular
+CUST_01409,Customer 1409,Abu Dhabi,2025-05-08 06:18:21,App,Premium
+CUST_01410,Customer 1410,Ajman,2025-05-13 01:49:13,App,Regular
+CUST_01411,Customer 1411,Dubai,2025-12-01 23:12:48,Web,Regular
+CUST_01412,Customer 1412,Dubai,2025-02-18 16:46:41,App,Regular
+CUST_01413,Customer 1413,Dubai,2025-01-05 10:42:12,Web,Premium
+CUST_01414,Customer 1414,Dubai,2025-09-15 18:17:55,App,Regular
+CUST_01415,Customer 1415,Abu Dhabi,2025-10-25 08:58:27,App,Regular
+CUST_01416,Customer 1416,Ajman,2025-07-06 08:27:20,App,Regular
+CUST_01417,Customer 1417,Dubai,2025-05-01 08:41:46,App,Premium
+CUST_01418,Customer 1418,Dubai,2025-10-04 11:20:23,App,Regular
+CUST_01419,Customer 1419,Abu Dhabi,2025-03-17 16:39:17,App,Regular
+CUST_01420,Customer 1420,Ajman,2025-03-23 12:37:52,Call Center,Regular
+CUST_01421,Customer 1421,dubai,2025-08-31 01:30:25,App,VIP
+CUST_01422,Customer 1422,Abu Dhabi,2025-09-11 14:58:45,Web,Regular
+CUST_01423,Customer 1423,Dubai,2025-11-09 07:24:10,App,VIP
+CUST_01424,Customer 1424,Dubai,2025-06-15 20:11:13,App,Premium
+CUST_01425,Customer 1425,Ras Al Khaimah,2025-05-18 11:30:39,App,Regular
+CUST_01426,Customer 1426,Ras Al Khaimah,2025-02-03 00:05:16,Call Center,Regular
+CUST_01427,Customer 1427,Dubai,2025-07-09 20:18:01,App,Regular
+CUST_01428,Customer 1428,Ras Al Khaimah,2025-03-13 05:42:05,App,Regular
+CUST_01429,Customer 1429,Abu Dhabi,2025-10-25 14:50:44,App,Regular
+CUST_01430,Customer 1430,Ajman,2025-07-07 23:25:57,App,Regular
+CUST_01431,Customer 1431,Abu Dhabi,2025-03-07 22:45:57,App,VIP
+CUST_01432,Customer 1432,Abu Dhabi,2025-12-07 07:09:49,Web,Regular
+CUST_01433,Customer 1433,Abu Dhabi,2025-04-27 05:44:53,App,Premium
+CUST_01434,Customer 1434,Sharjah,2025-06-04 05:03:57,App,Regular
+CUST_01435,Customer 1435,Dubai,2025-11-25 02:22:09,Web,Regular
+CUST_01436,Customer 1436,Dubai,2025-02-03 20:12:29,App,Premium
+CUST_01437,Customer 1437,Dubai,2025-06-08 12:26:52,App,Regular
+CUST_01438,Customer 1438,Sharjah,2025-10-03 01:29:02,App,Premium
+CUST_01439,Customer 1439,Dxb,2025-09-01 11:17:49,Web,Regular
+CUST_01440,Customer 1440,Sharjah,2025-11-07 13:20:02,App,Regular
+CUST_01441,Customer 1441,Ras Al Khaimah,2025-03-28 21:00:13,App,Premium
+CUST_01442,Customer 1442,Dubai,2025-08-20 00:00:05,App,Regular
+CUST_01443,Customer 1443,Sharjah,2025-01-15 09:22:36,Web,Regular
+CUST_01444,Customer 1444,Abu Dhabi,2025-08-29 03:52:39,App,VIP
+CUST_01445,Customer 1445,Ajman,2025-11-01 06:24:43,Web,Regular
+CUST_01446,Customer 1446,Dubai,2025-12-20 10:35:24,Web,VIP
+CUST_01447,Customer 1447,Sharjah,2025-06-07 07:14:50,Web,Premium
+CUST_01448,Customer 1448,Sharjah,2025-05-06 23:34:03,App,Premium
+CUST_01449,Customer 1449,Ajman,2025-07-31 02:45:36,App,Regular
+CUST_01450,Customer 1450,Sharjah,2025-08-22 03:50:07,App,Regular
+CUST_01451,Customer 1451,Abu Dhabi,2025-05-22 21:12:42,App,Premium
+CUST_01452,Customer 1452,Abu Dhabi,2025-07-25 20:04:28,App,Regular
+CUST_01453,Customer 1453,Ajman,2025-07-11 15:48:01,Web,Regular
+CUST_01454,Customer 1454,Abu Dhabi,2025-04-24 11:27:06,App,Regular
+CUST_01455,Customer 1455,Dubai,2025-03-06 07:23:10,App,Regular
+CUST_01456,Customer 1456,Ajman,2025-05-26 08:35:55,Web,VIP
+CUST_01457,Customer 1457,Sharjah,2026-01-03 10:00:08,Web,Premium
+CUST_01458,Customer 1458,Sharjah,2025-03-25 04:37:35,App,Regular
+CUST_01459,Customer 1459,Dubai,2025-07-08 05:27:31,Web,Regular
+CUST_01460,Customer 1460,Sharjah,2025-11-04 02:13:54,App,Premium
+CUST_01461,Customer 1461,Dubai,2025-10-31 16:08:27,Web,Regular
+CUST_01462,Customer 1462,Sharjah,2025-05-14 19:51:11,Web,VIP
+CUST_01463,Customer 1463,Dubai,2025-01-25 01:56:07,Web,Regular
+CUST_01464,Customer 1464,Sharjah,2025-02-12 00:54:23,Web,Regular
+CUST_01465,Customer 1465,Ras Al Khaimah,2025-08-19 17:37:29,App,Regular
+CUST_01466,Customer 1466,Dubai,2025-12-13 17:34:53,App,VIP
+CUST_01467,Customer 1467,Ras Al Khaimah,2025-12-19 22:47:20,Web,Regular
+CUST_01468,Customer 1468,Abu Dhabi,2025-01-22 06:25:15,App,Regular
+CUST_01469,Customer 1469,Ajman,2025-03-30 23:06:50,Web,Regular
+CUST_01470,Customer 1470,Sharjah,2025-10-21 05:34:28,App,Premium
+CUST_01471,Customer 1471,Abu Dhabi,2026-01-02 07:14:32,App,Premium
+CUST_01472,Customer 1472,Sharjah,2025-09-25 16:51:29,App,Regular
+CUST_01473,Customer 1473,Ajman,2025-08-01 19:13:26,App,Regular
+CUST_01474,Customer 1474,Abu Dhabi,2025-05-21 15:37:26,Web,Regular
+CUST_01475,Customer 1475,Dubai,2025-06-03 02:26:45,Web,Regular
+CUST_01476,Customer 1476,Sharjah,2025-09-17 07:04:21,Web,Regular
+CUST_01477,Customer 1477,Sharjah,2025-09-20 08:12:01,Web,Regular
+CUST_01478,Customer 1478,Sharjah,2025-08-21 10:19:05,Web,Regular
+CUST_01479,Customer 1479,Sharjah,2025-11-17 00:42:45,Web,Regular
+CUST_01480,Customer 1480,Abu Dhabi,2025-05-13 15:02:27,App,Regular
+CUST_01481,Customer 1481,Sharjah,2025-03-07 23:08:27,Web,Premium
+CUST_01482,Customer 1482,Dubai,2025-06-28 14:34:26,App,Regular
+CUST_01483,Customer 1483,Abu Dhabi,2025-10-07 09:27:56,App,Regular
+CUST_01484,Customer 1484,Dubai,2025-03-26 23:05:30,Web,Regular
+CUST_01485,Customer 1485,Dubai,2025-06-25 22:04:44,App,Regular
+CUST_01486,Customer 1486,Dubai,2025-11-08 06:46:57,App,Regular
+CUST_01487,Customer 1487,Dubai,2025-06-02 01:32:00,App,Premium
+CUST_01488,Customer 1488,Sharjah,2025-12-18 11:58:34,App,Regular
+CUST_01489,Customer 1489,Dubai,2025-08-19 17:15:22,Call Center,Regular
+CUST_01490,Customer 1490,Abu Dhabi,2025-10-21 00:59:32,App,Regular
+CUST_01491,Customer 1491,Dubai,2025-02-10 01:17:53,App,Premium
+CUST_01492,Customer 1492,Dubai,2025-11-03 23:41:21,App,Regular
+CUST_01493,Customer 1493,Dubai,2026-01-02 09:25:10,App,Regular
+CUST_01494,Customer 1494,Dubai,2025-04-21 19:27:03,Call Center,Regular
+CUST_01495,Customer 1495,Abu Dhabi,2025-09-30 12:01:16,App,Regular
+CUST_01496,Customer 1496,Sharjah,2025-05-16 04:47:37,App,VIP
+CUST_01497,Customer 1497,Abu Dhabi,2025-01-20 18:46:31,Web,Premium
+CUST_01498,Customer 1498,Abu Dhabi,2025-09-25 01:58:59,Call Center,Regular
+CUST_01499,Customer 1499,Dubai,2025-09-17 03:33:02,Web,Regular
+CUST_01500,Customer 1500,Ajman,2025-10-03 06:42:37,Web,VIP
+CUST_01501,Customer 1501,Abu Dhabi,2025-09-15 00:02:50,App,Regular
+CUST_01502,Customer 1502,Abu Dhabi,2025-05-10 03:55:18,App,Regular
+CUST_01503,Customer 1503,Dubai,2025-01-08 21:55:28,App,VIP
+CUST_01504,Customer 1504,Dubai,2025-11-20 14:50:34,Web,Premium
+CUST_01505,Customer 1505,Dubai,2025-12-20 02:22:11,App,Regular
+CUST_01506,Customer 1506,Dubai,2025-05-12 12:23:51,App,Regular
+CUST_01507,Customer 1507,Abu Dhabi,2025-10-17 15:46:57,App,Regular
+CUST_01508,Customer 1508,Abu Dhabi,2025-10-29 08:33:25,App,Premium
+CUST_01509,Customer 1509,Abu Dhabi,2025-07-04 04:02:36,App,Regular
+CUST_01510,Customer 1510,Sharjah,2025-12-03 11:09:09,Call Center,Regular
+CUST_01511,Customer 1511,Sharjah,2025-03-19 15:43:39,App,Regular
+CUST_01512,Customer 1512,Sharjah,2025-08-05 06:54:00,Web,Regular
+CUST_01513,Customer 1513,Ras Al Khaimah,2026-01-01 00:45:24,Web,Regular
+CUST_01514,Customer 1514,Dubai,2025-03-05 22:38:01,App,Regular
+CUST_01515,Customer 1515,Dubai,2025-06-10 14:58:43,App,Regular
+CUST_01516,Customer 1516,Dubai,2025-10-02 18:11:48,App,Regular
+CUST_01517,Customer 1517,Abu Dhabi,2025-04-12 16:50:35,App,VIP
+CUST_01518,Customer 1518,Ajman,2025-08-06 16:51:11,Web,Regular
+CUST_01519,Customer 1519,Dubai,2025-09-15 06:47:55,App,Premium
+CUST_01520,Customer 1520,Ajman,2025-04-19 02:25:45,App,VIP
+CUST_01521,Customer 1521,Dubai,2025-01-07 06:17:34,App,Regular
+CUST_01522,Customer 1522,Ajman,2025-03-22 02:38:34,Call Center,Regular
+CUST_01523,Customer 1523,Dubai,2025-12-17 16:27:00,Web,VIP
+CUST_01524,Customer 1524,Dubai,2025-06-18 07:55:03,Web,Regular
+CUST_01525,Customer 1525,Abu Dhabi,2025-06-21 14:33:13,Web,Regular
+CUST_01526,Customer 1526,Dubai,2025-03-12 11:33:15,App,Regular
+CUST_01527,Customer 1527,Dubai,2025-10-29 21:55:51,Web,Regular
+CUST_01528,Customer 1528,Dubai,2025-08-05 08:39:29,App,Premium
+CUST_01529,Customer 1529,Sharjah,2025-12-11 13:33:42,Web,Premium
+CUST_01530,Customer 1530,Abu Dhabi,2025-04-28 06:44:23,Web,Premium
+CUST_01531,Customer 1531,Dubai,2025-07-01 08:34:55,App,Regular
+CUST_01532,Customer 1532,Abu Dhabi,2025-03-26 23:40:10,Web,Regular
+CUST_01533,Customer 1533,Sharjah,2025-07-12 22:43:33,Call Center,Regular
+CUST_01534,Customer 1534,Dubai,2025-12-09 08:57:08,App,Regular
+CUST_01535,Customer 1535,Abu Dhabi,2025-07-02 22:45:46,Web,Regular
+CUST_01536,Customer 1536,Dubai,2025-10-15 22:51:36,App,Regular
+CUST_01537,Customer 1537,Dubai,2025-08-07 02:11:40,Web,Regular
+CUST_01538,Customer 1538,Sharjah,2025-08-07 03:04:34,App,Regular
+CUST_01539,Customer 1539,Dubai,2025-07-22 17:24:59,App,Regular
+CUST_01540,Customer 1540,Abu Dhabi,2025-11-07 09:49:00,Call Center,Regular
+CUST_01541,Customer 1541,Sharjah,2025-01-26 00:15:40,Web,Regular
+CUST_01542,Customer 1542,Dubai,2025-03-10 08:59:53,Web,Regular
+CUST_01543,Customer 1543,Abu Dhabi,2025-05-30 10:13:55,App,Regular
+CUST_01544,Customer 1544,DUBAI,2025-09-27 22:05:41,Call Center,Premium
+CUST_01545,Customer 1545,Ras Al Khaimah,2025-12-28 11:48:07,App,Premium
+CUST_01546,Customer 1546,Abu Dhabi,2025-10-14 21:56:06,Web,VIP
+CUST_01547,Customer 1547,Sharjah,2025-10-02 20:12:10,App,Regular
+CUST_01548,Customer 1548,Abu Dhabi,2025-03-30 14:24:33,App,Regular
+CUST_01549,Customer 1549,Dubai,2025-02-26 01:35:46,Web,Regular
+CUST_01550,Customer 1550,Abu Dhabi,2025-05-07 15:55:44,App,Premium
+CUST_01551,Customer 1551,Ras Al Khaimah,2025-10-21 17:53:35,App,Regular
+CUST_01552,Customer 1552,Abu Dhabi,2025-09-04 23:10:16,App,Premium
+CUST_01553,Customer 1553,Sharjah,2025-06-11 20:17:32,App,Regular
+CUST_01554,Customer 1554,Ajman,2025-09-08 21:31:50,App,VIP
+CUST_01555,Customer 1555,Dubai,2025-08-17 12:20:00,App,VIP
+CUST_01556,Customer 1556,Dubai,2025-05-14 19:04:34,App,Regular
+CUST_01557,Customer 1557,Abu Dhabi,2025-04-05 03:04:51,App,Regular
+CUST_01558,Customer 1558,Abu Dhabi,2025-08-29 19:46:27,Web,Regular
+CUST_01559,Customer 1559,Sharjah,2025-08-04 00:19:00,App,Regular
+CUST_01560,Customer 1560,Ajman,2025-03-13 00:01:33,Call Center,Regular
+CUST_01561,Customer 1561,Dubai,2025-08-08 22:22:26,Web,Regular
+CUST_01562,Customer 1562,Dubai,2025-06-02 21:32:18,App,Regular
+CUST_01563,Customer 1563,Sharjah,2025-10-10 04:15:44,Web,Regular
+CUST_01564,Customer 1564,Dubai,2025-12-11 06:40:38,Web,Regular
+CUST_01565,Customer 1565,Sharjah,2025-12-08 12:45:14,Call Center,Regular
+CUST_01566,Customer 1566,Abu Dhabi,2025-04-18 21:51:21,Web,Regular
+CUST_01567,Customer 1567,Sharjah,2025-10-07 07:44:13,App,Regular
+CUST_01568,Customer 1568,Dubai,2025-09-02 04:44:00,Web,Premium
+CUST_01569,Customer 1569,Abu Dhabi,2025-11-13 03:05:53,Web,Regular
+CUST_01570,Customer 1570,Abu Dhabi,2025-01-16 15:58:36,Web,Premium
+CUST_01571,Customer 1571,Abu Dhabi,2025-02-22 18:41:55,App,Regular
+CUST_01572,Customer 1572,Dubai,2025-06-27 12:23:56,Web,Regular
+CUST_01573,Customer 1573,Sharjah,2025-03-23 05:53:23,Call Center,Regular
+CUST_01574,Customer 1574,Ajman,2025-06-28 09:58:12,App,Regular
+CUST_01575,Customer 1575,Dubai,2025-12-18 18:22:18,App,Regular
+CUST_01576,Customer 1576,Dubai,2025-03-21 14:57:21,App,Regular
+CUST_01577,Customer 1577,Dubai,2025-01-22 22:37:55,Web,Regular
+CUST_01578,Customer 1578,Abu Dhabi,2025-06-28 01:30:40,Web,Regular
+CUST_01579,Customer 1579,Abu Dhabi,2025-10-30 10:48:17,Web,Regular
+CUST_01580,Customer 1580,Abu Dhabi,2025-07-11 20:16:00,App,Premium
+CUST_01581,Customer 1581,Dubai,2025-07-26 11:04:25,Web,Regular
+CUST_01582,Customer 1582,Dubai,2025-05-01 02:21:13,App,Regular
+CUST_01583,Customer 1583,Abu Dhabi,2025-07-30 14:51:24,App,Premium
+CUST_01584,Customer 1584,Abu Dhabi,2025-10-10 11:35:47,Web,Regular
+CUST_01585,Customer 1585,Ras Al Khaimah,2025-01-15 23:44:51,Call Center,Premium
+CUST_01586,Customer 1586,DUBAI,2025-07-25 21:38:30,Call Center,Regular
+CUST_01587,Customer 1587,Sharjah,2025-10-27 04:03:21,Call Center,Regular
+CUST_01588,Customer 1588,Abu Dhabi,2025-07-15 19:25:46,App,VIP
+CUST_01589,Customer 1589,Abu Dhabi,2025-04-18 12:42:50,App,Regular
+CUST_01590,Customer 1590,Sharjah,2025-04-02 02:17:12,Web,Premium
+CUST_01591,Customer 1591,Sharjah,2025-04-19 23:28:04,Call Center,Regular
+CUST_01592,Customer 1592,Ras Al Khaimah,2025-08-29 01:25:13,App,Regular
+CUST_01593,Customer 1593,Dubai,2025-06-11 19:53:36,App,Premium
+CUST_01594,Customer 1594,Dubai,2025-06-19 08:51:28,App,Regular
+CUST_01595,Customer 1595,Sharjah,2025-03-06 01:57:00,Web,Premium
+CUST_01596,Customer 1596,Abu Dhabi,2025-11-05 05:33:28,App,Regular
+CUST_01597,Customer 1597,Dubai,2025-09-16 20:13:16,App,Regular
+CUST_01598,Customer 1598,Dubai,2025-03-29 04:00:03,App,Regular
+CUST_01599,Customer 1599,Dubai,2025-06-26 20:25:40,App,Premium
+CUST_01600,Customer 1600,Ajman,2025-01-24 09:01:51,Web,Regular
+CUST_01601,Customer 1601,Dubai,2025-12-14 07:51:38,App,Regular
+CUST_01602,Customer 1602,Dubai,2025-02-13 23:50:15,Web,Premium
+CUST_01603,Customer 1603,Dubai,2025-04-11 14:56:50,Web,Premium
+CUST_01604,Customer 1604,Dubai,2025-10-10 17:04:20,Web,Regular
+CUST_01605,Customer 1605,Dubai,2025-02-26 08:35:46,App,Regular
+CUST_01606,Customer 1606,Abu Dhabi,2025-10-30 13:12:43,Call Center,Regular
+CUST_01607,Customer 1607,Dubai,2025-02-20 21:48:09,Web,Regular
+CUST_01608,Customer 1608,Sharjah,2025-07-08 00:42:26,Call Center,Regular
+CUST_01609,Customer 1609,Dubai,2025-03-06 22:37:06,Call Center,Regular
+CUST_01610,Customer 1610,Abu Dhabi,2025-06-11 13:02:36,App,Regular
+CUST_01611,Customer 1611,Ajman,2025-03-18 23:07:39,App,Premium
+CUST_01612,Customer 1612,Sharjah,2025-01-24 15:33:26,App,Premium
+CUST_01613,Customer 1613,Abu Dhabi,2025-06-25 11:02:06,App,Regular
+CUST_01614,Customer 1614,Dubai,2025-09-25 11:05:26,App,Regular
+CUST_01615,Customer 1615,Dubai,2025-03-01 20:51:18,App,Regular
+CUST_01616,Customer 1616,Sharjah,2025-04-18 08:51:37,App,Regular
+CUST_01617,Customer 1617,Ras Al Khaimah,2025-04-10 02:25:43,App,Premium
+CUST_01618,Customer 1618,Sharjah,2025-05-08 11:41:56,App,Regular
+CUST_01619,Customer 1619,Abu Dhabi,2025-09-28 17:08:36,App,Regular
+CUST_01620,Customer 1620,Sharjah,2025-09-24 06:12:29,App,Regular
+CUST_01621,Customer 1621,Abu Dhabi,2025-12-14 09:25:23,App,Regular
+CUST_01622,Customer 1622,Dubai,2025-05-25 14:11:34,App,Regular
+CUST_01623,Customer 1623,Abu Dhabi,2025-11-01 23:40:03,App,Regular
+CUST_01624,Customer 1624,Ras Al Khaimah,2025-09-27 01:36:14,Web,Regular
+CUST_01625,Customer 1625,Dubai,2025-10-01 14:04:33,App,Regular
+CUST_01626,Customer 1626,Sharjah,2025-03-22 07:19:15,App,Premium
+CUST_01627,Customer 1627,Dubai,2025-03-11 09:46:20,App,Premium
+CUST_01628,Customer 1628,Abu Dhabi,2025-09-19 03:15:40,Web,Regular
+CUST_01629,Customer 1629,Dubai,2025-09-24 21:58:31,Web,Regular
+CUST_01630,Customer 1630,Abu Dhabi,2025-11-20 13:14:16,Web,Regular
+CUST_01631,Customer 1631,Sharjah,2025-11-29 16:29:35,Web,Regular
+CUST_01632,Customer 1632,Dubai,2025-06-23 23:43:14,App,Regular
+CUST_01633,Customer 1633,Sharjah,2025-01-06 14:36:31,App,Regular
+CUST_01634,Customer 1634,Sharjah,2025-06-25 09:07:50,App,Regular
+CUST_01635,Customer 1635,Ajman,2025-03-22 12:42:21,Call Center,Regular
+CUST_01636,Customer 1636,Dubai,2025-07-19 09:30:03,Web,Regular
+CUST_01637,Customer 1637,Dubai,2025-06-13 13:30:21,Web,Regular
+CUST_01638,Customer 1638,Dubai,2025-02-15 01:03:52,App,Premium
+CUST_01639,Customer 1639,Ras Al Khaimah,2025-09-08 12:28:10,Web,Regular
+CUST_01640,Customer 1640,Ajman,2025-11-23 11:51:31,App,Regular
+CUST_01641,Customer 1641,Abu Dhabi,2025-11-07 04:11:37,App,Regular
+CUST_01642,Customer 1642,Sharjah,2025-06-16 06:34:54,App,Premium
+CUST_01643,Customer 1643,Abu Dhabi,2025-08-15 12:36:50,Web,Premium
+CUST_01644,Customer 1644,Abu Dhabi,2025-12-14 00:24:04,App,Premium
+CUST_01645,Customer 1645,Dubai,2025-12-11 21:02:56,Web,Regular
+CUST_01646,Customer 1646,Sharjah,2025-06-10 04:29:54,App,Regular
+CUST_01647,Customer 1647,Dubai,2025-03-09 18:35:26,Web,Premium
+CUST_01648,Customer 1648,Sharjah,2025-11-07 18:14:47,App,Regular
+CUST_01649,Customer 1649,Sharjah,2025-11-19 20:22:50,App,Regular
+CUST_01650,Customer 1650,Sharjah,2025-02-11 02:11:10,Web,Premium
+CUST_01651,Customer 1651,Dubai,2025-07-25 02:58:04,Web,Regular
+CUST_01652,Customer 1652,Dubai,2025-01-13 06:45:55,Web,Regular
+CUST_01653,Customer 1653,Dubai,2025-11-04 03:07:13,Web,Regular
+CUST_01654,Customer 1654,Dubai,2025-01-27 07:12:28,Web,Regular
+CUST_01655,Customer 1655,Dubai,2025-10-04 07:09:11,App,Regular
+CUST_01656,Customer 1656,Ajman,2025-02-24 16:53:43,Web,Regular
+CUST_01657,Customer 1657,Abu Dhabi,2025-11-08 20:36:57,App,Premium
+CUST_01658,Customer 1658,Dubai,2025-08-14 11:18:27,App,Regular
+CUST_01659,Customer 1659,Dubai,2025-06-09 23:07:46,App,Premium
+CUST_01660,Customer 1660,Abu Dhabi,2025-01-05 17:02:25,Web,Regular
+CUST_01661,Customer 1661,Abu Dhabi,2025-02-16 21:33:44,Web,Regular
+CUST_01662,Customer 1662,Abu Dhabi,2025-05-01 03:00:00,App,Premium
+CUST_01663,Customer 1663,Ajman,2025-01-05 14:14:46,Web,Premium
+CUST_01664,Customer 1664,Abu Dhabi,2025-11-15 04:51:00,Call Center,Regular
+CUST_01665,Customer 1665,Ras Al Khaimah,2025-03-05 18:24:55,App,Premium
+CUST_01666,Customer 1666,Ajman,2025-02-21 01:18:43,App,Premium
+CUST_01667,Customer 1667,Dubai,2025-06-19 16:30:14,Web,Premium
+CUST_01668,Customer 1668,Ajman,2025-03-10 17:46:20,App,Regular
+CUST_01669,Customer 1669,Dubai,2025-11-14 05:21:08,Web,Premium
+CUST_01670,Customer 1670,Sharjah,2025-03-04 14:25:34,App,VIP
+CUST_01671,Customer 1671,Dubai,2025-05-26 12:13:49,App,Premium
+CUST_01672,Customer 1672,Ajman,2025-02-11 08:39:04,Web,Regular
+CUST_01673,Customer 1673,Ajman,2025-01-04 13:52:56,Web,Regular
+CUST_01674,Customer 1674,Sharjah,2025-08-15 09:03:56,Web,Regular
+CUST_01675,Customer 1675,Sharjah,2025-05-08 10:35:36,Web,Regular
+CUST_01676,Customer 1676,Dubai,2025-11-30 05:57:15,Web,VIP
+CUST_01677,Customer 1677,Dubai,2025-12-12 06:20:37,Web,Regular
+CUST_01678,Customer 1678,Abu Dhabi,2025-05-23 06:01:41,App,Regular
+CUST_01679,Customer 1679,Dubai,2025-08-09 15:28:56,App,VIP
+CUST_01680,Customer 1680,Sharjah,2025-08-07 03:42:01,App,Regular
+CUST_01681,Customer 1681,Dubai,2025-09-21 20:48:39,Web,Regular
+CUST_01682,Customer 1682,Ras Al Khaimah,2025-01-26 12:53:58,App,Regular
+CUST_01683,Customer 1683,Abu Dhabi,2026-01-03 01:32:21,Web,Regular
+CUST_01684,Customer 1684,Sharjah,2025-04-27 05:53:24,App,Regular
+CUST_01685,Customer 1685,Dubai,2025-12-21 07:52:28,Web,VIP
+CUST_01686,Customer 1686,Ajman,2025-07-14 14:11:14,Web,Regular
+CUST_01687,Customer 1687,Ajman,2025-03-18 06:20:34,App,Regular
+CUST_01688,Customer 1688,Abu Dhabi,2025-09-10 20:11:01,Web,Regular
+CUST_01689,Customer 1689,Abu Dhabi,2025-05-22 07:24:30,App,Regular
+CUST_01690,Customer 1690,Sharjah,2025-07-02 21:16:51,App,Regular
+CUST_01691,Customer 1691,Dubai,2025-10-24 16:31:23,Web,Regular
+CUST_01692,Customer 1692,Abu Dhabi,2025-09-29 06:55:07,App,Regular
+CUST_01693,Customer 1693,Dubai,2025-10-06 13:37:41,Call Center,Premium
+CUST_01694,Customer 1694,Dubai,2025-09-17 14:47:14,App,Regular
+CUST_01695,Customer 1695,Dubai,2025-12-07 21:22:06,App,Regular
+CUST_01696,Customer 1696,Dubai,2025-01-04 12:37:55,Call Center,Premium
+CUST_01697,Customer 1697,Dubai,2025-04-07 12:35:52,App,Regular
+CUST_01698,Customer 1698,Dubai,2025-08-24 09:56:20,Call Center,Regular
+CUST_01699,Customer 1699,Ras Al Khaimah,2025-03-07 10:59:24,Call Center,Regular
+CUST_01700,Customer 1700,Abu Dhabi,2025-02-10 11:47:34,App,Regular
+CUST_01701,Customer 1701,Ras Al Khaimah,2025-01-16 17:26:17,App,Regular
+CUST_01702,Customer 1702,Abu Dhabi,2025-11-01 00:58:25,App,Regular
+CUST_01703,Customer 1703,Dubai,2025-09-30 05:18:21,App,Regular
+CUST_01704,Customer 1704,Abu Dhabi,2025-09-08 16:30:53,App,Regular
+CUST_01705,Customer 1705,Abu Dhabi,2025-10-05 17:39:48,App,Regular
+CUST_01706,Customer 1706,Dubai,2025-03-28 16:53:44,App,Regular
+CUST_01707,Customer 1707,Abu Dhabi,2025-05-23 20:45:35,App,Premium
+CUST_01708,Customer 1708,Dubai,2025-08-04 17:36:26,Call Center,VIP
+CUST_01709,Customer 1709,Abu Dhabi,2025-10-19 23:52:18,Web,Premium
+CUST_01710,Customer 1710,Sharjah,2025-04-09 18:22:05,Web,Regular
+CUST_01711,Customer 1711,Dubai,2025-01-21 17:17:44,App,Regular
+CUST_01712,Customer 1712,Dubai,2025-07-09 14:06:53,Web,Regular
+CUST_01713,Customer 1713,Sharjah,2025-02-24 01:31:27,App,Regular
+CUST_01714,Customer 1714,Abu Dhabi,2025-06-27 02:52:42,Web,Regular
+CUST_01715,Customer 1715,Dubai,2025-04-13 17:16:37,Call Center,Regular
+CUST_01716,Customer 1716,Ras Al Khaimah,2026-01-02 13:32:19,App,Regular
+CUST_01717,Customer 1717,Dubai,2025-01-28 00:43:18,Web,Regular
+CUST_01718,Customer 1718,Sharjah,2025-03-31 10:01:51,Web,VIP
+CUST_01719,Customer 1719,Ras Al Khaimah,2025-08-03 04:22:15,Call Center,Regular
+CUST_01720,Customer 1720,Dubai,2025-08-24 03:59:17,Web,Regular
+CUST_01721,Customer 1721,Dubai,2025-05-11 18:22:12,App,Regular
+CUST_01722,Customer 1722,Dubai,2025-06-22 10:30:13,App,Regular
+CUST_01723,Customer 1723,Dubai,2025-08-25 15:43:16,App,Regular
+CUST_01724,Customer 1724,Dubai,2025-03-02 20:38:31,Web,Regular
+CUST_01725,Customer 1725,Sharjah,2025-08-28 19:58:40,App,Regular
+CUST_01726,Customer 1726,Dubai,2025-10-13 20:03:27,Web,Premium
+CUST_01727,Customer 1727,Abu Dhabi,2025-01-20 10:40:58,App,Premium
+CUST_01728,Customer 1728,Ras Al Khaimah,2025-01-24 05:49:42,App,VIP
+CUST_01729,Customer 1729,Sharjah,2025-10-01 03:33:50,App,Premium
+CUST_01730,Customer 1730,Abu Dhabi,2025-07-13 09:00:25,Web,Regular
+CUST_01731,Customer 1731,Dubai,2025-11-07 23:54:49,App,Regular
+CUST_01732,Customer 1732,Abu Dhabi,2025-09-11 20:33:35,App,Regular
+CUST_01733,Customer 1733,Abu Dhabi,2025-06-14 23:54:34,App,Regular
+CUST_01734,Customer 1734,Abu Dhabi,2025-06-21 17:57:53,App,Regular
+CUST_01735,Customer 1735,Dubai,2025-12-27 15:02:22,App,Premium
+CUST_01736,Customer 1736,Ajman,2025-04-11 23:51:25,Web,Regular
+CUST_01737,Customer 1737,Abu Dhabi,2025-10-11 18:03:52,App,Regular
+CUST_01738,Customer 1738,Dubai,2025-06-13 03:41:04,App,Regular
+CUST_01739,Customer 1739,Dubai,2025-12-13 11:05:46,Web,VIP
+CUST_01740,Customer 1740,Abu Dhabi,2025-06-23 16:59:11,Call Center,Regular
+CUST_01741,Customer 1741,Sharjah,2025-06-20 00:23:37,Web,Premium
+CUST_01742,Customer 1742,Sharjah,2025-09-24 17:05:25,App,Premium
+CUST_01743,Customer 1743,Sharjah,2025-04-30 02:04:00,Web,VIP
+CUST_01744,Customer 1744,Dubai,2025-07-16 16:15:43,Call Center,Premium
+CUST_01745,Customer 1745,Abu Dhabi,2025-12-25 21:36:46,Web,Premium
+CUST_01746,Customer 1746,Abu Dhabi,2025-06-26 07:45:28,App,Regular
+CUST_01747,Customer 1747,Dubai,2025-09-06 15:17:14,Web,Regular
+CUST_01748,Customer 1748,Dubai,2025-03-04 07:02:44,Web,Regular
+CUST_01749,Customer 1749,Sharjah,2025-09-29 15:27:32,App,Regular
+CUST_01750,Customer 1750,Dubai,2025-02-20 09:31:17,App,VIP
+CUST_01751,Customer 1751,Abu Dhabi,2026-01-01 14:30:08,Web,Regular
+CUST_01752,Customer 1752,Dubai,2025-10-31 08:20:16,Web,Premium
+CUST_01753,Customer 1753,Dubai,2025-09-27 16:20:14,App,Regular
+CUST_01754,Customer 1754,Dubai,2025-02-26 14:10:32,Web,Regular
+CUST_01755,Customer 1755,Ras Al Khaimah,2025-01-14 15:35:14,App,VIP
+CUST_01756,Customer 1756,Sharjah,2025-04-18 01:21:39,App,Regular
+CUST_01757,Customer 1757,Ras Al Khaimah,2025-07-05 10:28:32,Web,Regular
+CUST_01758,Customer 1758,Abu Dhabi,2025-06-13 22:19:20,App,Regular
+CUST_01759,Customer 1759,Dubai,2025-06-27 01:01:50,App,Regular
+CUST_01760,Customer 1760,Abu Dhabi,2025-12-27 14:33:59,Call Center,Regular
+CUST_01761,Customer 1761,Abu Dhabi,2025-05-21 22:42:09,App,Regular
+CUST_01762,Customer 1762,Sharjah,2025-04-08 07:04:07,App,Regular
+CUST_01763,Customer 1763,Dubai,2025-01-29 06:22:06,Call Center,Premium
+CUST_01764,Customer 1764,Abu Dhabi,2025-06-21 11:24:15,Web,Premium
+CUST_01765,Customer 1765,Dubai,2025-08-14 22:48:06,Web,Regular
+CUST_01766,Customer 1766,Dubai,2025-02-11 16:57:30,Web,Regular
+CUST_01767,Customer 1767,Sharjah,2025-11-30 05:31:49,App,Premium
+CUST_01768,Customer 1768,Abu Dhabi,2025-12-14 14:13:20,Web,Regular
+CUST_01769,Customer 1769,Dubai,2025-09-01 17:54:54,App,Regular
+CUST_01770,Customer 1770,Dubai,2025-12-22 17:10:46,Web,Regular
+CUST_01771,Customer 1771,Abu Dhabi,2025-01-10 05:26:17,App,Premium
+CUST_01772,Customer 1772,Sharjah,2025-05-04 05:27:02,Web,Regular
+CUST_01773,Customer 1773,Ajman,2025-12-04 03:11:56,App,Regular
+CUST_01774,Customer 1774,Ras Al Khaimah,2025-04-29 02:59:09,App,Regular
+CUST_01775,Customer 1775,Sharjah,2025-02-15 10:58:00,Web,Regular
+CUST_01776,Customer 1776,Dubai,2025-02-04 12:30:08,Web,Regular
+CUST_01777,Customer 1777,Sharjah,2025-05-02 11:31:06,Web,Regular
+CUST_01778,Customer 1778,Abu Dhabi,2025-09-10 13:27:04,App,Premium
+CUST_01779,Customer 1779,Dubai,2025-03-21 19:47:20,App,VIP
+CUST_01780,Customer 1780,Sharjah,2025-03-24 03:16:28,Web,Regular
+CUST_01781,Customer 1781,Dubai,2025-05-06 01:56:21,Web,Regular
+CUST_01782,Customer 1782,Ajman,2025-02-26 20:53:39,Web,Regular
+CUST_01783,Customer 1783,Abu Dhabi,2025-04-11 13:54:59,Call Center,Premium
+CUST_01784,Customer 1784,Abu Dhabi,2025-02-26 12:03:00,Web,Premium
+CUST_01785,Customer 1785,Sharjah,2025-09-08 07:04:34,Web,Regular
+CUST_01786,Customer 1786,Ajman,2025-03-28 20:32:16,Web,Regular
+CUST_01787,Customer 1787,Abu Dhabi,2025-10-22 04:06:22,Call Center,Premium
+CUST_01788,Customer 1788,Abu Dhabi,2025-12-13 07:56:32,Web,Regular
+CUST_01789,Customer 1789,Dubai,2025-01-28 13:40:27,Web,Regular
+CUST_01790,Customer 1790,Abu Dhabi,2025-12-17 14:42:55,Web,Regular
+CUST_01791,Customer 1791,Dubai,2025-10-11 04:51:56,Web,Regular
+CUST_01792,Customer 1792,Sharjah,2025-04-02 09:26:14,App,Regular
+CUST_01793,Customer 1793,Abu Dhabi,2025-05-05 00:47:59,App,Premium
+CUST_01794,Customer 1794,Sharjah,2025-07-25 09:11:28,Call Center,Regular
+CUST_01795,Customer 1795,Dubai,2026-01-01 17:05:20,Web,Regular
+CUST_01796,Customer 1796,Dubai,2025-10-05 06:52:50,Web,Regular
+CUST_01797,Customer 1797,Sharjah,2025-10-26 04:13:13,Call Center,Regular
+CUST_01798,Customer 1798,Dubai,2025-12-07 07:13:18,Web,Regular
+CUST_01799,Customer 1799,Dubai,2025-12-01 16:46:27,App,Regular
+CUST_01800,Customer 1800,Dubai,2025-09-07 08:19:43,Web,Premium
+CUST_01801,Customer 1801,Ras Al Khaimah,2025-08-11 22:57:35,Web,Regular
+CUST_01802,Customer 1802,Sharjah,2025-01-07 10:14:23,App,Regular
+CUST_01803,Customer 1803,Dubai,2025-01-20 00:24:35,App,Regular
+CUST_01804,Customer 1804,Dubai,2025-03-21 16:19:29,App,Regular
+CUST_01805,Customer 1805,Dubai,2025-01-25 17:12:16,App,Premium
+CUST_01806,Customer 1806,Sharjah,2025-04-01 06:53:06,App,Regular
+CUST_01807,Customer 1807,Sharjah,2025-02-18 19:06:18,App,VIP
+CUST_01808,Customer 1808,Dubai,2025-06-05 02:31:15,App,Regular
+CUST_01809,Customer 1809,Dubai,2025-12-27 16:21:54,App,Premium
+CUST_01810,Customer 1810,Dubai,2025-07-02 05:30:15,App,Regular
+CUST_01811,Customer 1811,Sharjah,2025-02-06 10:09:17,Web,Regular
+CUST_01812,Customer 1812,Sharjah,2025-02-01 13:44:25,Web,Regular
+CUST_01813,Customer 1813,Dubai,2025-11-24 22:50:08,Web,Regular
+CUST_01814,Customer 1814,Dubai,2025-03-19 22:02:53,App,Premium
+CUST_01815,Customer 1815,Dubai,2026-01-03 21:39:45,App,Premium
+CUST_01816,Customer 1816,Ras Al Khaimah,2025-01-12 00:28:44,App,Regular
+CUST_01817,Customer 1817,Dubai,2025-07-10 03:01:10,App,Regular
+CUST_01818,Customer 1818,Sharjah,2025-02-02 17:55:15,App,Regular
+CUST_01819,Customer 1819,Abu Dhabi,2025-08-05 09:54:31,App,Premium
+CUST_01820,Customer 1820,Dubai,2025-03-31 19:04:26,App,Regular
+CUST_01821,Customer 1821,Dubai,2025-02-27 01:53:32,Web,Regular
+CUST_01822,Customer 1822,dubai,2025-08-22 01:35:14,App,Regular
+CUST_01823,Customer 1823,Abu Dhabi,2025-06-05 12:28:53,App,Premium
+CUST_01824,Customer 1824,Sharjah,2025-06-04 03:30:40,Web,Regular
+CUST_01825,Customer 1825,Abu Dhabi,2025-11-03 02:55:44,App,Premium
+CUST_01826,Customer 1826,Abu Dhabi,2025-03-28 02:51:19,App,Premium
+CUST_01827,Customer 1827,Dubai,2025-08-30 07:08:02,Web,Regular
+CUST_01828,Customer 1828,Ras Al Khaimah,2025-08-30 09:22:08,Web,Regular
+CUST_01829,Customer 1829,Sharjah,2025-07-29 03:28:04,Web,Premium
+CUST_01830,Customer 1830,Dubai,2025-10-14 10:34:55,App,Regular
+CUST_01831,Customer 1831,Ras Al Khaimah,2025-06-15 07:51:33,App,VIP
+CUST_01832,Customer 1832,Abu Dhabi,2025-03-09 20:45:27,App,Regular
+CUST_01833,Customer 1833,Abu Dhabi,2025-02-01 14:59:59,App,Regular
+CUST_01834,Customer 1834,Sharjah,2025-06-08 12:25:35,Web,VIP
+CUST_01835,Customer 1835,Sharjah,2025-06-25 15:46:05,Web,Regular
+CUST_01836,Customer 1836,Sharjah,2025-10-20 21:55:46,App,Regular
+CUST_01837,Customer 1837,Dubai,2025-12-25 15:47:30,Web,Premium
+CUST_01838,Customer 1838,Dubai,2025-10-25 17:11:39,App,Regular
+CUST_01839,Customer 1839,Ajman,2025-01-12 04:42:55,Web,Regular
+CUST_01840,Customer 1840,Dubai,2025-12-03 19:20:26,App,Regular
+CUST_01841,Customer 1841,Dubai,2025-08-07 19:02:02,App,Premium
+CUST_01842,Customer 1842,Abu Dhabi,2025-10-25 07:44:09,App,Premium
+CUST_01843,Customer 1843,Abu Dhabi,2025-07-26 22:27:36,Web,Regular
+CUST_01844,Customer 1844,Abu Dhabi,2025-02-23 20:44:03,Web,Premium
+CUST_01845,Customer 1845,Ajman,2025-09-23 08:12:14,App,Premium
+CUST_01846,Customer 1846,Dubai,2025-09-14 12:57:39,App,Regular
+CUST_01847,Customer 1847,Dubai,2025-01-05 10:49:15,App,Regular
+CUST_01848,Customer 1848,Dubai,2025-02-21 20:48:22,App,Regular
+CUST_01849,Customer 1849,Ajman,2025-07-24 07:25:53,Web,Regular
+CUST_01850,Customer 1850,Abu Dhabi,2025-08-02 02:27:03,App,Premium
+CUST_01851,Customer 1851,Dubai,2025-07-17 09:44:53,App,Premium
+CUST_01852,Customer 1852,Sharjah,2025-02-14 03:50:10,Web,Regular
+CUST_01853,Customer 1853,Ajman,2025-03-20 08:00:56,App,Regular
+CUST_01854,Customer 1854,Sharjah,2025-02-01 18:51:51,Web,Regular
+CUST_01855,Customer 1855,Ajman,2025-01-27 06:13:26,Web,Regular
+CUST_01856,Customer 1856,Dubai,2025-01-22 01:15:57,App,Regular
+CUST_01857,Customer 1857,Sharjah,2025-10-09 20:30:46,Call Center,Regular
+CUST_01858,Customer 1858,Abu Dhabi,2025-03-16 06:12:18,Web,Regular
+CUST_01859,Customer 1859,Sharjah,2025-12-14 12:07:13,App,Regular
+CUST_01860,Customer 1860,Sharjah,2025-08-25 21:43:43,App,Premium
+CUST_01861,Customer 1861,Sharjah,2025-09-26 14:40:54,App,Regular
+CUST_01862,Customer 1862,Sharjah,2025-06-01 19:14:58,Web,Regular
+CUST_01863,Customer 1863,Dubai,2025-08-07 22:55:13,Web,Regular
+CUST_01864,Customer 1864,Abu Dhabi,2025-09-25 14:04:35,Web,Regular
+CUST_01865,Customer 1865,Ras Al Khaimah,2025-04-20 14:59:27,Call Center,Regular
+CUST_01866,Customer 1866,Ajman,2025-11-26 08:24:39,Web,Regular
+CUST_01867,Customer 1867,Dubai,2025-09-07 14:28:11,Web,Premium
+CUST_01868,Customer 1868,Dubai,2025-12-29 06:04:16,App,Regular
+CUST_01869,Customer 1869,Dubai,2025-04-12 14:36:32,App,Premium
+CUST_01870,Customer 1870,Sharjah,2025-07-30 07:47:23,App,VIP
+CUST_01871,Customer 1871,Sharjah,2025-11-17 06:53:49,Web,Premium
+CUST_01872,Customer 1872,Dubai,2025-01-06 20:08:20,App,Regular
+CUST_01873,Customer 1873,Abu Dhabi,2025-04-17 20:23:38,App,VIP
+CUST_01874,Customer 1874,Sharjah,2025-07-18 05:54:12,App,Regular
+CUST_01875,Customer 1875,Sharjah,2025-03-14 09:30:02,App,Regular
+CUST_01876,Customer 1876,Abu Dhabi,2025-09-29 16:57:47,Web,Premium
+CUST_01877,Customer 1877,Abu Dhabi,2025-07-27 01:23:28,App,Regular
+CUST_01878,Customer 1878,Abu Dhabi,2025-09-24 19:24:53,Web,Regular
+CUST_01879,Customer 1879,Dubai,2025-10-25 12:45:20,App,Regular
+CUST_01880,Customer 1880,Abu Dhabi,2025-02-15 09:19:00,Web,Regular
+CUST_01881,Customer 1881,Sharjah,2025-11-05 01:11:20,App,Regular
+CUST_01882,Customer 1882,Ajman,2025-06-01 08:38:51,App,Regular
+CUST_01883,Customer 1883,Abu Dhabi,2025-11-02 17:30:53,Web,VIP
+CUST_01884,Customer 1884,Sharjah,2025-07-18 23:18:28,App,VIP
+CUST_01885,Customer 1885,Dubai,2025-10-21 23:08:37,App,Premium
+CUST_01886,Customer 1886,Abu Dhabi,2025-09-06 18:29:11,App,Regular
+CUST_01887,Customer 1887,Dubai,2025-05-08 18:21:46,App,Regular
+CUST_01888,Customer 1888,Dxb,2025-08-05 08:51:44,App,VIP
+CUST_01889,Customer 1889,Sharjah,2025-08-16 02:38:53,App,Premium
+CUST_01890,Customer 1890,Ras Al Khaimah,2025-10-19 01:09:05,Web,Regular
+CUST_01891,Customer 1891,Dubai,2025-06-06 01:50:39,Web,Regular
+CUST_01892,Customer 1892,Abu Dhabi,2025-09-26 07:59:36,App,Regular
+CUST_01893,Customer 1893,Sharjah,2025-10-17 03:37:54,Call Center,Regular
+CUST_01894,Customer 1894,Dubai,2025-10-12 15:44:21,App,Regular
+CUST_01895,Customer 1895,Abu Dhabi,2025-08-07 07:16:20,Web,Premium
+CUST_01896,Customer 1896,Sharjah,2025-04-03 09:48:42,Web,Regular
+CUST_01897,Customer 1897,Abu Dhabi,2025-04-08 08:35:13,Web,Regular
+CUST_01898,Customer 1898,Dubai,2025-04-27 03:51:57,App,Regular
+CUST_01899,Customer 1899,Dubai,2025-12-04 17:26:06,App,Regular
+CUST_01900,Customer 1900,Sharjah,2025-11-20 04:27:18,App,Regular
+CUST_01901,Customer 1901,Abu Dhabi,2025-12-15 09:58:27,App,Regular
+CUST_01902,Customer 1902,DUBAI,2025-10-03 18:17:04,App,Regular
+CUST_01903,Customer 1903,Sharjah,2025-02-28 03:33:32,App,Premium
+CUST_01904,Customer 1904,Dubai,2025-07-02 13:04:19,App,Regular
+CUST_01905,Customer 1905,Sharjah,2025-12-14 04:56:38,App,Regular
+CUST_01906,Customer 1906,Dubai,2025-12-31 23:57:02,Web,Regular
+CUST_01907,Customer 1907,Ras Al Khaimah,2025-12-08 19:45:26,Web,Premium
+CUST_01908,Customer 1908,Dubai,2025-07-05 21:58:37,Call Center,Regular
+CUST_01909,Customer 1909,Dubai,2025-08-04 07:56:02,App,Premium
+CUST_01910,Customer 1910,Dubai,2025-07-22 18:37:51,Web,Regular
+CUST_01911,Customer 1911,Dubai,2025-02-19 17:13:25,Web,Premium
+CUST_01912,Customer 1912,Ajman,2025-10-28 14:30:43,App,Premium
+CUST_01913,Customer 1913,Ras Al Khaimah,2025-08-11 11:38:04,App,Regular
+CUST_01914,Customer 1914,Dubai,2025-09-06 15:19:51,Call Center,Regular
+CUST_01915,Customer 1915,Abu Dhabi,2025-05-27 05:53:21,App,Regular
+CUST_01916,Customer 1916,Sharjah,2025-07-10 12:42:38,App,Premium
+CUST_01917,Customer 1917,Ajman,2025-04-29 21:29:45,App,Regular
+CUST_01918,Customer 1918,Abu Dhabi,2025-02-06 05:40:56,App,Regular
+CUST_01919,Customer 1919,Dubai,2025-07-12 05:01:44,Web,Premium
+CUST_01920,Customer 1920,Abu Dhabi,2025-07-05 08:17:11,Web,Premium
+CUST_01921,Customer 1921,Sharjah,2025-09-09 16:16:25,App,Regular
+CUST_01922,Customer 1922,Dubai,2025-08-30 19:25:49,App,Regular
+CUST_01923,Customer 1923,Abu Dhabi,2025-06-05 21:48:12,Web,Regular
+CUST_01924,Customer 1924,Dubai,2025-01-30 22:18:49,Web,Regular
+CUST_01925,Customer 1925,Sharjah,2025-03-22 11:47:13,App,Regular
+CUST_01926,Customer 1926,Dubai,2025-04-09 18:27:17,Web,Regular
+CUST_01927,Customer 1927,Abu Dhabi,2025-02-18 05:18:49,App,Regular
+CUST_01928,Customer 1928,Abu Dhabi,2025-07-18 06:52:52,App,Premium
+CUST_01929,Customer 1929,Abu Dhabi,2025-05-03 01:21:31,Web,Regular
+CUST_01930,Customer 1930,Dubai,2025-09-17 16:18:05,App,Regular
+CUST_01931,Customer 1931,Abu Dhabi,2025-02-13 03:53:12,Web,Regular
+CUST_01932,Customer 1932,Abu Dhabi,2025-06-27 11:34:28,Web,Regular
+CUST_01933,Customer 1933,Abu Dhabi,2025-04-29 02:15:45,Web,Regular
+CUST_01934,Customer 1934,Abu Dhabi,2025-03-16 01:22:33,App,Regular
+CUST_01935,Customer 1935,Sharjah,2025-07-24 17:39:31,App,Premium
+CUST_01936,Customer 1936,Sharjah,2025-02-15 10:25:44,App,Regular
+CUST_01937,Customer 1937,Dubai,2025-03-10 09:32:32,App,Regular
+CUST_01938,Customer 1938,Sharjah,2025-05-21 21:42:50,Web,VIP
+CUST_01939,Customer 1939,Abu Dhabi,2025-07-25 18:45:04,Web,Regular
+CUST_01940,Customer 1940,Dubai,2025-12-17 08:16:11,Web,Premium
+CUST_01941,Customer 1941,Dubai,2025-07-08 09:43:34,Call Center,Regular
+CUST_01942,Customer 1942,Dubai,2025-11-21 07:34:18,Web,Premium
+CUST_01943,Customer 1943,Sharjah,2025-07-17 20:56:34,App,Regular
+CUST_01944,Customer 1944,Sharjah,2025-04-23 18:10:17,App,Premium
+CUST_01945,Customer 1945,Sharjah,2025-03-02 21:49:21,Web,Premium
+CUST_01946,Customer 1946,Abu Dhabi,2025-11-21 23:35:52,App,Regular
+CUST_01947,Customer 1947,Abu Dhabi,2025-10-18 15:24:18,App,Regular
+CUST_01948,Customer 1948,Dubai,2025-05-28 14:16:47,App,Premium
+CUST_01949,Customer 1949,Dubai,2025-10-14 08:55:29,Web,Regular
+CUST_01950,Customer 1950,Abu Dhabi,2025-11-08 18:48:27,App,Regular
+CUST_01951,Customer 1951,Dubai,2025-05-19 18:31:51,Web,Regular
+CUST_01952,Customer 1952,Dubai,2025-01-29 03:45:13,Web,Premium
+CUST_01953,Customer 1953,Abu Dhabi,2025-04-27 06:45:57,App,Regular
+CUST_01954,Customer 1954,Sharjah,2025-06-17 21:14:01,App,Regular
+CUST_01955,Customer 1955,Ras Al Khaimah,2025-04-17 03:12:42,App,Regular
+CUST_01956,Customer 1956,Ajman,2025-03-25 00:24:22,Web,Premium
+CUST_01957,Customer 1957,Abu Dhabi,2025-12-01 10:00:06,Web,VIP
+CUST_01958,Customer 1958,Abu Dhabi,2025-01-15 17:05:30,Web,VIP
+CUST_01959,Customer 1959,Abu Dhabi,2025-09-23 00:41:00,Web,Regular
+CUST_01960,Customer 1960,Sharjah,2025-07-04 07:17:02,App,Premium
+CUST_01961,Customer 1961,Dubai,2025-11-03 18:22:29,App,Regular
+CUST_01962,Customer 1962,Abu Dhabi,2025-10-21 00:21:39,Web,Regular
+CUST_01963,Customer 1963,Sharjah,2025-01-24 16:03:38,App,Regular
+CUST_01964,Customer 1964,Dubai,2025-02-07 03:55:20,App,Regular
+CUST_01965,Customer 1965,Abu Dhabi,2025-11-04 16:45:41,App,VIP
+CUST_01966,Customer 1966,Abu Dhabi,2025-01-28 02:36:03,App,Regular
+CUST_01967,Customer 1967,Dubai,2025-09-24 04:41:15,App,Regular
+CUST_01968,Customer 1968,Dubai,2025-09-04 10:36:02,App,Premium
+CUST_01969,Customer 1969,Dubai,2025-11-21 04:36:35,App,Premium
+CUST_01970,Customer 1970,Dubai,2025-11-06 02:28:50,App,Regular
+CUST_01971,Customer 1971,Dubai,2025-01-07 08:18:54,Web,Regular
+CUST_01972,Customer 1972,Sharjah,2025-11-23 07:35:29,Web,Premium
+CUST_01973,Customer 1973,Dubai,2025-04-02 08:04:45,App,Regular
+CUST_01974,Customer 1974,Abu Dhabi,2025-02-23 01:17:40,Web,Regular
+CUST_01975,Customer 1975,Dubai,2026-01-01 19:04:01,App,Regular
+CUST_01976,Customer 1976,Ajman,2025-02-06 04:07:49,App,Regular
+CUST_01977,Customer 1977,Dubai,2025-07-25 17:05:06,Web,Premium
+CUST_01978,Customer 1978,Abu Dhabi,2025-11-01 20:33:09,Web,Regular
+CUST_01979,Customer 1979,Ajman,2025-02-17 09:26:38,Web,Regular
+CUST_01980,Customer 1980,Sharjah,2025-03-02 15:54:02,App,Regular
+CUST_01981,Customer 1981,Dubai,2025-07-29 08:40:41,App,Regular
+CUST_01982,Customer 1982,Sharjah,2025-09-28 03:23:52,Web,Regular
+CUST_01983,Customer 1983,Abu Dhabi,2025-06-27 05:28:00,App,Regular
+CUST_01984,Customer 1984,Abu Dhabi,2025-01-12 23:59:27,App,Regular
+CUST_01985,Customer 1985,Dubai,2025-02-04 10:30:07,Web,Regular
+CUST_01986,Customer 1986,Dubai,2025-10-01 00:35:17,Web,Regular
+CUST_01987,Customer 1987,Sharjah,2025-01-24 06:02:16,Web,Regular
+CUST_01988,Customer 1988,Abu Dhabi,2025-04-29 06:20:42,App,Regular
+CUST_01989,Customer 1989,Abu Dhabi,2025-10-02 23:27:31,Web,Regular
+CUST_01990,Customer 1990,Sharjah,2026-01-03 17:13:30,App,VIP
+CUST_01991,Customer 1991,Sharjah,2025-07-17 18:42:03,App,Regular
+CUST_01992,Customer 1992,Dubai,2025-04-14 08:10:41,Web,Regular
+CUST_01993,Customer 1993,Abu Dhabi,2025-12-04 02:02:04,App,Regular
+CUST_01994,Customer 1994,Dubai,2025-04-23 16:39:31,App,VIP
+CUST_01995,Customer 1995,Sharjah,2025-03-15 15:35:28,Web,Regular
+CUST_01996,Customer 1996,Sharjah,2025-08-07 21:46:01,App,Premium
+CUST_01997,Customer 1997,Ras Al Khaimah,2025-07-10 12:28:08,App,Regular
+CUST_01998,Customer 1998,Dubai,2025-11-17 16:53:29,App,VIP
+CUST_01999,Customer 1999,Dubai,2025-05-27 07:43:48,App,Premium
+CUST_02000,Customer 2000,Dubai,2025-12-29 17:11:42,App,Regular
+CUST_00675,Customer 675,Abu Dhabi,2025-12-12 09:58:53,App,Premium
+CUST_01700,Customer 1700,Abu Dhabi,2025-02-10 11:47:34,App,Regular
+CUST_01283,Customer 1283,Abu Dhabi,2025-03-13 16:24:21,Web,VIP
+CUST_01316,Customer 1316,Abu Dhabi,2025-07-20 13:36:31,Web,Regular
+CUST_01211,Customer 1211,Abu Dhabi,2025-09-17 06:53:22,App,Regular
+CUST_01637,Customer 1637,Dubai,2025-06-13 13:30:21,Web,Regular
+CUST_00614,Customer 614,Dubai,2025-02-17 00:46:49,App,Regular
+CUST_00448,Customer 448,Sharjah,2025-03-03 11:14:06,Call Center,Regular
+CUST_01132,Customer 1132,Abu Dhabi,2025-07-12 21:20:40,Call Center,Premium
+CUST_00809,Customer 809,Abu Dhabi,2025-04-26 13:18:20,App,Premium
+CUST_01497,Customer 1497,Abu Dhabi,2025-01-20 18:46:31,Web,Premium
+CUST_01469,Customer 1469,Ajman,2025-03-30 23:06:50,Web,Regular
+CUST_01683,Customer 1683,Abu Dhabi,2026-01-03 01:32:21,Web,Regular
+CUST_01150,Customer 1150,Ajman,2025-02-20 05:10:41,Call Center,Regular
+CUST_00443,Customer 443,Dubai,2026-01-01 02:14:05,App,Premium
+CUST_01814,Customer 1814,Dubai,2025-03-19 22:02:53,App,Premium
+CUST_00655,Customer 655,Abu Dhabi,2025-09-20 19:32:02,App,Regular
+CUST_01265,Customer 1265,Dubai,2025-08-27 18:53:40,App,Premium
+CUST_00859,Customer 859,Abu Dhabi,2025-06-19 02:19:30,App,Premium
+CUST_01483,Customer 1483,Abu Dhabi,2025-10-07 09:27:56,App,Regular
+CUST_00232,Customer 232,Abu Dhabi,2025-07-06 20:27:42,App,Regular
+CUST_01822,Customer 1822,Dubai,2025-08-22 01:35:14,App,Regular
+CUST_01927,Customer 1927,Abu Dhabi,2025-02-18 05:18:49,App,Regular
+CUST_00882,Customer 882,Sharjah,2025-06-12 07:15:00,App,Premium
+CUST_00632,Customer 632,Ajman,2025-06-25 23:39:12,Web,Regular
+CUST_00376,Customer 376,Dubai,2025-11-23 16:04:34,Call Center,Regular
+CUST_01961,Customer 1961,Dubai,2025-11-03 18:22:29,App,Regular
+CUST_00368,Customer 368,Ajman,2025-03-31 15:32:07,App,Regular
+CUST_00559,Customer 559,Sharjah,2025-05-11 22:18:24,Call Center,Regular
+CUST_00276,Customer 276,Abu Dhabi,2025-08-06 20:19:35,Web,Premium
