@@ -361,14 +361,24 @@ if page == "Executive View":
     
     plot_df = tmp.sample(min(len(tmp), 2000), random_state=1)
 
-    fig = px.scatter(
-        plot_df,
-        x="discount_amount",
-        y="net_amount",
-        color="order_channel",
-    )
-    fig.update_layout(height=380, margin=dict(l=10, r=10, t=30, b=10), xaxis_title="Discount (AED)", yaxis_title="Net (AED)")
+    try:
+        fig = px.scatter(
+            plot_df,
+            x="discount_amount",
+            y="net_amount",
+            color="order_channel",
+            trendline="ols"  # will work ONLY if statsmodels exists
+        )
+    except ModuleNotFoundError:
+        fig = px.scatter(
+            plot_df,
+            x="discount_amount",
+            y="net_amount",
+            color="order_channel",
+        )
+    
     st.plotly_chart(fig, use_container_width=True)
+
     
     # Optional: simple correlation insight (no statsmodels)
     corr = plot_df[["discount_amount","net_amount"]].corr().iloc[0,1]
