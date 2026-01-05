@@ -1,0 +1,23 @@
+# ================================================================================
+# LUXURY E-COMMERCE ANALYTICS DASHBOARD
+# Requirements File
+# ================================================================================
+
+# Core Framework
+streamlit==1.29.0
+
+# Data Processing
+pandas==2.1.3
+numpy==1.26.2
+
+# Visualization
+plotly==5.18.0
+
+# Date/Time Utilities
+python-dateutil==2.8.2
+
+# Excel Support (optional, for data export)
+openpyxl==3.1.2
+
+# Additional utilities
+pillow==10.1.0
