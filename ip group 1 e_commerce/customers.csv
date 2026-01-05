@@ -1,0 +1,2031 @@
+customer_id,customer_name,city,signup_date,signup_channel,customer_segment
+CUST_00001,Donald Walker,Dubai,2025-12-19,App,Premium
+CUST_00002,Stephanie Miller,Abu Dhabi,2025-05-06,App,Regular
+CUST_00003,Brandon Hall,Ajman,2025-04-14,App,Regular
+CUST_00004,Michelle Miles,Dubai,2025-12-14,Call Center,Regular
+CUST_00005,Kevin Pacheco,Dubai,2025-10-08,Web,Regular
+CUST_00006,Caitlin Henderson,Dubai,2025-12-15,App,Regular
+CUST_00007,Tyler Rogers,Dubai,2025-07-11,App,Regular
+CUST_00008,Ian Cooper,Sharjah,2025-02-24,App,VIP
+CUST_00009,Monica Herrera,Abu Dhabi,2025-11-07,Web,Regular
+CUST_00010,Edward Fuller,Dxb,2025-04-03,Referral,Premium
+CUST_00011,Michele Williams,Dubai,2025-02-26,App,Regular
+CUST_00012,Victoria Wyatt,Sharjah,2025-09-25,App,VIP
+CUST_00013,Jesse Flowers,Dubai,2025-12-30,Call Center,Regular
+CUST_00014,Daniel Adams,Dubai,2025-09-21,App,VIP
+CUST_00015,Carolyn Daniel,Sharjah,2025-06-15,App,VIP
+CUST_00016,Devin Schaefer,Sharjah,2025-10-02,App,Regular
+CUST_00017,Sarah Parsons,Dubai,2025-10-27,Call Center,Premium
+CUST_00018,Renee Morales,Abu Dhabi,2025-10-11,App,Regular
+CUST_00019,Tommy Walter,Abu Dhabi,2025-02-14,App,Regular
+CUST_00020,Jonathan Wilkerson,Dxb,2025-01-13,Call Center,Regular
+CUST_00021,Charles Mcgee,Dxb,2025-05-23,App,Premium
+CUST_00022,Jessica Silva,sharjah,2025-09-22,Referral,Regular
+CUST_00023,Zachary Hicks,Ajman,2025-07-24,Web,Regular
+CUST_00024,Shannon Hernandez,Dubai,2025-03-07,App,Premium
+CUST_00025,Jennifer Brown,Abu Dhabi,2025-02-08,Web,Regular
+CUST_00026,Julie King,Sharjah,2025-09-18,Web,Regular
+CUST_00027,Ashley Dyer,Dubai,2025-10-14,Web,Regular
+CUST_00028,Gina Carter,Dubai,2025-07-02,App,Regular
+CUST_00029,Troy Liu,Dubai,2025-04-10,Web,Regular
+CUST_00030,Pamela Romero,Abu Dhabi,2025-05-27,Call Center,Regular
+CUST_00031,Elizabeth Fowler,Dubai,2025-07-10,Web,Premium
+CUST_00032,Phillip Ryan,Abu Dhabi,2025-03-07,Web,Premium
+CUST_00033,Katherine Rodriguez,Sharjah,2025-02-17,Web,Premium
+CUST_00034,Sandra Parker,Dubai,2025-12-18,App,VIP
+CUST_00035,Keith Miller,Dubai,2025-10-14,Web,Premium
+CUST_00036,Vanessa Patel,Ajman,2025-12-29,App,Regular
+CUST_00037,John Pierce,Abu Dhabi,2025-08-17,App,Regular
+CUST_00038,Lisa Brandt,Ajman,2025-06-13,Web,Premium
+CUST_00039,Jennifer Powers,Dubai,2025-02-25,App,Regular
+CUST_00040,Joseph Martinez,Sharjah,2025-04-15,App,Regular
+CUST_00041,Alex Spencer,Abu Dhabi,2025-05-14,Web,Regular
+CUST_00042,Michael Brown,Dubai,2025-05-10,App,Regular
+CUST_00043,Shannon Jones,Ras Al Khaimah,2025-09-08,Web,Premium
+CUST_00044,John Ryan,Dubai,2025-09-16,Call Center,Regular
+CUST_00045,John Russell,Ras Al Khaimah,2025-09-01,Call Center,Regular
+CUST_00046,Jeffrey Henderson,Abu Dhabi,2025-12-19,Call Center,Regular
+CUST_00047,Amy Valdez,Dubai,2025-12-16,Web,Regular
+CUST_00048,Nicholas Mcbride,Abu Dhabi,2025-11-08,Referral,Regular
+CUST_00049,Connor West,Abu Dhabi,2025-12-30,App,Regular
+CUST_00050,Joel Baxter,Dubai,2025-06-04,Web,Regular
+CUST_00051,Scott Pierce,Dubai,2025-05-28,Call Center,Regular
+CUST_00052,Kimberly Smith,abu dhabi,2025-01-06,Referral,VIP
+CUST_00053,Sarah Martin,Abu Dhabi,2025-06-13,Web,Regular
+CUST_00054,Dr. Steven Martin,Dubai,2025-11-04,Call Center,Premium
+CUST_00055,Mrs. Rachel Gibson,Abu Dhabi,2025-06-14,Web,Regular
+CUST_00056,Monica Logan,Dubai,2025-04-18,Web,Regular
+CUST_00057,Edward Novak,Dubai,2025-04-13,Referral,Regular
+CUST_00058,Amy Silva,Dubai,2025-07-17,Web,Regular
+CUST_00059,Jordan York,Dubai,2025-06-14,App,Regular
+CUST_00060,Megan Young,Dubai,2025-05-19,Web,Regular
+CUST_00061,Laura Riley,Abu Dhabi,2025-01-26,App,VIP
+CUST_00062,Jennifer Silva,Dubai,2025-09-25,Web,Premium
+CUST_00063,Christina Moran,Abu Dhabi,2025-10-15,Web,Premium
+CUST_00064,Carlos Brewer,Dubai,2025-11-04,App,Regular
+CUST_00065,Paul Jones,Abu Dhabi,2025-01-21,Referral,Regular
+CUST_00066,Kristine Garcia,Dubai,2025-01-10,App,Regular
+CUST_00067,Brandi Bailey,Ajman,2025-11-02,Referral,VIP
+CUST_00068,Jaclyn Moore,Ajman,2025-07-14,App,Regular
+CUST_00069,Victoria Valdez,Dubai,2025-11-23,App,Regular
+CUST_00070,Kristen Huynh,Ajman,2025-03-03,Referral,Regular
+CUST_00071,Brandy Wilson,Dxb,2025-12-12,App,Regular
+CUST_00072,Brittney Campbell,Dubai,2025-10-04,Call Center,Regular
+CUST_00073,Christina Walters,Sharjah,2025-02-12,App,Premium
+CUST_00074,Danielle Odonnell,Sharjah,2025-01-17,App,Regular
+CUST_00075,Jeff Hill,Abu Dhabi,2025-01-24,Web,Premium
+CUST_00076,Carlos Whitney,Sharjah,2025-05-27,App,Regular
+CUST_00077,Kristen Patterson,Abu Dhabi,2025-12-12,App,Regular
+CUST_00078,Tony Vazquez,Ras Al Khaimah,2025-06-03,Web,Regular
+CUST_00079,Sandra Aguilar,Dubai,2025-11-26,App,Regular
+CUST_00080,Andrew Diaz,Dubai,2025-09-25,Call Center,Regular
+CUST_00081,Christine Wright,Abu Dhabi,2025-07-19,Call Center,Regular
+CUST_00082,Justin Baxter,Abu Dhabi,2025-12-25,Web,Premium
+CUST_00083,Cynthia Martin,Ras Al Khaimah,2025-05-08,Web,Regular
+CUST_00084,Allison Doyle,Dubai,2025-10-06,Web,Regular
+CUST_00085,Jennifer Santiago,Dubai,2025-05-01,App,Regular
+CUST_00086,Richard Rodriguez,Sharjah,2025-05-13,App,Regular
+CUST_00087,Courtney Velasquez,Dubai,2025-05-10,App,Regular
+CUST_00088,Robert Savage,Ajman,2025-10-03,Web,Regular
+CUST_00089,Corey Murphy,Abu Dhabi,2025-12-19,Web,Regular
+CUST_00090,Diana May,Dubai,2025-03-31,App,Regular
+CUST_00091,Sarah Rivera,Dubai,2025-04-08,Call Center,Premium
+CUST_00092,Wesley White,Abu Dhabi,2025-08-10,Call Center,Premium
+CUST_00093,Kyle Reed,Dubai,2025-09-15,Web,Regular
+CUST_00094,William Wilson,Abu Dhabi,2025-11-25,Call Center,Regular
+CUST_00095,Michael Smith,Dubai,2025-05-31,Web,Premium
+CUST_00096,Benjamin Beck,Sharjah,2025-01-08,Web,VIP
+CUST_00097,Mary Martinez,Ajman,2025-06-13,Referral,Regular
+CUST_00098,Mary Nguyen,Dubai,2025-02-06,Web,Regular
+CUST_00099,Cheryl Ortega,Ajman,2025-11-23,Call Center,Regular
+CUST_00100,Stephanie Gilbert,Dubai,2025-10-16,App,Regular
+CUST_00101,Roy Torres,Dubai,2025-09-03,Web,Regular
+CUST_00102,Kevin Pena,Dubai,2025-04-04,App,Regular
+CUST_00103,Michael Dixon,AD,2025-11-14,Web,Regular
+CUST_00104,Diane Beck,Ajman,2025-08-09,Call Center,Regular
+CUST_00105,Trevor Young,Dubai,2025-07-15,Web,Premium
+CUST_00106,Curtis Johnson,Dubai,2025-04-10,App,VIP
+CUST_00107,Miss Patricia Gibson,Ajman,2025-07-06,Call Center,Premium
+CUST_00108,Janet Ross,Dubai,2025-10-04,Web,Regular
+CUST_00109,Abigail Potter,Dubai,2025-07-10,App,Regular
+CUST_00110,Colleen Brock,Ras Al Khaimah,2025-03-21,App,VIP
+CUST_00111,David Charles,Sharjah,2025-02-25,Web,Regular
+CUST_00112,John Schmidt,Abu Dhabi,2025-04-13,Web,Regular
+CUST_00113,Stephanie Salazar,Dubai,2025-02-26,Call Center,Premium
+CUST_00114,Kimberly Merritt,Dubai,2025-02-15,Referral,VIP
+CUST_00115,Paul Larsen,Dubai,2025-06-16,Call Center,Regular
+CUST_00116,Kelly Sims,Dubai,2025-03-21,Web,Premium
+CUST_00117,Micheal Young,Ajman,2025-08-22,App,Premium
+CUST_00118,Joshua Taylor,Dubai,2025-10-14,Web,Regular
+CUST_00119,Christian Lewis,Dubai,2025-12-09,Web,Premium
+CUST_00120,Joshua Perry,AJMAN,2025-05-29,Referral,VIP
+CUST_00121,Jean Carrillo,Sharjah,2025-03-15,Web,Regular
+CUST_00122,Pamela James,Dubai,2025-06-20,Web,VIP
+CUST_00123,Elizabeth Price,Dubai,2025-06-26,App,Regular
+CUST_00124,Morgan Marsh,DUBAI,2025-11-17,Call Center,Premium
+CUST_00125,Don Tucker MD,Sharjah,2025-12-18,Referral,Regular
+CUST_00126,Sara Calhoun,Dubai,2025-11-12,Web,Regular
+CUST_00127,Leslie Alvarado,Sharjah,2025-06-26,Referral,Regular
+CUST_00128,Brandy Murray,Ajman,2025-08-05,Referral,Regular
+CUST_00129,Garrett Gibson,Abu Dhabi,2025-01-24,App,Regular
+CUST_00130,Jamie Walton,Dubai,2025-05-27,Web,Regular
+CUST_00131,Bradley Smith,Abu Dhabi,2025-05-28,Web,VIP
+CUST_00132,Mrs. Marie Harrington DDS,Ras Al Khaimah,2025-10-03,Call Center,Regular
+CUST_00133,Christina Smith,Abu Dhabi,2025-01-12,App,Regular
+CUST_00134,John Wilson,Dubai,2025-11-16,Web,Regular
+CUST_00135,David Wood,Ras Al Khaimah,2025-07-15,Web,Regular
+CUST_00136,Carla Collins,Dubai,2025-08-04,Web,Regular
+CUST_00137,Laura Odonnell,Dubai,2025-02-08,Call Center,VIP
+CUST_00138,Miguel Jones,Sharjah,2025-11-03,Referral,Regular
+CUST_00139,Raymond Jefferson,Ajman,2025-09-12,App,Regular
+CUST_00140,Kylie Williams,Dubai,2025-03-10,Web,VIP
+CUST_00141,Andrea Holland,Dubai,2025-10-13,App,VIP
+CUST_00142,Samantha Garcia,Sharjah,2025-04-12,App,Regular
+CUST_00143,Sandra Zimmerman,Dubai,2025-11-11,Call Center,Premium
+CUST_00144,Joseph Santos,Ras Al Khaimah,2025-12-28,Referral,Regular
+CUST_00145,Roger Vargas,Sharjah,2025-07-25,Call Center,Regular
+CUST_00146,Sandra Miller,Abu Dhabi,2026-01-05,App,Regular
+CUST_00147,John Bishop,Dubai,2025-10-19,App,Regular
+CUST_00148,Johnny Nguyen,Dubai,2025-09-11,Web,Premium
+CUST_00149,Robert Peterson,abu dhabi,2025-09-29,Call Center,VIP
+CUST_00150,Kellie Lee,Dubai,2025-09-12,Web,Regular
+CUST_00151,Katherine Chang,Dubai,2025-07-30,Call Center,Regular
+CUST_00152,Katherine Mcguire,Sharjah,2025-04-17,App,Regular
+CUST_00153,Jared Sanchez,Dubai,2025-04-12,Web,Regular
+CUST_00154,Joseph Coleman,Dubai,2025-11-08,Web,Regular
+CUST_00155,Jesse Parker,Ajman,2025-02-03,Web,Premium
+CUST_00156,Corey Wilson,Ajman,2025-05-22,Referral,Regular
+CUST_00157,Parker Hill,Dubai,2025-03-14,Referral,Regular
+CUST_00158,Dr. Elizabeth Ward,Dubai,2025-08-27,Web,Regular
+CUST_00159,Joseph Hill,Abu Dhabi,2025-06-04,App,Regular
+CUST_00160,Melissa Martinez,Dubai,2025-01-12,App,Regular
+CUST_00161,Adam Mitchell,Abu Dhabi,2025-12-22,Web,Regular
+CUST_00162,Cody Williams,Dubai,2025-05-06,App,Premium
+CUST_00163,Austin Vasquez,Dubai,2025-06-23,App,Regular
+CUST_00164,Robert Avery,Dubai,2025-08-25,App,Premium
+CUST_00165,Bailey Duran DDS,Dubai,2025-08-10,Web,Regular
+CUST_00166,Jamie Kerr,Sharjah,2025-05-05,Web,Regular
+CUST_00167,Wanda Torres,Dubai,2025-02-21,App,Regular
+CUST_00168,Natalie Meza,Sharjah,2025-04-27,Web,VIP
+CUST_00169,Deborah Miller,Abu Dhabi,2025-03-01,Web,Regular
+CUST_00170,Benjamin Smith,Dubai,2025-08-08,Web,Regular
+CUST_00171,Julie Johnson,Dubai,2025-01-11,Web,Premium
+CUST_00172,Michele Gibson,Sharjah,2025-10-05,Web,Regular
+CUST_00173,Rachel Weber,Dubai,2025-05-03,App,Regular
+CUST_00174,Joshua Holland,Dubai,2025-08-23,App,Regular
+CUST_00175,Andrea Martin,Dubai,2025-01-17,Web,Regular
+CUST_00176,Samantha Morse,Sharjah,2025-04-23,Web,Regular
+CUST_00177,Michael Lyons,Sharjah,2025-04-25,Web,Regular
+CUST_00178,Katherine Miller,Dubai,2025-04-15,App,Regular
+CUST_00179,Morgan Munoz,Abu Dhabi,2025-11-15,Referral,Regular
+CUST_00180,Vernon Huff,Dubai,2025-06-03,App,Regular
+CUST_00181,Miss Debra Williams PhD,Abu Dhabi,2025-12-20,App,Regular
+CUST_00182,Jessica Ramirez,Dubai,2025-11-11,Call Center,Regular
+CUST_00183,Katherine Davis,Dubai,2025-08-21,Referral,Regular
+CUST_00184,Frank Garcia,Dubai,2025-08-12,Referral,Regular
+CUST_00185,Michael Roberts,Ras Al Khaimah,2025-04-08,App,Regular
+CUST_00186,Krista Gibson,Ajman,2025-12-05,Web,Regular
+CUST_00187,Brian Barton,Sharjah,2025-05-17,App,Regular
+CUST_00188,Kimberly Gutierrez,AD,2025-08-17,Web,Regular
+CUST_00189,Lisa Jimenez,Sharjah,2025-05-26,App,Regular
+CUST_00190,Christina Dunn,Dubai,2025-12-26,App,Regular
+CUST_00191,Michael Martinez,Dubai,2025-01-14,Web,Regular
+CUST_00192,Emily Smith,Dubai,2025-06-21,Call Center,Regular
+CUST_00193,Willie Durham,Sharjah,2025-10-04,App,Regular
+CUST_00194,Maria Moore,Abu Dhabi,2025-04-08,App,Premium
+CUST_00195,Denise Davenport,Sharjah,2025-12-04,Referral,VIP
+CUST_00196,Juan Reyes,Dubai,2025-02-08,Referral,Premium
+CUST_00197,Desiree Tyler,Dubai,2025-12-19,App,Premium
+CUST_00198,Richard Adams,dubai,2025-10-17,Call Center,Regular
+CUST_00199,Edwin Matthews,Dubai,2025-03-23,Web,Regular
+CUST_00200,Jill Washington,Ajman,2025-04-03,Web,Regular
+CUST_00201,Kimberly Gibson,Sharjah,2025-10-19,Web,Regular
+CUST_00202,Veronica Allen,Sharjah,2025-05-27,Web,Regular
+CUST_00203,Reginald Williams,Dubai,2025-11-09,Referral,Regular
+CUST_00204,Roberta Hughes,Dxb,2025-05-18,App,Premium
+CUST_00205,Andrew Shaw MD,Sharjah,2025-01-19,Call Center,Regular
+CUST_00206,Jessica Fox,Sharjah,2025-06-10,App,Regular
+CUST_00207,Charles Pitts,Dubai,2025-10-20,App,Regular
+CUST_00208,Richard Baker,Sharjah,2025-05-07,Call Center,Regular
+CUST_00209,Sarah Phelps,Abu Dhabi,2025-11-03,Call Center,Regular
+CUST_00210,Lori Clay,Dubai,2025-06-10,Web,Regular
+CUST_00211,Amanda Jones,Abu Dhabi,2025-06-26,Web,Regular
+CUST_00212,Nicole Hamilton MD,SHJ,2025-10-23,Web,Regular
+CUST_00213,Michael Berger,Sharjah,2025-09-15,Referral,Regular
+CUST_00214,Anthony Howard,Abu Dhabi,2025-11-03,App,Regular
+CUST_00215,Joseph Knight,Ajman,2025-04-18,Web,Regular
+CUST_00216,Bob Pitts,Dubai,2025-11-16,Web,Regular
+CUST_00217,Mr. David Little MD,Ajman,2025-05-17,Referral,Premium
+CUST_00218,Julie Roberts,Dubai,2025-04-06,App,Regular
+CUST_00219,Tony Huerta,Dubai,2025-10-27,Call Center,VIP
+CUST_00220,Jessica Wright,Dubai,2025-04-15,Referral,Premium
+CUST_00221,James Webb,Dubai,2025-11-13,App,Regular
+CUST_00222,Ian Phillips,Dubai,2025-06-02,App,Premium
+CUST_00223,Ronald Foster,Dubai,2025-11-13,App,Regular
+CUST_00224,Melissa Garner,Dubai,2025-01-29,Call Center,VIP
+CUST_00225,Natasha Wall,ABU DHABI,2025-12-17,Web,Regular
+CUST_00226,Crystal Pham,Abu Dhabi,2025-07-02,App,Regular
+CUST_00227,Lisa Byrd,Dubai,2025-12-14,App,Premium
+CUST_00228,Stephanie Lucas,Dubai,2025-06-07,App,Regular
+CUST_00229,Amanda Diaz,Dubai,2025-03-29,Web,Regular
+CUST_00230,Edward Burgess,Ajman,2025-03-08,Referral,Regular
+CUST_00231,Richard Walter,Abu Dhabi,2025-05-25,App,Regular
+CUST_00232,Susan Rivas,Sharjah,2025-11-18,App,Regular
+CUST_00233,Terry Coffey,Dubai,2025-10-17,Call Center,Regular
+CUST_00234,Gina Wilson,Dubai,2025-06-28,Web,Regular
+CUST_00235,Vincent Dalton,Abu Dhabi,2025-08-14,Web,Regular
+CUST_00236,Regina Diaz,Dubai,2025-02-28,Referral,Regular
+CUST_00237,Joshua Gibson,Dubai,2026-01-05,Web,Premium
+CUST_00238,Samantha Bentley,Ras Al Khaimah,2025-10-19,Web,Regular
+CUST_00239,Kaitlyn Harvey,Dubai,2025-09-08,App,Regular
+CUST_00240,Connie Brown,Abu Dhabi,2025-11-28,App,Premium
+CUST_00241,Elizabeth Ortiz,Dubai,2025-04-11,Web,Premium
+CUST_00242,Andrew Ferrell,Sharjah,2025-04-02,Web,Premium
+CUST_00243,Stephen Taylor,Sharjah,2025-06-18,App,Regular
+CUST_00244,Travis Horton,Dubai,2025-01-11,Web,Premium
+CUST_00245,Molly Mcclure,Sharjah,2025-04-26,App,Regular
+CUST_00246,Lisa Crosby,Abu Dhabi,2025-01-06,Referral,Regular
+CUST_00247,Jacob Ramos,Dubai,2025-07-18,Web,Regular
+CUST_00248,Ariana Jennings,Abu Dhabi,2025-09-17,Web,Regular
+CUST_00249,Donald Donaldson,Dubai,2025-12-12,Call Center,Regular
+CUST_00250,Daniel Fowler,Abu Dhabi,2025-03-04,Call Center,Premium
+CUST_00251,Gavin Zhang,Abu Dhabi,2025-04-29,Web,Premium
+CUST_00252,Phillip Clark,Sharjah,2025-10-12,App,Regular
+CUST_00253,Crystal Schroeder,Sharjah,2025-01-08,App,VIP
+CUST_00254,William Huerta,Sharjah,2025-10-24,App,VIP
+CUST_00255,Ashley Delacruz,DUBAI,2025-12-26,Web,Regular
+CUST_00256,Richard Young,Abu Dhabi,2025-03-21,App,Regular
+CUST_00257,Derek Martinez,Dubai,2025-11-13,App,Premium
+CUST_00258,Nichole Alvarez,Dubai,2025-08-29,Web,Regular
+CUST_00259,Ashley Gordon,Ajman,2025-07-13,Web,Regular
+CUST_00260,Susan Hopkins,Dubai,2026-01-02,App,Regular
+CUST_00261,Victor Brown,Sharjah,2025-02-02,App,Regular
+CUST_00262,Jessica Rodriguez,Dubai,2025-04-27,Web,Regular
+CUST_00263,Bobby Franklin,Ajman,2025-02-28,Web,VIP
+CUST_00264,Marcus Richards,Sharjah,2025-10-20,App,Regular
+CUST_00265,Kyle Phillips,Dubai,2025-09-05,App,Regular
+CUST_00266,Michael Farrell,ABU DHABI,2025-07-24,Call Center,Regular
+CUST_00267,Stephen Gutierrez,Dubai,2025-01-21,Web,Premium
+CUST_00268,Nicholas Edwards,Abu Dhabi,2025-01-29,App,Premium
+CUST_00269,Jacqueline Hernandez,Sharjah,2025-06-25,Referral,Regular
+CUST_00270,Ronald Davis,Dubai,2025-04-15,App,VIP
+CUST_00271,Jacqueline Anderson,Dubai,2025-11-30,Web,Regular
+CUST_00272,Kristina Rivera,Dubai,2025-03-25,Call Center,Premium
+CUST_00273,Shane Pugh,Sharjah,2025-08-07,Web,Regular
+CUST_00274,Michelle Schmitt,Ras Al Khaimah,2025-04-03,Web,Regular
+CUST_00275,Kenneth Lewis,Dubai,2025-01-30,App,Premium
+CUST_00276,Brian Bruce,Ajman,2025-10-13,Web,VIP
+CUST_00277,Donald Perez,Dubai,2025-05-01,Web,Regular
+CUST_00278,Vanessa Cardenas,Dubai,2025-11-15,Referral,Regular
+CUST_00279,Mary Steele,Ajman,2025-04-17,App,Regular
+CUST_00280,Michael Parker,Dubai,2025-07-11,Web,Premium
+CUST_00281,Christopher Thomas,Abu Dhabi,2025-07-06,Web,Regular
+CUST_00282,Patrick Bonilla,Sharjah,2025-01-08,Call Center,Regular
+CUST_00283,Cindy Barnes,Abu Dhabi,2025-01-20,Web,Premium
+CUST_00284,Eric Nguyen,Abu Dhabi,2025-08-19,Call Center,Regular
+CUST_00285,Brittney Webster,Ajman,2025-05-25,App,VIP
+CUST_00286,Denise Stanley,Dubai,2025-11-02,App,Premium
+CUST_00287,Jennifer Lewis,Abu Dhabi,2025-09-06,Web,Regular
+CUST_00288,Brian Gregory,Dubai,2025-09-27,App,Regular
+CUST_00289,Elizabeth Walker,Abu Dhabi,2025-03-10,App,Regular
+CUST_00290,Eric Clark,Dubai,2025-06-11,Call Center,Premium
+CUST_00291,Donna Wilson,Abu Dhabi,2025-07-16,Referral,Regular
+CUST_00292,Casey James,Dubai,2025-12-14,App,VIP
+CUST_00293,Sandra Drake,Sharjah,2025-07-21,Referral,Premium
+CUST_00294,Patrick Graham,Abu Dhabi,2025-03-07,Web,Regular
+CUST_00295,Shannon Johnston,Ras Al Khaimah,2025-03-04,Web,Premium
+CUST_00296,Jennifer Wilson,Dubai,2025-09-04,Web,Regular
+CUST_00297,Carolyn Meza,Dubai,2025-08-10,App,VIP
+CUST_00298,Tamara Davis,Sharjah,2025-01-09,App,VIP
+CUST_00299,Kevin Warren,Ajman,2025-04-13,Web,Regular
+CUST_00300,Nichole Walker,Dubai,2025-07-01,Web,VIP
+CUST_00301,Mark Schmidt,Ajman,2025-08-19,App,Regular
+CUST_00302,Hannah Luna,Abu Dhabi,2025-11-29,Call Center,Premium
+CUST_00303,Charles Gonzalez,Abu Dhabi,2025-11-23,App,Regular
+CUST_00304,Mary Thompson,Dubai,2025-08-18,Call Center,Premium
+CUST_00305,Justin Riley,Sharjah,2025-09-22,Web,Regular
+CUST_00306,Lori Hernandez,Dubai,2025-02-11,App,Premium
+CUST_00307,Mark Hogan,Abu Dhabi,2025-02-10,App,Regular
+CUST_00308,Benjamin Murray,Dubai,2025-03-26,App,Premium
+CUST_00309,Ronald Jones,Abu Dhabi,2025-04-29,Call Center,Regular
+CUST_00310,Katie Ford,Sharjah,2025-12-17,Call Center,Premium
+CUST_00311,Robert Pearson,AD,2025-12-06,Web,Premium
+CUST_00312,Kathryn Rosario,Ajman,2025-06-22,App,Regular
+CUST_00313,Steven Cooper,Ajman,2025-12-26,Web,Premium
+CUST_00314,Carrie Wright,Dubai,2025-08-27,Referral,Regular
+CUST_00315,Kelly Bishop MD,Ajman,2025-06-13,App,Premium
+CUST_00316,Raymond Shelton,Dubai,2025-12-26,Web,Premium
+CUST_00317,Maria Jones,Dubai,2025-08-16,App,Regular
+CUST_00318,Jasmine King,Abu Dhabi,2025-12-30,App,Regular
+CUST_00319,Kevin Thomas,Abu Dhabi,2025-06-16,App,Regular
+CUST_00320,Matthew Bates,Dxb,2025-08-25,Referral,Regular
+CUST_00321,Teresa Collins,Abu Dhabi,2025-08-14,Call Center,Premium
+CUST_00322,Erin Anderson,Dubai,2025-09-03,Referral,Regular
+CUST_00323,Jessica Cox,Sharjah,2025-07-16,App,Regular
+CUST_00324,Trevor Peterson,Ajman,2025-10-01,Referral,VIP
+CUST_00325,Zachary Moore,Sharjah,2025-08-19,Web,Regular
+CUST_00326,Ashley Wise,Dubai,2025-02-06,App,Regular
+CUST_00327,Sherri Williamson,Sharjah,2025-03-03,App,Regular
+CUST_00328,Christopher Schwartz,Abu Dhabi,2025-01-08,Web,Regular
+CUST_00329,Amanda Diaz,Dubai,2025-10-16,Web,Regular
+CUST_00330,Lisa Goodwin,Dubai,2025-03-29,Web,Regular
+CUST_00331,David Sheppard,Ras Al Khaimah,2025-08-28,App,Premium
+CUST_00332,Cheyenne Gregory,Ajman,2025-12-27,Web,Regular
+CUST_00333,Douglas Reyes,Dubai,2025-09-18,App,Premium
+CUST_00334,Ruth Solis,Sharjah,2025-06-16,App,Regular
+CUST_00335,Amy Castillo,Dubai,2025-10-02,Web,Regular
+CUST_00336,Ashley Singleton,Dubai,2025-05-29,App,Regular
+CUST_00337,Phillip Nelson,Abu Dhabi,2025-02-23,Call Center,Regular
+CUST_00338,Anna Lozano,Dubai,2025-07-04,Referral,VIP
+CUST_00339,Tara Perry,Dubai,2025-01-19,Web,Regular
+CUST_00340,Cynthia Vang,Dubai,2025-08-28,App,Regular
+CUST_00341,Fernando Garcia,Dubai,2025-11-19,Web,Regular
+CUST_00342,Brenda Mitchell,Abu Dhabi,2025-03-17,App,Regular
+CUST_00343,Brenda Thornton,Dubai,2025-10-05,Web,Regular
+CUST_00344,Susan Smith,Ras Al Khaimah,2025-06-19,App,Regular
+CUST_00345,Kimberly Acosta,Ajman,2025-04-16,Referral,Premium
+CUST_00346,Dwayne Turner,Sharjah,2025-02-14,App,VIP
+CUST_00347,Mark Dean,Dubai,2025-03-25,Web,Regular
+CUST_00348,Taylor Carlson,Dubai,2025-09-03,App,Regular
+CUST_00349,Laura Higgins,Dubai,2025-03-22,App,Regular
+CUST_00350,Lucas Allen,Dubai,2025-12-29,App,Regular
+CUST_00351,Michael Mills,Sharjah,2025-04-20,App,Regular
+CUST_00352,Joseph Romero,Abu Dhabi,2025-05-07,App,VIP
+CUST_00353,John Reid,Dubai,2025-02-14,Web,Premium
+CUST_00354,Alan Kramer,Sharjah,2025-11-18,Call Center,Regular
+CUST_00355,Matthew Garcia,Abu Dhabi,2025-03-29,Web,Regular
+CUST_00356,Harold Morgan,Sharjah,2025-01-07,App,Regular
+CUST_00357,Melinda Pollard,Abu Dhabi,2025-01-16,App,Regular
+CUST_00358,Robin Brown,Ajman,2025-05-06,App,Regular
+CUST_00359,Dakota Moody,Sharjah,2025-08-13,Call Center,Regular
+CUST_00360,Eric Sanders,Abu Dhabi,2025-03-27,App,Regular
+CUST_00361,Paul Lee,Dubai,2025-11-12,Referral,Regular
+CUST_00362,Amber Rios,Dubai,2025-02-08,App,Regular
+CUST_00363,Jacob Preston,Dubai,2025-12-02,App,VIP
+CUST_00364,Jasmine Beltran,Abu Dhabi,2025-01-28,Web,Regular
+CUST_00365,Holly Salinas,Dubai,2025-01-24,Web,Regular
+CUST_00366,Monica Miller,Abu Dhabi,2025-04-19,Web,Premium
+CUST_00367,Erica Miller,Abu Dhabi,2025-03-11,Web,Premium
+CUST_00368,Lance Simmons,Sharjah,2025-09-04,Web,VIP
+CUST_00369,Andrew Berg,Dubai,2025-08-29,Web,Premium
+CUST_00370,Jessica Fowler,Dubai,2025-10-13,Web,VIP
+CUST_00371,Mark Cox,Dubai,2025-01-18,Referral,Regular
+CUST_00372,Brenda Lawson,Ajman,2025-02-14,App,Premium
+CUST_00373,Austin Osborne,Abu Dhabi,2025-08-23,App,Regular
+CUST_00374,Travis Johnson,Dubai,2025-12-15,Referral,Regular
+CUST_00375,Tiffany Watson,Sharjah,2025-06-17,Referral,Regular
+CUST_00376,Kendra Sanders,Dubai,2025-07-18,Web,Regular
+CUST_00377,Brian Fitzgerald,Abu Dhabi,2025-12-02,Call Center,Regular
+CUST_00378,Susan Wilson,Dubai,2025-06-24,Referral,Regular
+CUST_00379,Cindy Carr,Dubai,2025-10-15,App,Premium
+CUST_00380,Chad Jones,Sharjah,2025-06-18,Call Center,Premium
+CUST_00381,Jill Miller,Abu Dhabi,2025-07-30,Web,Regular
+CUST_00382,Michelle Pierce,DUBAI,2025-12-04,App,Regular
+CUST_00383,Sarah Joseph,Ajman,2025-10-16,Web,Regular
+CUST_00384,Katie Martinez,Dubai,2025-03-04,App,Regular
+CUST_00385,Cynthia Snyder,Dubai,2025-10-07,Referral,VIP
+CUST_00386,Jackie Lara,Dubai,2025-08-09,Web,Premium
+CUST_00387,Angelica Parker,Abu Dhabi,2025-07-01,App,Regular
+CUST_00388,Patricia Morrow,Dubai,2025-05-10,App,Premium
+CUST_00389,Evan Jones,Dubai,2025-01-12,Referral,Regular
+CUST_00390,Haley Humphrey,Sharjah,2025-12-22,App,VIP
+CUST_00391,Betty Shaw,Dubai,2025-07-16,Call Center,VIP
+CUST_00392,Kelly Torres,Sharjah,2025-04-28,App,Premium
+CUST_00393,Michael Reed,Ajman,2025-03-21,App,Premium
+CUST_00394,Danielle Reid,Ajman,2025-01-05,App,Regular
+CUST_00395,Eric Ferguson,Dubai,2025-03-14,Web,Regular
+CUST_00396,Lauren Jackson,Dubai,2025-07-15,App,VIP
+CUST_00397,Kristy Bryan,Abu Dhabi,2025-06-29,Call Center,Regular
+CUST_00398,Travis Wise,Dubai,2025-11-24,Web,Premium
+CUST_00399,Pamela Butler,Ajman,2025-01-23,Call Center,Premium
+CUST_00400,Mr. Dylan Frye MD,Sharjah,2025-12-09,Call Center,Regular
+CUST_00401,Benjamin Brown,Dubai,2025-04-03,App,Regular
+CUST_00402,John Peterson,Abu Dhabi,2025-05-27,Web,Regular
+CUST_00403,Nathan Gross,Abu Dhabi,2025-11-05,Web,Regular
+CUST_00404,Bianca Wood,Dubai,2025-09-28,Web,Regular
+CUST_00405,John Adams,Abu Dhabi,2025-09-26,App,Premium
+CUST_00406,Anthony Dougherty,Abu Dhabi,2025-05-01,Call Center,Regular
+CUST_00407,Sean Moore,Dubai,2025-11-04,Web,Regular
+CUST_00408,Michelle Lee,Abu Dhabi,2025-12-13,Call Center,Premium
+CUST_00409,Mr. Jonathan Parker Jr.,Ras Al Khaimah,2025-01-25,App,Regular
+CUST_00410,Tracy Lewis,Abu Dhabi,2025-05-08,Referral,Regular
+CUST_00411,Douglas Harper,Dubai,2025-11-24,Referral,Regular
+CUST_00412,Adam Rodriguez,Dubai,2025-02-25,Web,VIP
+CUST_00413,Monica Gallagher,Abu Dhabi,2025-05-20,App,Regular
+CUST_00414,Anthony Hoffman,Sharjah,2025-03-22,Web,Regular
+CUST_00415,Angel Gordon,dubai,2025-12-21,Call Center,Premium
+CUST_00416,Lisa Carr,Dubai,2025-11-12,Call Center,Regular
+CUST_00417,Jennifer Norton,Ajman,2025-03-29,Web,Premium
+CUST_00418,Holly Thomas,Abu Dhabi,2025-06-26,Web,VIP
+CUST_00419,Amber Taylor,Abu Dhabi,2025-05-02,Web,Regular
+CUST_00420,Kelly Hernandez,Sharjah,2025-10-02,Web,Regular
+CUST_00421,Louis Martin,Sharjah,2025-03-17,Call Center,Regular
+CUST_00422,Katie Hicks,Dubai,2025-03-13,App,Premium
+CUST_00423,Elizabeth Cabrera,Abu Dhabi,2025-07-25,Call Center,Premium
+CUST_00424,Brian Butler,Dubai,2025-09-03,App,Regular
+CUST_00425,Molly Watts,Ajman,2025-06-14,App,Regular
+CUST_00426,Deborah Rios,Dubai,2025-05-27,App,Regular
+CUST_00427,Lauren Jackson,Abu Dhabi,2025-03-23,Web,Regular
+CUST_00428,Michael Johnson,Dubai,2025-11-20,App,Regular
+CUST_00429,Jeremy Barnes,Abu Dhabi,2025-05-09,Web,Regular
+CUST_00430,Jennifer Hampton,Ras Al Khaimah,2025-07-11,Call Center,Regular
+CUST_00431,Nancy Brown,Dubai,2025-10-19,App,Regular
+CUST_00432,Kristina Bolton,Dubai,2025-12-23,Web,Regular
+CUST_00433,Emily Thompson,Dubai,2025-03-15,App,Regular
+CUST_00434,Megan Dillon,Abu Dhabi,2025-05-14,Web,Regular
+CUST_00435,Cheryl Wright,Abu Dhabi,2025-09-25,Call Center,Regular
+CUST_00436,William Evans,Abu Dhabi,2025-03-03,App,Regular
+CUST_00437,Melissa Burns,Ras Al Khaimah,2025-09-19,App,VIP
+CUST_00438,Timothy Pope,Abu Dhabi,2025-04-30,App,Regular
+CUST_00439,Kenneth Daniels,Ras Al Khaimah,2025-12-03,Web,Premium
+CUST_00440,Tina Ballard,Dubai,2025-04-20,App,Regular
+CUST_00441,Tyler Miller,Sharjah,2025-05-29,App,VIP
+CUST_00442,Nicole Lewis,Abu Dhabi,2025-02-03,App,Regular
+CUST_00443,Melissa Taylor,Dubai,2025-01-09,Web,Premium
+CUST_00444,Michael Schmidt,Dubai,2025-10-17,Web,Regular
+CUST_00445,Jason Love,Dubai,2025-08-23,Call Center,Regular
+CUST_00446,Brenda Oconnell,Abu Dhabi,2025-08-18,App,Regular
+CUST_00447,Timothy Johns,Dubai,2025-08-29,App,Regular
+CUST_00448,Nicole Mitchell,Ajman,2025-12-01,Call Center,Regular
+CUST_00449,Susan Davis,Ajman,2025-11-11,App,Premium
+CUST_00450,Miranda Zuniga,Abu Dhabi,2025-11-16,Call Center,Regular
+CUST_00451,Ryan Peck,Ajman,2025-02-15,Web,Regular
+CUST_00452,Jennifer Simpson DVM,Sharjah,2025-06-11,Web,Regular
+CUST_00453,Alexandra Bradley,Dubai,2025-01-18,App,Regular
+CUST_00454,Frances Gibson,Dubai,2025-05-14,App,VIP
+CUST_00455,Brandi Gordon,Abu Dhabi,2025-09-27,Call Center,Regular
+CUST_00456,Brian Martin,AJMAN,2025-06-17,Web,Regular
+CUST_00457,Michelle Smith,Ajman,2025-08-30,App,Regular
+CUST_00458,Laura Todd,Dubai,2025-01-29,Web,Regular
+CUST_00459,Margaret Sullivan,Abu Dhabi,2025-01-29,App,Regular
+CUST_00460,Angie Caldwell,Sharjah,2025-05-12,Web,Regular
+CUST_00461,Mrs. Taylor Smith,Abu Dhabi,2025-05-30,App,Premium
+CUST_00462,Paul Finley,Dubai,2025-02-16,Web,Regular
+CUST_00463,Laura Green,Dubai,2025-01-09,Call Center,Regular
+CUST_00464,Amy Wilson,Dxb,2025-09-28,Call Center,Regular
+CUST_00465,Michael Leblanc,Dubai,2025-03-28,App,Regular
+CUST_00466,Margaret Shepard,Sharjah,2025-09-24,Web,Regular
+CUST_00467,Colleen Anderson,Abu Dhabi,2025-04-17,App,Regular
+CUST_00468,William Brooks,dubai,2025-08-13,Web,Regular
+CUST_00469,Rebecca Petersen,Abu Dhabi,2025-03-08,Call Center,Regular
+CUST_00470,Linda Cobb,Sharjah,2025-01-11,Web,Regular
+CUST_00471,Heidi Stark,Dubai,2025-03-31,Referral,Regular
+CUST_00472,Joshua Wagner,Dubai,2025-09-07,Call Center,Regular
+CUST_00473,Scott Ramos,Sharjah,2025-03-10,App,Premium
+CUST_00474,Katherine Nolan,Abu Dhabi,2025-07-04,Call Center,VIP
+CUST_00475,Jody Palmer,Abu Dhabi,2025-07-11,Web,Regular
+CUST_00476,Kristin Chambers,Dubai,2025-05-01,Web,Regular
+CUST_00477,Jennifer Velasquez,Dubai,2025-09-13,Web,Premium
+CUST_00478,Amber Cooper,Abu Dhabi,2025-02-15,Call Center,Premium
+CUST_00479,Amy Shannon,Ras Al Khaimah,2025-01-21,Web,VIP
+CUST_00480,Jason Mack,Sharjah,2025-02-21,App,Premium
+CUST_00481,Steven West,Dubai,2025-08-24,Web,Regular
+CUST_00482,Michael Stanley,Sharjah,2025-08-06,Web,Regular
+CUST_00483,Hannah White,Dubai,2025-12-14,Call Center,Regular
+CUST_00484,Monica Walker,Ras Al Khaimah,2025-04-01,Web,Regular
+CUST_00485,Veronica Ford,Dubai,2025-02-16,Web,Premium
+CUST_00486,Samantha Wright,Dubai,2025-01-21,Referral,Premium
+CUST_00487,Colin Golden,Dubai,2026-01-05,Referral,VIP
+CUST_00488,Matthew Mendez,Ajman,2025-02-01,App,Regular
+CUST_00489,Austin Wheeler,Abu Dhabi,2025-12-22,App,Regular
+CUST_00490,Michele Williams,Dubai,2025-08-12,Call Center,Premium
+CUST_00491,David Robinson,Dubai,2025-11-29,App,Regular
+CUST_00492,Wyatt Young,Dubai,2025-11-24,Call Center,Regular
+CUST_00493,Patricia Cardenas,Abu Dhabi,2025-07-13,Call Center,Regular
+CUST_00494,Charles Keller,Dubai,2025-12-17,Referral,Regular
+CUST_00495,Donald Hawkins,Abu Dhabi,2025-12-21,Web,Regular
+CUST_00496,Jessica Simpson,Dubai,2025-01-14,App,VIP
+CUST_00497,Megan Floyd,Dubai,2025-06-06,App,Regular
+CUST_00498,Jennifer Evans,Dubai,2025-04-28,Referral,Regular
+CUST_00499,Kara Atkinson,Dubai,2025-10-19,Web,Regular
+CUST_00500,Brianna Ford,Ras Al Khaimah,2025-05-06,Call Center,Premium
+CUST_00501,Tracy Grant,Sharjah,2025-08-25,Web,Regular
+CUST_00502,David Rivera,Dubai,2025-05-10,Call Center,Premium
+CUST_00503,Sarah Davis,Sharjah,2025-08-28,App,Regular
+CUST_00504,James Jacobs,Sharjah,2025-12-15,Referral,Regular
+CUST_00505,Chelsea Gill,Dubai,2025-02-02,Web,Regular
+CUST_00506,Sean Cook,Ras Al Khaimah,2025-04-02,App,Regular
+CUST_00507,Colton Figueroa,Sharjah,2025-12-23,Web,Regular
+CUST_00508,Melissa Padilla,ABU DHABI,2025-02-03,Call Center,Regular
+CUST_00509,Kristen Rowe,Sharjah,2025-04-25,App,Regular
+CUST_00510,Matthew Parker,Sharjah,2026-01-03,Web,VIP
+CUST_00511,Kathleen Garcia,Dubai,2025-08-16,Call Center,Regular
+CUST_00512,Erica Harris,Dxb,2025-11-02,Web,Regular
+CUST_00513,Justin Walker,Dubai,2025-01-17,Web,Regular
+CUST_00514,Juan Silva,Sharjah,2025-11-14,App,Premium
+CUST_00515,Craig Hall,Dubai,2025-01-24,App,Regular
+CUST_00516,Mr. Michael Scott PhD,DUBAI,2025-11-12,Web,Regular
+CUST_00517,Nicholas Bell,Dubai,2025-05-16,Web,Premium
+CUST_00518,Katherine Stark,Abu Dhabi,2025-10-24,Web,Regular
+CUST_00519,Sara Jones,Dubai,2025-07-25,Web,Regular
+CUST_00520,Jennifer Kirby,Sharjah,2025-01-24,Web,Premium
+CUST_00521,Chris Robinson,Abu Dhabi,2025-01-07,App,Regular
+CUST_00522,Luke Estrada,Abu Dhabi,2025-09-15,Web,Regular
+CUST_00523,Alexis Patel,Abu Dhabi,2025-07-11,Call Center,Regular
+CUST_00524,Joseph Hill,Dubai,2025-06-05,App,Premium
+CUST_00525,Robert Craig,Sharjah,2025-12-26,Web,Regular
+CUST_00526,Brent Hernandez,Dubai,2025-07-06,Web,Regular
+CUST_00527,Dawn Gomez,Dubai,2025-04-27,Web,Premium
+CUST_00528,Tyler Stevens,Ras Al Khaimah,2025-05-02,Web,Regular
+CUST_00529,Courtney Sutton DVM,Abu Dhabi,2025-09-01,App,Regular
+CUST_00530,James Tran,Ras Al Khaimah,2025-05-08,App,Regular
+CUST_00531,Michele Miller,Abu Dhabi,2025-03-06,Referral,Regular
+CUST_00532,Erin Madden,Sharjah,2025-12-20,Call Center,Regular
+CUST_00533,Tamara Hall,Abu Dhabi,2026-01-04,Call Center,Regular
+CUST_00534,Thomas Cohen,Ajman,2025-03-14,Call Center,Regular
+CUST_00535,Kristy Johnson,Sharjah,2025-03-19,Referral,Premium
+CUST_00536,Daniel Thomas,Abu Dhabi,2025-05-10,Web,Regular
+CUST_00537,Elizabeth Elliott,Abu Dhabi,2025-11-13,App,Regular
+CUST_00538,Kimberly Reyes,Dubai,2026-01-03,App,Premium
+CUST_00539,Melissa Miller,Sharjah,2025-02-09,App,Regular
+CUST_00540,Jeffrey Roberson,Dubai,2025-12-12,App,Regular
+CUST_00541,Lisa Larson,Ajman,2025-05-04,Referral,Regular
+CUST_00542,Donald Riddle,Abu Dhabi,2025-08-09,Call Center,Regular
+CUST_00543,Juan Bennett,Abu Dhabi,2025-07-07,App,Regular
+CUST_00544,Mary Miller,Abu Dhabi,2025-01-25,Web,Regular
+CUST_00545,Michelle Miller,Dubai,2025-05-11,App,Premium
+CUST_00546,Richard Moore,Abu Dhabi,2025-05-27,Call Center,Regular
+CUST_00547,Brian Smith,Sharjah,2025-05-26,Web,VIP
+CUST_00548,Philip Garcia,Dubai,2025-05-15,Web,Regular
+CUST_00549,Jerry Peters,Dubai,2025-12-15,Referral,VIP
+CUST_00550,Brandon Spencer,Dubai,2025-06-14,App,Regular
+CUST_00551,Alexandria Gutierrez,Dubai,2025-11-27,Web,Regular
+CUST_00552,Kristin Haney,Ras Al Khaimah,2025-03-06,Call Center,Premium
+CUST_00553,Carolyn James,Dubai,2025-03-31,Web,Regular
+CUST_00554,Derrick Thomas,Dubai,2025-04-12,Web,Regular
+CUST_00555,Jason Washington,Ajman,2025-04-26,App,Regular
+CUST_00556,Tony Le,Ajman,2025-05-09,Web,Regular
+CUST_00557,Christina Rodriguez,Sharjah,2025-10-25,Call Center,Regular
+CUST_00558,James Skinner,Dubai,2025-11-19,Web,Regular
+CUST_00559,Erin Cook,Ajman,2025-06-07,App,Premium
+CUST_00560,Larry Dominguez,Abu Dhabi,2025-08-24,Call Center,Premium
+CUST_00561,Vincent Novak,Ajman,2025-06-21,Referral,Premium
+CUST_00562,Mackenzie Faulkner,Dubai,2025-09-09,Web,VIP
+CUST_00563,Douglas Hartman,Abu Dhabi,2025-08-19,App,Regular
+CUST_00564,Justin Vargas,Sharjah,2025-07-01,App,Regular
+CUST_00565,Krista Benton,Dubai,2025-09-29,Web,Regular
+CUST_00566,Christine Salinas,Sharjah,2025-06-17,App,Regular
+CUST_00567,Rebecca Ortiz,Abu Dhabi,2025-08-30,Web,Regular
+CUST_00568,Eric King,Sharjah,2025-09-29,App,Regular
+CUST_00569,Rachel Jones,Dubai,2025-10-14,App,VIP
+CUST_00570,Kimberly Mclean,Dubai,2025-05-13,App,Regular
+CUST_00571,Rachel Ward,Sharjah,2025-06-29,App,Regular
+CUST_00572,David Ortega,Abu Dhabi,2025-09-07,Call Center,Regular
+CUST_00573,Amanda Terrell,Sharjah,2025-01-20,Referral,Regular
+CUST_00574,Erin Hogan,Dubai,2025-06-11,Web,Regular
+CUST_00575,David Dixon,Ajman,2025-08-15,Web,Regular
+CUST_00576,James Barton,Sharjah,2025-05-15,Web,Premium
+CUST_00577,Alexander Garcia,AJMAN,2025-05-17,Referral,Regular
+CUST_00578,Angelica Guerra,Dubai,2025-05-18,Web,Regular
+CUST_00579,Grant Mueller,Abu Dhabi,2026-01-03,Web,Regular
+CUST_00580,Brent Bowen,Abu Dhabi,2025-05-15,Call Center,Regular
+CUST_00581,Eric Patrick,Dubai,2025-06-09,Call Center,Regular
+CUST_00582,Greg Rodriguez,Dubai,2025-07-03,Referral,Premium
+CUST_00583,Natalie Black,Dubai,2025-03-20,Web,Regular
+CUST_00584,Jeffery Murray,Dubai,2025-11-25,Call Center,Premium
+CUST_00585,Charlotte Sandoval,Dubai,2025-10-20,App,Regular
+CUST_00586,Lucas Gonzalez,Dubai,2025-09-09,App,Regular
+CUST_00587,Michael Harris,Ajman,2025-05-08,Referral,Regular
+CUST_00588,Rebecca Herrera,Dubai,2025-03-12,Web,Regular
+CUST_00589,Jim Baker,Dubai,2025-07-14,App,Premium
+CUST_00590,Margaret Harper,Abu Dhabi,2025-05-26,Referral,Regular
+CUST_00591,Hannah Bruce,Sharjah,2025-09-13,Web,Regular
+CUST_00592,Michele Evans,Ajman,2025-09-12,App,Regular
+CUST_00593,Emily Allen,Dubai,2025-02-19,Web,Premium
+CUST_00594,Michael Dixon,Abu Dhabi,2025-02-08,Web,Premium
+CUST_00595,Laura Henderson,Abu Dhabi,2025-10-12,Web,Regular
+CUST_00596,Melissa Brewer,Ras Al Khaimah,2025-06-03,Call Center,Regular
+CUST_00597,Katherine Taylor,Ajman,2025-10-06,Call Center,Regular
+CUST_00598,Lisa Glenn,Ras Al Khaimah,2025-03-08,Web,Regular
+CUST_00599,Mr. James Hoffman,Abu Dhabi,2025-10-06,Call Center,Regular
+CUST_00600,John Mckinney,Sharjah,2025-11-17,App,Regular
+CUST_00601,Bradley Johnson DDS,Dubai,2025-06-14,Web,Regular
+CUST_00602,Danny Roberts,Abu Dhabi,2025-08-19,App,Premium
+CUST_00603,Patricia Simpson,Abu Dhabi,2025-03-13,Call Center,Premium
+CUST_00604,Debra Daniels,DUBAI,2025-03-31,Call Center,Regular
+CUST_00605,Nicole Wolf,Dubai,2025-03-07,Call Center,Regular
+CUST_00606,Wanda Garcia,Abu Dhabi,2025-03-09,Call Center,Regular
+CUST_00607,Zachary Cole,Sharjah,2025-11-04,Call Center,Regular
+CUST_00608,Angie Grimes,Dubai,2025-07-24,Referral,Regular
+CUST_00609,Cynthia Cochran,Sharjah,2025-08-08,Referral,Regular
+CUST_00610,Lisa Patterson,Sharjah,2025-12-02,Referral,Regular
+CUST_00611,Robin Trujillo,Dubai,2025-05-31,Call Center,Regular
+CUST_00612,Linda Jackson,Abu Dhabi,2025-11-07,Web,Premium
+CUST_00613,Derek Hodge,Abu Dhabi,2025-11-11,Web,Regular
+CUST_00614,Paul Jenkins,Dubai,2025-03-12,Web,VIP
+CUST_00615,Sharon Martinez DVM,Abu Dhabi,2025-12-31,Web,Regular
+CUST_00616,Frank Wright,Dubai,2025-06-06,App,Regular
+CUST_00617,Kenneth Adams MD,Abu Dhabi,2025-10-14,App,Regular
+CUST_00618,Robert Mack,Ras Al Khaimah,2025-04-07,Web,Regular
+CUST_00619,Diana Mayer,Abu Dhabi,2025-08-29,Web,Regular
+CUST_00620,John Perkins,Abu Dhabi,2025-02-22,App,Regular
+CUST_00621,Judy Beck,Dubai,2025-12-23,App,Premium
+CUST_00622,Rebecca Sanders,Abu Dhabi,2025-11-18,App,Regular
+CUST_00623,Kathleen Morris,Dubai,2025-12-14,App,Regular
+CUST_00624,Kenneth Knight,Dubai,2025-11-07,Call Center,Regular
+CUST_00625,Stephanie Farmer,Dubai,2025-07-15,Web,VIP
+CUST_00626,Richard Stevens,Dubai,2025-02-19,App,Regular
+CUST_00627,Brooke Bryant,Sharjah,2025-03-17,Referral,Premium
+CUST_00628,Michael Anderson,Abu Dhabi,2025-09-01,App,Premium
+CUST_00629,Timothy Hill,Ras Al Khaimah,2025-01-12,Call Center,Regular
+CUST_00630,Jacob Mckee,Sharjah,2025-08-07,App,Premium
+CUST_00631,Mario Barber,Dubai,2025-11-24,App,Regular
+CUST_00632,Brandon Davis,Dubai,2025-05-31,Web,Regular
+CUST_00633,Casey Perez,Ajman,2025-12-02,App,Regular
+CUST_00634,Michael Montoya,Ajman,2025-10-16,Web,Regular
+CUST_00635,Karen Perez,Abu Dhabi,2025-09-27,Web,Regular
+CUST_00636,Ashley Edwards,Dubai,2025-02-12,Call Center,Premium
+CUST_00637,Raymond Mullins,Dubai,2025-01-06,Web,Premium
+CUST_00638,Megan Jones,ras al khaimah,2025-09-19,App,Regular
+CUST_00639,Carly Bell,Dubai,2025-11-21,App,Regular
+CUST_00640,Brittany Jenkins,Ajman,2025-03-07,Web,Regular
+CUST_00641,Angelica Garcia,Sharjah,2025-10-25,Call Center,Regular
+CUST_00642,Janet Richmond,Abu Dhabi,2025-04-13,App,Regular
+CUST_00643,Danielle Newman,Ajman,2025-02-03,Web,Premium
+CUST_00644,Lindsay Lawson,Sharjah,2025-06-09,Web,Premium
+CUST_00645,Mary Turner,Dubai,2025-03-20,Web,Regular
+CUST_00646,Elizabeth Brown,Abu Dhabi,2025-04-14,App,Regular
+CUST_00647,Brian Porter MD,Abu Dhabi,2025-06-09,Web,Regular
+CUST_00648,Dr. Bonnie Valencia,Ajman,2025-07-16,Referral,Regular
+CUST_00649,Michael Farmer,AD,2025-05-10,Web,Regular
+CUST_00650,Austin Baker,Sharjah,2025-06-29,App,VIP
+CUST_00651,Tiffany Sanders,Abu Dhabi,2025-04-27,App,Regular
+CUST_00652,Kathryn Perry,Dubai,2025-03-12,Referral,Regular
+CUST_00653,Joshua Jensen,dubai,2026-01-02,App,Regular
+CUST_00654,Bob Mccall,Dubai,2025-11-15,App,Regular
+CUST_00655,Jeanette Walters,Dubai,2025-05-06,App,VIP
+CUST_00656,Jeffrey Ashley,Dubai,2025-04-01,Web,VIP
+CUST_00657,Brandon Hamilton,Abu Dhabi,2025-10-16,App,VIP
+CUST_00658,Amy Wade,Dubai,2025-04-23,Referral,Premium
+CUST_00659,Michael Miles,Ras Al Khaimah,2025-11-05,Web,Regular
+CUST_00660,Gregory Holmes PhD,Dubai,2025-12-13,Web,Regular
+CUST_00661,Cameron Norman,Dubai,2025-02-24,App,Regular
+CUST_00662,Bailey Yoder,Sharjah,2025-01-25,Referral,Regular
+CUST_00663,Denise Brown,Dubai,2025-04-06,Web,VIP
+CUST_00664,Jorge Brown PhD,Dubai,2025-12-24,Web,Regular
+CUST_00665,David Garcia,Ras Al Khaimah,2025-09-13,App,Regular
+CUST_00666,Jordan Williams,Sharjah,2025-10-06,App,Regular
+CUST_00667,John Reyes,Dubai,2025-05-29,Web,VIP
+CUST_00668,Tyler Johnson,Dubai,2025-04-05,Referral,Premium
+CUST_00669,David Moon,Abu Dhabi,2025-05-24,App,Premium
+CUST_00670,Blake Watson,Abu Dhabi,2025-01-09,Call Center,Regular
+CUST_00671,Robert Jarvis,Ajman,2025-01-16,Referral,VIP
+CUST_00672,John Campbell,Abu Dhabi,2025-04-22,Web,Premium
+CUST_00673,Juan Smith,Abu Dhabi,2025-09-11,Web,Regular
+CUST_00674,Richard Stevenson,Abu Dhabi,2025-07-26,Referral,Regular
+CUST_00675,Kevin Snyder,Sharjah,2025-08-11,Web,Premium
+CUST_00676,Kimberly Flynn,Sharjah,2025-09-21,Call Center,Regular
+CUST_00677,Jason Hall,Ras Al Khaimah,2025-11-28,Call Center,Regular
+CUST_00678,Melissa Smith,Sharjah,2025-12-22,App,Regular
+CUST_00679,Matthew Sweeney,Dubai,2025-11-25,Web,Regular
+CUST_00680,Joseph Allen,Ajman,2025-07-31,Call Center,VIP
+CUST_00681,Valerie Thomas,Dubai,2025-11-23,Web,Regular
+CUST_00682,Thomas Merritt,Dubai,2025-07-27,Call Center,Regular
+CUST_00683,Jacqueline Villegas,Dubai,2025-03-02,Call Center,VIP
+CUST_00684,Kathy Walsh,Dubai,2025-10-13,Call Center,Regular
+CUST_00685,Keith Graham,Dubai,2025-03-10,App,Regular
+CUST_00686,Dean Edwards,Dubai,2025-05-25,Call Center,Premium
+CUST_00687,Nancy Stewart,Sharjah,2025-05-11,Call Center,Premium
+CUST_00688,Tony Taylor,dubai,2025-01-27,Web,Regular
+CUST_00689,Christopher Owens,Abu Dhabi,2025-12-28,App,Regular
+CUST_00690,Hunter Townsend,Abu Dhabi,2025-06-26,Web,Regular
+CUST_00691,Derek Wilson,Dubai,2025-12-28,App,Regular
+CUST_00692,Elizabeth Bush,Abu Dhabi,2025-08-26,App,Regular
+CUST_00693,Scott Hernandez,Dubai,2025-01-17,Web,Regular
+CUST_00694,Jennifer Williams,Ajman,2025-08-07,Referral,Regular
+CUST_00695,William Johnson,Ajman,2025-08-13,Web,Premium
+CUST_00696,Kristi Pierce,Abu Dhabi,2025-06-11,Referral,Regular
+CUST_00697,Robert Taylor,Dubai,2025-11-13,Call Center,Regular
+CUST_00698,Richard Walker,Sharjah,2025-02-05,Web,Regular
+CUST_00699,Jacqueline Mccoy,Abu Dhabi,2025-02-25,Web,Regular
+CUST_00700,Deanna Hess,Abu Dhabi,2026-01-05,Call Center,Premium
+CUST_00701,Christina Brewer PhD,Abu Dhabi,2025-07-14,App,VIP
+CUST_00702,Sandra Rivera,Sharjah,2025-01-16,Web,Regular
+CUST_00703,Amber Glass,Dubai,2025-12-24,Web,Regular
+CUST_00704,Jennifer Johnson,Abu Dhabi,2025-09-02,Web,Regular
+CUST_00705,Daniel Lopez,Dubai,2025-10-25,Call Center,Regular
+CUST_00706,Charles Mendez,Abu Dhabi,2025-11-25,Referral,Regular
+CUST_00707,Kathleen Andrade,Ajman,2025-05-05,App,Regular
+CUST_00708,Douglas Taylor,Sharjah,2025-04-14,Referral,VIP
+CUST_00709,Rebecca Wright,Abu Dhabi,2025-07-21,App,VIP
+CUST_00710,Rachael Howard DDS,Dubai,2025-07-09,App,Regular
+CUST_00711,Keith Morris,Ajman,2025-08-09,Web,Regular
+CUST_00712,Francis Robinson,Dubai,2025-08-27,Web,VIP
+CUST_00713,William Moreno,Sharjah,2025-10-04,Web,VIP
+CUST_00714,Ariel Sandoval,Dubai,2025-12-10,Call Center,Regular
+CUST_00715,Raven Mclaughlin,Dubai,2025-04-15,Web,Regular
+CUST_00716,Vickie Price,Ajman,2025-12-25,Web,Regular
+CUST_00717,Kevin Drake,Dubai,2025-08-28,App,Premium
+CUST_00718,Alyssa Haynes,Dubai,2025-08-21,Call Center,Premium
+CUST_00719,Chelsea Travis,Dubai,2025-11-29,Call Center,Premium
+CUST_00720,Casey Johnson,Abu Dhabi,2025-04-14,Web,Regular
+CUST_00721,Daniel Fox,Dubai,2025-08-08,Referral,Regular
+CUST_00722,Lucas Drake,Sharjah,2025-11-26,Web,Regular
+CUST_00723,Tamara Richard,Sharjah,2025-03-10,Call Center,Regular
+CUST_00724,Charles Bush,Dubai,2025-11-13,Call Center,Premium
+CUST_00725,Sarah Valencia,Abu Dhabi,2025-11-03,Call Center,Regular
+CUST_00726,Tom Foster,Dubai,2025-10-11,Call Center,Premium
+CUST_00727,Frank Daugherty,Ajman,2025-06-16,Web,Regular
+CUST_00728,Toni Banks,Abu Dhabi,2025-07-05,App,Premium
+CUST_00729,Kristina Preston,Ajman,2025-07-11,App,Premium
+CUST_00730,Kevin Thompson,Abu Dhabi,2025-10-03,Call Center,Regular
+CUST_00731,Elizabeth Thompson,Ras Al Khaimah,2025-10-14,Web,Regular
+CUST_00732,Tiffany Myers,Dubai,2025-08-25,App,Regular
+CUST_00733,Evan Lamb,Dubai,2025-06-06,Call Center,Regular
+CUST_00734,Ashley Crawford,Dubai,2025-05-10,Web,Regular
+CUST_00735,Cynthia Haas,Sharjah,2025-05-19,Call Center,Regular
+CUST_00736,Tracey Underwood,Abu Dhabi,2025-09-25,Call Center,Premium
+CUST_00737,Derek Wright,Abu Dhabi,2025-08-06,App,Premium
+CUST_00738,Richard Le,Sharjah,2025-06-10,App,Regular
+CUST_00739,Nicholas Costa,Sharjah,2025-08-10,Web,VIP
+CUST_00740,James Payne Jr.,Dubai,2025-11-12,Referral,Regular
+CUST_00741,Laura Chang,Ras Al Khaimah,2025-02-01,Call Center,Regular
+CUST_00742,Benjamin Singleton,Sharjah,2025-07-22,App,Regular
+CUST_00743,Dean Garcia,Sharjah,2025-11-01,App,VIP
+CUST_00744,James Dennis,Abu Dhabi,2025-03-13,App,Regular
+CUST_00745,William Barry,Dubai,2025-02-22,Referral,Regular
+CUST_00746,Matthew Lawson,Sharjah,2025-03-02,Call Center,Premium
+CUST_00747,Brian Harris,Dubai,2025-09-02,Referral,Regular
+CUST_00748,Julian Frost,Dubai,2025-09-09,App,VIP
+CUST_00749,Elizabeth Davis,Abu Dhabi,2025-01-19,App,VIP
+CUST_00750,Sara Hernandez,Ras Al Khaimah,2025-10-25,Referral,Premium
+CUST_00751,Brandon Colon,Abu Dhabi,2025-11-02,Web,Regular
+CUST_00752,Alexander Jackson,Dubai,2025-04-07,Web,Premium
+CUST_00753,Kara Wilson,SHJ,2025-08-01,Referral,Premium
+CUST_00754,Steven Baker,Ajman,2025-06-09,Web,Regular
+CUST_00755,Stephen Wood,Abu Dhabi,2025-09-13,Referral,Premium
+CUST_00756,Jeremiah Baker,Ras Al Khaimah,2025-12-02,App,Regular
+CUST_00757,Brittany Horton,Abu Dhabi,2025-11-11,App,Regular
+CUST_00758,Gregg Weaver,Dubai,2025-04-22,Call Center,VIP
+CUST_00759,Sara Cardenas,Ajman,2025-04-21,App,VIP
+CUST_00760,Melissa Mayer,ras al khaimah,2025-01-12,App,Regular
+CUST_00761,Blake Orr,Sharjah,2025-04-08,Web,Regular
+CUST_00762,Stephanie Mcbride,Dubai,2025-04-02,Call Center,Premium
+CUST_00763,Peter Thompson,Abu Dhabi,2025-03-19,Call Center,Regular
+CUST_00764,Rhonda Martinez,Abu Dhabi,2025-09-16,Web,Regular
+CUST_00765,Michael Harris,Dubai,2025-11-22,Web,Premium
+CUST_00766,Deanna Bartlett,Dubai,2025-06-08,App,Regular
+CUST_00767,Justin Arnold,Sharjah,2025-01-14,Referral,Regular
+CUST_00768,Sylvia Smith,Ras Al Khaimah,2025-02-07,Referral,Regular
+CUST_00769,Chase Knight,Sharjah,2025-09-02,Web,Regular
+CUST_00770,Kristine Garcia,Dubai,2025-04-13,Referral,Regular
+CUST_00771,Sheryl Humphrey,Dubai,2025-10-05,Referral,Regular
+CUST_00772,John Lynch,Abu Dhabi,2025-03-27,Web,Regular
+CUST_00773,Jamie Montgomery,Dubai,2026-01-04,Referral,Regular
+CUST_00774,Steve Rivera,Sharjah,2025-02-14,App,Regular
+CUST_00775,John Adams,Dubai,2025-12-24,Web,Regular
+CUST_00776,Robert Turner,Abu Dhabi,2025-09-17,Web,Regular
+CUST_00777,Shannon Cohen,Abu Dhabi,2025-10-13,Call Center,Regular
+CUST_00778,William Ramos,abu dhabi,2025-11-27,Call Center,Regular
+CUST_00779,Jason Brewer,Sharjah,2025-10-10,Web,Regular
+CUST_00780,Thomas Russell,Dubai,2025-08-13,App,Regular
+CUST_00781,Sharon Nicholson,Abu Dhabi,2025-02-19,App,Regular
+CUST_00782,Michael Powell,Dubai,2025-10-02,Call Center,Regular
+CUST_00783,Shaun Gonzalez,Dubai,2025-10-14,Call Center,Regular
+CUST_00784,Jesus Hull,Sharjah,2025-01-28,App,Premium
+CUST_00785,Rodney Wagner,Abu Dhabi,2025-07-04,App,Regular
+CUST_00786,Dana Burns,Dubai,2025-09-15,Web,Regular
+CUST_00787,Seth Matthews,AD,2025-07-11,Web,Regular
+CUST_00788,Ryan Green,Ras Al Khaimah,2025-04-17,App,Regular
+CUST_00789,James Martin,Dubai,2025-07-02,App,Regular
+CUST_00790,Maria Byrd,Dubai,2025-08-31,Web,Premium
+CUST_00791,Kayla Hancock,Abu Dhabi,2025-02-03,App,Premium
+CUST_00792,Carlos Thompson,Sharjah,2025-07-29,App,Regular
+CUST_00793,Lee Hahn,Ras Al Khaimah,2025-08-20,Referral,Premium
+CUST_00794,James Bailey,DUBAI,2025-06-02,App,Regular
+CUST_00795,Eric Meyer,Abu Dhabi,2025-07-25,App,Regular
+CUST_00796,Adrienne Key,Abu Dhabi,2025-05-23,Web,Regular
+CUST_00797,Linda Campbell,Dubai,2025-02-21,App,Premium
+CUST_00798,Mr. Donald Nguyen,Sharjah,2025-04-16,Call Center,Premium
+CUST_00799,Michael Stafford,Dubai,2025-03-26,Referral,Premium
+CUST_00800,Joseph Allen,Sharjah,2025-04-10,App,Premium
+CUST_00801,Rebekah Greene,Dubai,2025-06-20,Call Center,Regular
+CUST_00802,Mikayla Rios,Dubai,2025-06-22,App,Regular
+CUST_00803,Jason Price,Dubai,2025-11-08,App,Regular
+CUST_00804,Wendy Cabrera,SHJ,2025-06-28,Web,Regular
+CUST_00805,Courtney Nichols,Dubai,2025-10-02,Web,Regular
+CUST_00806,Megan Romero,Ajman,2025-12-09,Call Center,Regular
+CUST_00807,Sherri White,Sharjah,2025-10-20,Referral,Regular
+CUST_00808,Patrick Hardy,Dubai,2025-11-15,Web,Premium
+CUST_00809,Stephanie Pena,Abu Dhabi,2025-06-21,App,Regular
+CUST_00810,Patrick Parker,Sharjah,2025-01-17,Referral,Premium
+CUST_00811,Kevin Ford,Ras Al Khaimah,2025-03-25,App,Premium
+CUST_00812,Sean Silva,Dubai,2025-06-04,App,Premium
+CUST_00813,Cory Wilson,Abu Dhabi,2025-11-28,App,Regular
+CUST_00814,Jennifer Pitts,Abu Dhabi,2025-10-03,Referral,Regular
+CUST_00815,Curtis Ortiz,DUBAI,2025-11-28,App,Regular
+CUST_00816,Scott White,Dubai,2025-12-01,App,Regular
+CUST_00817,Mr. Christopher Walters,Ajman,2025-01-09,Web,Regular
+CUST_00818,Daniel Ayala,Dubai,2025-03-04,App,Regular
+CUST_00819,Phillip Miller DDS,Dubai,2025-08-06,App,Regular
+CUST_00820,Vincent Reyes,Dubai,2025-10-20,Web,Regular
+CUST_00821,Monica Dodson,Abu Dhabi,2025-01-18,Call Center,Premium
+CUST_00822,Kiara Smith,Abu Dhabi,2025-02-02,App,VIP
+CUST_00823,Danielle Steele,Ajman,2025-08-10,Web,VIP
+CUST_00824,Brian Gordon,Dubai,2025-03-03,App,Regular
+CUST_00825,Rodney Evans,Sharjah,2025-08-11,Web,Regular
+CUST_00826,Joseph Warren,Abu Dhabi,2025-04-12,Web,Regular
+CUST_00827,Whitney Cooper,Dubai,2025-03-19,Web,Regular
+CUST_00828,Colin Vaughan,Abu Dhabi,2025-08-11,App,VIP
+CUST_00829,Danny Mercer,Dubai,2025-06-01,Web,Regular
+CUST_00830,Leah Jackson,Abu Dhabi,2025-11-09,App,VIP
+CUST_00831,Rebecca Brooks,Dubai,2025-09-27,Web,Regular
+CUST_00832,Lisa Wheeler,Abu Dhabi,2025-04-14,App,Regular
+CUST_00833,Martha Smith,Dubai,2025-03-28,App,Regular
+CUST_00834,James Kelley,Ajman,2025-06-03,Referral,Regular
+CUST_00835,Christine Jennings,Sharjah,2025-12-26,Web,Regular
+CUST_00836,Matthew Bates,Abu Dhabi,2025-11-01,Web,Regular
+CUST_00837,Mercedes Barnes,Abu Dhabi,2025-05-22,App,Premium
+CUST_00838,Lisa Campbell,Dubai,2025-10-19,App,Regular
+CUST_00839,Mr. Richard Decker DVM,Abu Dhabi,2025-10-14,Web,Regular
+CUST_00840,Elizabeth Williams,Sharjah,2025-05-11,Call Center,Premium
+CUST_00841,Melissa Castillo,Sharjah,2025-03-18,Web,VIP
+CUST_00842,Michael Meadows,Dubai,2025-02-16,Web,Regular
+CUST_00843,Brandon Hunt,Sharjah,2025-06-21,Web,Premium
+CUST_00844,Maria Bryant,Dubai,2025-02-20,App,Regular
+CUST_00845,Anthony Li,Dubai,2025-10-30,App,Regular
+CUST_00846,Heather Rhodes,Abu Dhabi,2025-11-18,Web,Regular
+CUST_00847,Anna Chang,Dubai,2025-11-04,App,Premium
+CUST_00848,Charles Holland,Dubai,2025-06-17,Referral,Regular
+CUST_00849,Jeffrey Howell,Dubai,2025-12-28,Web,Premium
+CUST_00850,Grant Wilson,Abu Dhabi,2025-07-02,Call Center,Regular
+CUST_00851,Denise Cruz,Dubai,2025-04-21,Web,Regular
+CUST_00852,Mariah Robles,Dubai,2025-07-05,Call Center,Regular
+CUST_00853,Nicholas Jarvis,Sharjah,2025-09-19,Web,Regular
+CUST_00854,Thomas Webb,Sharjah,2025-06-21,Web,Regular
+CUST_00855,James Howard,Ajman,2025-04-06,Web,Regular
+CUST_00856,Sheryl Acosta,Sharjah,2025-07-09,App,Regular
+CUST_00857,Mr. Stephen Alexander,Abu Dhabi,2025-03-06,Web,Regular
+CUST_00858,Ernest Bush,Dubai,2025-05-13,Call Center,Regular
+CUST_00859,Mckenzie Morgan,Sharjah,2025-04-16,App,Regular
+CUST_00860,Nicholas Olson,Dubai,2025-07-25,Referral,Premium
+CUST_00861,Ronald Mcclain,Sharjah,2025-11-03,Web,Regular
+CUST_00862,Timothy Wagner,Dubai,2025-07-19,Referral,Regular
+CUST_00863,Sheila Jones,Abu Dhabi,2025-06-06,App,Regular
+CUST_00864,Gary Ramirez,Sharjah,2025-06-06,Call Center,Regular
+CUST_00865,Jamie Montoya,Sharjah,2025-02-09,Web,Regular
+CUST_00866,Robert West,Dubai,2025-12-06,Call Center,Regular
+CUST_00867,Bryan Jimenez,Dubai,2025-04-23,Web,Regular
+CUST_00868,Jason Hawkins,Ajman,2025-04-01,Call Center,Premium
+CUST_00869,Rebecca Richmond,Sharjah,2025-11-13,App,Regular
+CUST_00870,Kristina Pena,Abu Dhabi,2025-04-01,App,Regular
+CUST_00871,Heidi Brown,Dubai,2025-02-18,App,Regular
+CUST_00872,Evelyn Saunders,Sharjah,2025-05-18,Call Center,Regular
+CUST_00873,Heidi Chavez,Abu Dhabi,2025-08-01,Web,Premium
+CUST_00874,Courtney Peterson,Ajman,2025-05-06,App,Regular
+CUST_00875,Jacqueline Rodriguez,Dubai,2025-07-24,App,Regular
+CUST_00876,Rodney Newton MD,Dubai,2025-02-20,App,Regular
+CUST_00877,Chelsea Conrad,Dubai,2025-06-05,Web,Regular
+CUST_00878,Roger Lee,Abu Dhabi,2025-01-23,Web,Regular
+CUST_00879,Jason House,Sharjah,2025-12-24,Web,Premium
+CUST_00880,Joanna Barrett,Abu Dhabi,2025-08-31,App,Regular
+CUST_00881,April Fitzgerald,Dubai,2025-10-26,App,Regular
+CUST_00882,Karen Romero,Dubai,2025-11-25,Call Center,Regular
+CUST_00883,Carrie Ochoa,Sharjah,2025-04-17,Web,Regular
+CUST_00884,Kyle Andrade,Sharjah,2025-01-29,Web,Regular
+CUST_00885,Lee Schwartz,Ajman,2025-10-13,App,Regular
+CUST_00886,Victor Waller,Sharjah,2025-05-04,Call Center,Regular
+CUST_00887,Brenda Morrison,Ajman,2026-01-03,App,Premium
+CUST_00888,Kimberly Edwards,Abu Dhabi,2025-12-09,Call Center,Regular
+CUST_00889,Marcus Roberts,Abu Dhabi,2025-05-23,App,Regular
+CUST_00890,Brandi Page,Sharjah,2025-02-21,App,Regular
+CUST_00891,Melissa Morris,Abu Dhabi,2025-08-31,Web,VIP
+CUST_00892,Kristina Aguilar,DUBAI,2025-11-13,Referral,Regular
+CUST_00893,Stephanie Ferguson,Abu Dhabi,2025-12-05,App,VIP
+CUST_00894,Kelly Johnson,Dubai,2025-11-23,App,Regular
+CUST_00895,Anthony Adams,Dubai,2025-03-04,Web,Regular
+CUST_00896,Miss Brianna Brown,dubai,2025-12-01,Web,Premium
+CUST_00897,Joshua Howard,Dubai,2025-08-27,Call Center,Premium
+CUST_00898,Sean Stevenson,Dubai,2025-06-12,Call Center,Premium
+CUST_00899,Kristina Young,Abu Dhabi,2025-05-20,Web,Regular
+CUST_00900,Amber James,Abu Dhabi,2025-11-18,Call Center,Regular
+CUST_00901,Vanessa Edwards,Dubai,2025-08-03,Web,Premium
+CUST_00902,David Oliver,Dubai,2025-09-26,App,Regular
+CUST_00903,Susan Bush,Dubai,2025-08-07,Web,Regular
+CUST_00904,Kimberly Morrison,Sharjah,2025-09-06,Web,Regular
+CUST_00905,Christopher Fleming,Abu Dhabi,2025-09-30,Web,Regular
+CUST_00906,Nancy Wilson,Abu Dhabi,2025-11-13,App,Regular
+CUST_00907,Justin Anderson,Abu Dhabi,2025-07-27,Web,Premium
+CUST_00908,John Pineda,Abu Dhabi,2025-08-10,Web,Regular
+CUST_00909,Frank Williams,Sharjah,2025-05-30,Referral,Regular
+CUST_00910,Kenneth Howard DDS,Abu Dhabi,2025-08-31,Web,Premium
+CUST_00911,Tina Meyer,Dubai,2025-06-26,Call Center,Regular
+CUST_00912,Joshua Davis,Dubai,2025-12-26,Call Center,Regular
+CUST_00913,Mary Rivera,Sharjah,2025-07-30,Call Center,Premium
+CUST_00914,Paul Moreno,Dubai,2025-12-10,Call Center,Premium
+CUST_00915,Gregory Allen,Dubai,2025-09-18,Web,Regular
+CUST_00916,Melanie Flores,Abu Dhabi,2025-04-10,App,Regular
+CUST_00917,Joshua Campbell,Dubai,2025-07-01,Call Center,Regular
+CUST_00918,Katie Tucker,Dubai,2025-08-24,Web,Regular
+CUST_00919,Cheryl Palmer,Sharjah,2025-09-19,Web,Premium
+CUST_00920,Tyler Medina,Sharjah,2025-02-11,App,VIP
+CUST_00921,Christine Soto,Dubai,2025-10-18,Call Center,Regular
+CUST_00922,Jessica Garcia,Dubai,2025-12-17,App,Regular
+CUST_00923,Teresa Burgess,Abu Dhabi,2025-10-22,App,Regular
+CUST_00924,Mitchell Johnson,SHARJAH,2025-11-04,App,Regular
+CUST_00925,Robert Grant,Dubai,2025-04-28,Web,Regular
+CUST_00926,Jennifer Hayes,Dubai,2025-09-17,Web,Regular
+CUST_00927,Alan Nunez,Abu Dhabi,2025-12-11,Web,Regular
+CUST_00928,Lisa Avila,Dubai,2025-02-02,Call Center,Regular
+CUST_00929,Angel Reilly,Sharjah,2025-06-06,App,Regular
+CUST_00930,Michael Obrien,Ajman,2025-04-24,App,Regular
+CUST_00931,Jessica Foster,Abu Dhabi,2025-02-24,Web,Regular
+CUST_00932,Joseph Taylor,Ajman,2025-06-23,Web,Regular
+CUST_00933,Sarah Phillips,Dubai,2025-07-12,Web,Regular
+CUST_00934,Stephen Sanford,Dubai,2025-03-20,App,Regular
+CUST_00935,Alexandra Baxter,Sharjah,2025-12-15,Web,Regular
+CUST_00936,Aaron Carlson,Dubai,2025-03-09,Call Center,Regular
+CUST_00937,Paul Berger,Dubai,2025-08-06,Web,Regular
+CUST_00938,Taylor York,Ajman,2025-04-26,App,Regular
+CUST_00939,Daniel Davenport,Abu Dhabi,2025-10-27,Call Center,VIP
+CUST_00940,Michael Bradley,Abu Dhabi,2025-07-07,Referral,Premium
+CUST_00941,Tara Gamble,Abu Dhabi,2025-08-22,Web,Regular
+CUST_00942,Angel Powers,Sharjah,2026-01-03,App,Regular
+CUST_00943,Nicholas Freeman,Dubai,2025-10-27,App,VIP
+CUST_00944,Michael Young,Abu Dhabi,2025-05-28,Web,Regular
+CUST_00945,Stephanie Stewart,Abu Dhabi,2025-08-31,Web,Regular
+CUST_00946,Matthew Steele,Sharjah,2025-09-17,Call Center,VIP
+CUST_00947,Holly Stewart,Dubai,2025-08-26,Web,Regular
+CUST_00948,Erik Floyd,Abu Dhabi,2025-07-30,Call Center,Regular
+CUST_00949,Ian Frazier,Dubai,2025-08-23,Web,Regular
+CUST_00950,Julie Howard,Sharjah,2025-10-29,Referral,Regular
+CUST_00951,Mr. Matthew Miller,Dubai,2025-03-16,App,Regular
+CUST_00952,Brenda Ryan,Abu Dhabi,2025-12-28,Referral,Regular
+CUST_00953,Lori Luna,Abu Dhabi,2025-03-29,Referral,Premium
+CUST_00954,Lynn Hess,Ras Al Khaimah,2025-10-27,App,Regular
+CUST_00955,Christy Johnson,Dubai,2025-07-15,App,Regular
+CUST_00956,Yvonne Kennedy,Dubai,2025-02-12,App,Regular
+CUST_00957,Daniel Barton,Dubai,2025-02-09,App,Premium
+CUST_00958,Jonathan Davis,Dubai,2025-06-19,Call Center,Regular
+CUST_00959,Mary Charles,Dubai,2025-05-14,Call Center,Premium
+CUST_00960,Brenda Moore,Abu Dhabi,2025-07-13,App,Regular
+CUST_00961,Karen Howard,Abu Dhabi,2025-08-30,App,Regular
+CUST_00962,Crystal Baker,Dubai,2025-12-13,App,Regular
+CUST_00963,Daniel Velez,Dubai,2025-11-13,Web,Regular
+CUST_00964,Thomas Keith,Dubai,2025-10-09,Web,Regular
+CUST_00965,Mrs. Michele Boyd,Sharjah,2025-04-20,App,Regular
+CUST_00966,Deborah Stephens,Sharjah,2025-12-07,Call Center,VIP
+CUST_00967,James Matthews,Dubai,2025-03-27,Web,Regular
+CUST_00968,Jamie Solomon,Abu Dhabi,2025-02-11,Call Center,Regular
+CUST_00969,Sean Tucker,Ajman,2025-01-22,App,Regular
+CUST_00970,Adriana Macias,Abu Dhabi,2025-08-16,App,Regular
+CUST_00971,Billy Schneider,Ras Al Khaimah,2025-08-21,Web,Premium
+CUST_00972,Christopher Guzman,Abu Dhabi,2025-10-01,Web,Regular
+CUST_00973,Jennifer Rivera,Abu Dhabi,2025-10-12,Web,Regular
+CUST_00974,Mr. Daniel Martin,Dubai,2025-05-04,App,Regular
+CUST_00975,Andrew Berry,Dubai,2025-08-29,Web,VIP
+CUST_00976,Jose Macdonald,Abu Dhabi,2025-07-23,Web,Regular
+CUST_00977,David White,Sharjah,2025-02-05,Call Center,Regular
+CUST_00978,Kristy Smith,Dubai,2025-06-30,Web,Regular
+CUST_00979,Claire Obrien,Dubai,2025-11-08,Web,Regular
+CUST_00980,Carolyn Greer,Dubai,2025-09-11,Web,Regular
+CUST_00981,Samantha White,Sharjah,2025-02-18,Call Center,Premium
+CUST_00982,Michael Nielsen,Abu Dhabi,2025-07-28,App,Regular
+CUST_00983,James Rodriguez,Abu Dhabi,2025-10-04,App,Regular
+CUST_00984,Susan Cohen,Ajman,2025-10-10,App,Regular
+CUST_00985,Cassandra Valenzuela,Dubai,2025-07-10,Web,Regular
+CUST_00986,Kim Goodwin,Sharjah,2025-07-12,App,Regular
+CUST_00987,Mr. Larry Carey,Abu Dhabi,2025-10-17,Referral,Premium
+CUST_00988,Jacqueline Williams,Dubai,2025-04-08,Web,Regular
+CUST_00989,Robert Clarke,Sharjah,2025-04-26,App,Regular
+CUST_00990,Robert Velez,Abu Dhabi,2025-07-24,Web,Premium
+CUST_00991,David Cannon,Dubai,2025-07-03,App,Premium
+CUST_00992,Shawn Ortiz,Ajman,2025-01-05,Call Center,Premium
+CUST_00993,Patrick Smith,Dubai,2025-10-19,App,Premium
+CUST_00994,Jaime Harris,Dubai,2025-03-17,Referral,Regular
+CUST_00995,Brian Simmons,AD,2025-02-15,App,Premium
+CUST_00996,Joshua Cunningham,Dubai,2025-10-04,App,Regular
+CUST_00997,Jennifer Harris DDS,Ajman,2025-03-01,App,Regular
+CUST_00998,Justin Webb,Dubai,2025-07-15,Web,Regular
+CUST_00999,Patricia Sanders,Dubai,2025-05-23,App,Regular
+CUST_01000,Mary Adkins,Dubai,2025-04-18,Referral,Regular
+CUST_01001,Tiffany Garcia,Abu Dhabi,2025-05-31,App,Regular
+CUST_01002,Rebecca Mendez,Abu Dhabi,2025-10-24,Call Center,Premium
+CUST_01003,Vincent Smith,Dubai,2025-10-30,App,Regular
+CUST_01004,Kaitlyn Burke,Sharjah,2025-04-19,App,Regular
+CUST_01005,Daniel Miller,Sharjah,2025-09-13,App,Regular
+CUST_01006,Tara Morales,Abu Dhabi,2025-08-02,Referral,Regular
+CUST_01007,Linda Bautista,Ras Al Khaimah,2025-07-31,Web,Regular
+CUST_01008,Jessica Harris,Dubai,2025-07-07,Web,Regular
+CUST_01009,Richard Dixon,Ras Al Khaimah,2025-01-29,Referral,Regular
+CUST_01010,Megan Ward,Dubai,2025-05-02,Web,Premium
+CUST_01011,Angie Hill,Sharjah,2025-01-14,App,Regular
+CUST_01012,James Willis,Dubai,2025-10-14,App,Regular
+CUST_01013,Andrea Davis,Dubai,2025-07-04,App,Premium
+CUST_01014,Kristin Aguilar,Ajman,2025-12-10,Call Center,Regular
+CUST_01015,Destiny Obrien,Dubai,2025-05-13,Web,Premium
+CUST_01016,Jared Smith,Ajman,2025-06-02,Web,Premium
+CUST_01017,Brian Jones,Dubai,2025-10-25,Web,VIP
+CUST_01018,Bruce Palmer,Dubai,2025-11-02,Web,Regular
+CUST_01019,Robin Andrews,Dubai,2025-03-15,Referral,Regular
+CUST_01020,Kristine Carrillo,Sharjah,2025-04-05,Referral,Premium
+CUST_01021,Judy Murray,Abu Dhabi,2025-06-04,Web,Regular
+CUST_01022,Mr. James Kramer,Abu Dhabi,2025-07-03,App,Premium
+CUST_01023,Crystal Stewart,Sharjah,2025-01-09,App,Regular
+CUST_01024,Alexandra Collier,Dubai,2025-08-29,Web,Regular
+CUST_01025,James Goodman,Ajman,2025-01-06,Web,Regular
+CUST_01026,Timothy Woods,Sharjah,2025-04-22,App,Regular
+CUST_01027,Kenneth White,Abu Dhabi,2025-08-12,Referral,Regular
+CUST_01028,Mr. Nicolas Salas II,Ras Al Khaimah,2025-07-07,App,Regular
+CUST_01029,Sara Kelly,Dubai,2025-03-21,Web,Regular
+CUST_01030,Blake Sosa,Ras Al Khaimah,2025-11-21,App,Regular
+CUST_01031,Pamela Weaver,Ajman,2025-12-05,Call Center,Regular
+CUST_01032,Jacqueline Stewart,Dubai,2025-01-12,App,Regular
+CUST_01033,William Moon IV,Abu Dhabi,2025-05-25,App,Regular
+CUST_01034,Bethany Fox,Abu Dhabi,2025-09-23,Web,Regular
+CUST_01035,Joshua Shaw,Dubai,2025-05-27,Call Center,Regular
+CUST_01036,Patty Bryant,Abu Dhabi,2025-09-06,App,Regular
+CUST_01037,Julia Norris,Sharjah,2025-03-03,Web,Regular
+CUST_01038,Jamie Garcia,Dubai,2025-01-09,App,Regular
+CUST_01039,Debbie Dunn,Sharjah,2025-09-03,Referral,Regular
+CUST_01040,Tyler Cooper,Sharjah,2025-01-17,App,Regular
+CUST_01041,Mr. Michael Watson PhD,Abu Dhabi,2025-03-08,Referral,Regular
+CUST_01042,Kenneth Krause,Dubai,2025-04-14,Web,VIP
+CUST_01043,Michelle Brock,Dubai,2025-11-17,Web,Premium
+CUST_01044,Christina Marsh,Ras Al Khaimah,2025-12-25,App,Regular
+CUST_01045,Adam Fisher,Sharjah,2025-08-31,App,Regular
+CUST_01046,Sarah Holmes DDS,Dubai,2025-07-13,App,Regular
+CUST_01047,Justin Bradley,Abu Dhabi,2025-07-17,Web,Regular
+CUST_01048,Christopher Lewis,Abu Dhabi,2025-06-24,App,Regular
+CUST_01049,Mark Cole,Sharjah,2025-03-16,Referral,VIP
+CUST_01050,Isaac Grant,Abu Dhabi,2025-11-13,App,Regular
+CUST_01051,Jason Bell,Dubai,2025-07-20,Call Center,Regular
+CUST_01052,Marie Ryan,Abu Dhabi,2025-06-26,Web,Regular
+CUST_01053,Michael Freeman,Ajman,2025-04-22,App,VIP
+CUST_01054,Jane Mitchell,Dubai,2025-05-30,App,Regular
+CUST_01055,Margaret Mcfarland,Dubai,2025-07-25,Web,Regular
+CUST_01056,Laura Sweeney,Dubai,2025-11-23,Call Center,Premium
+CUST_01057,Greg Edwards,Sharjah,2025-12-07,Web,Regular
+CUST_01058,Lisa Foster,Sharjah,2025-10-22,Referral,Regular
+CUST_01059,Teresa Adkins,Sharjah,2025-09-28,Web,Premium
+CUST_01060,Clinton Johnson,Ras Al Khaimah,2025-03-21,Web,Regular
+CUST_01061,Teresa Haynes,Dubai,2025-08-25,App,Regular
+CUST_01062,James Davis,Ajman,2025-03-14,App,Regular
+CUST_01063,Allison Sanders,Abu Dhabi,2025-08-29,Web,Regular
+CUST_01064,Luke Miller,Sharjah,2025-11-14,App,Premium
+CUST_01065,David Mitchell,Dubai,2025-12-25,Web,Regular
+CUST_01066,Ryan Johnson,Dubai,2025-01-15,Call Center,VIP
+CUST_01067,Erika Alvarez,Dubai,2025-08-01,App,Premium
+CUST_01068,Brandy Fry,Ajman,2025-10-29,Referral,Regular
+CUST_01069,Joyce Curry,Abu Dhabi,2025-09-04,App,Regular
+CUST_01070,Margaret Collins,Abu Dhabi,2025-09-23,Call Center,Regular
+CUST_01071,Mr. Brandon Parker,Dubai,2025-10-29,Web,Regular
+CUST_01072,Eric Smith,Ras Al Khaimah,2025-05-14,App,Regular
+CUST_01073,John Smith,Abu Dhabi,2025-03-17,Referral,Regular
+CUST_01074,Karen Smith,Abu Dhabi,2025-01-16,Web,Regular
+CUST_01075,Linda Robles,Dubai,2025-10-23,Call Center,VIP
+CUST_01076,Stephen Kim,Dubai,2025-10-15,App,Regular
+CUST_01077,Omar Price,Dubai,2025-06-04,App,Premium
+CUST_01078,Bobby Garrett,Dubai,2025-05-08,Call Center,Premium
+CUST_01079,Patrick Lamb,Abu Dhabi,2025-10-06,App,Regular
+CUST_01080,Barry Taylor,Dubai,2025-11-11,App,Regular
+CUST_01081,Lisa Nelson,Dubai,2025-06-17,Web,Regular
+CUST_01082,Alec Williams,Dubai,2025-12-26,Web,Regular
+CUST_01083,Brian Adams,Sharjah,2025-11-18,Referral,Regular
+CUST_01084,Crystal Hernandez,Dubai,2025-11-29,App,Regular
+CUST_01085,Jason Floyd,Dubai,2025-08-31,Call Center,Regular
+CUST_01086,Mrs. Raven Rivera DVM,Abu Dhabi,2025-02-23,App,Regular
+CUST_01087,Reginald Jones,Sharjah,2025-06-18,App,Regular
+CUST_01088,Steven Wright,Ras Al Khaimah,2025-03-22,Referral,Regular
+CUST_01089,Barbara Tate,Ras Al Khaimah,2025-05-31,App,Regular
+CUST_01090,William Wright,Sharjah,2025-12-11,Call Center,Regular
+CUST_01091,Nicolas Davis,Abu Dhabi,2025-11-22,Web,Regular
+CUST_01092,Michael Collins,Abu Dhabi,2025-10-04,Web,Regular
+CUST_01093,Nicholas Garner,Dubai,2025-04-21,App,Regular
+CUST_01094,Mark Gonzalez,Dubai,2025-11-27,App,Premium
+CUST_01095,Claudia Rodriguez,Dubai,2025-08-17,Web,Regular
+CUST_01096,Christopher Hill,Sharjah,2025-07-04,Call Center,Regular
+CUST_01097,David Novak,Ajman,2025-04-22,App,Regular
+CUST_01098,Brittney Townsend,Dubai,2025-12-01,Call Center,Regular
+CUST_01099,Brandon Montgomery,Sharjah,2025-07-05,Web,Regular
+CUST_01100,Matthew Miles,Abu Dhabi,2025-02-03,App,Regular
+CUST_01101,David Holden,Dubai,2025-09-27,Web,Regular
+CUST_01102,Jessica Lee,Abu Dhabi,2025-12-31,Web,Regular
+CUST_01103,Chad Roach,Sharjah,2025-08-29,Web,Premium
+CUST_01104,Kristin Daniels,Dubai,2025-02-14,Referral,Regular
+CUST_01105,Cody Bailey,Abu Dhabi,2025-01-16,App,Regular
+CUST_01106,Ronald Rocha,Dubai,2025-12-22,Call Center,Premium
+CUST_01107,Christopher Phillips,Abu Dhabi,2025-03-11,Web,Regular
+CUST_01108,Jordan Parsons,Dubai,2025-06-12,Call Center,Regular
+CUST_01109,Sonya Harvey,Sharjah,2025-04-15,Web,Regular
+CUST_01110,Cynthia Le,Abu Dhabi,2025-04-24,App,Regular
+CUST_01111,Michael Cannon,Dubai,2025-05-12,Call Center,Regular
+CUST_01112,Erica Davidson,Ajman,2025-06-26,App,Regular
+CUST_01113,Matthew Williams,Sharjah,2025-12-26,Web,Regular
+CUST_01114,Andre Rodriguez,Sharjah,2025-06-01,Referral,Regular
+CUST_01115,Kenneth Huff,Dubai,2025-05-07,App,VIP
+CUST_01116,Meredith Scott,Dubai,2025-09-04,Web,Regular
+CUST_01117,Mitchell Smith,Sharjah,2025-12-07,Web,Regular
+CUST_01118,Tanya Collier,Dubai,2025-10-19,Call Center,VIP
+CUST_01119,Amy Grant,Abu Dhabi,2025-02-17,Web,Regular
+CUST_01120,Rebecca Brown,Abu Dhabi,2025-04-18,App,Regular
+CUST_01121,Morgan Davenport,Ajman,2025-09-06,Web,Regular
+CUST_01122,Toni Davis,Dubai,2025-07-13,Web,Premium
+CUST_01123,Chelsey Fox,Ras Al Khaimah,2025-10-22,Call Center,Regular
+CUST_01124,Theresa Hansen,Sharjah,2025-04-09,App,Regular
+CUST_01125,Pamela Ray,Dubai,2025-04-03,App,Regular
+CUST_01126,Jessica Garcia,Dubai,2025-04-10,App,VIP
+CUST_01127,Kathy Sandoval,Abu Dhabi,2025-02-27,Call Center,VIP
+CUST_01128,Stephanie Pierce,Abu Dhabi,2025-07-16,App,Regular
+CUST_01129,Jennifer Schultz,Dubai,2025-07-17,Web,Regular
+CUST_01130,Kristine Lewis,Dubai,2025-06-14,Web,Regular
+CUST_01131,Jesse Moyer,Abu Dhabi,2025-07-27,Web,Regular
+CUST_01132,Victoria Larson,Sharjah,2025-09-04,Web,Premium
+CUST_01133,Elizabeth Evans MD,Abu Dhabi,2025-05-25,Web,Premium
+CUST_01134,Rodney Norris,Dubai,2025-04-25,Web,Premium
+CUST_01135,Kayla Duncan,Dubai,2025-07-23,Referral,Regular
+CUST_01136,Joe Moore,Abu Dhabi,2025-10-30,App,Premium
+CUST_01137,Kevin Hall,Sharjah,2025-09-01,App,Regular
+CUST_01138,James Hardin,abu dhabi,2025-09-28,Web,Premium
+CUST_01139,Rebecca Thompson,Dubai,2025-10-06,Web,Regular
+CUST_01140,Elizabeth Cross,Dubai,2025-08-12,Call Center,Premium
+CUST_01141,Anthony Wise,Abu Dhabi,2025-09-24,Web,Regular
+CUST_01142,Jessica Conrad,Dubai,2025-06-07,Call Center,Regular
+CUST_01143,Cristina Delgado,Ajman,2025-02-19,Web,VIP
+CUST_01144,Lynn Brown,Ras Al Khaimah,2025-05-02,App,VIP
+CUST_01145,Karl Murphy,Abu Dhabi,2025-11-05,Web,Regular
+CUST_01146,Michael Osborn,Dubai,2025-08-07,Call Center,Regular
+CUST_01147,Laura Davis,Abu Dhabi,2025-11-13,App,Regular
+CUST_01148,James Anderson,Dubai,2025-06-17,App,Regular
+CUST_01149,Patrick Kelley,Abu Dhabi,2025-07-31,App,VIP
+CUST_01150,Jonathan Ayala,AJMAN,2025-04-24,Call Center,Regular
+CUST_01151,Karen Gonzalez,Dubai,2025-02-20,Web,Regular
+CUST_01152,Christina Gilbert,Dubai,2025-11-20,Call Center,VIP
+CUST_01153,Derek Jordan,Abu Dhabi,2025-08-02,App,Regular
+CUST_01154,Jason Diaz,Dubai,2025-11-06,Web,Regular
+CUST_01155,Kirk Johnson,Dubai,2025-07-11,App,Premium
+CUST_01156,Gregory Underwood,Dubai,2025-08-10,App,Regular
+CUST_01157,Jessica Glass,Dubai,2025-07-12,Web,Regular
+CUST_01158,James Todd,SHJ,2025-09-05,App,Regular
+CUST_01159,Anthony Rush,Ajman,2025-05-30,App,Premium
+CUST_01160,Samantha Smith,Abu Dhabi,2025-09-12,Web,Regular
+CUST_01161,John Rivera,Dubai,2025-11-04,App,Regular
+CUST_01162,Joseph Green,Abu Dhabi,2025-02-03,App,Regular
+CUST_01163,Wendy Neal,Abu Dhabi,2025-08-14,App,Regular
+CUST_01164,Taylor Rose,Dubai,2025-09-14,App,Premium
+CUST_01165,Duane Mccormick,Ras Al Khaimah,2025-08-29,App,Regular
+CUST_01166,Matthew Smith,Sharjah,2025-01-23,Web,Regular
+CUST_01167,Mary Durham,Ajman,2025-09-10,Call Center,Regular
+CUST_01168,Alicia Dillon,Sharjah,2025-12-20,App,VIP
+CUST_01169,James Bray,Dubai,2025-09-08,App,Regular
+CUST_01170,Kari Harper,Dubai,2025-09-19,Web,Regular
+CUST_01171,Jonathan Ellis,Dubai,2025-09-20,App,Regular
+CUST_01172,Thomas Torres,Sharjah,2025-07-09,Web,Regular
+CUST_01173,Christopher Reed,Sharjah,2025-03-13,App,Regular
+CUST_01174,Eric Ferrell,Abu Dhabi,2025-01-26,App,VIP
+CUST_01175,Lori Johns,Abu Dhabi,2025-07-08,App,Regular
+CUST_01176,Tiffany Perez,Ajman,2025-06-20,Web,Regular
+CUST_01177,Mary Miller,Abu Dhabi,2025-09-26,App,Premium
+CUST_01178,Megan Salas,Sharjah,2025-07-20,Call Center,Regular
+CUST_01179,Kenneth Simmons,Dubai,2025-10-26,App,Regular
+CUST_01180,Erin Daniels,DUBAI,2025-12-09,Web,Regular
+CUST_01181,Lauren Sutton,Abu Dhabi,2025-04-25,Call Center,VIP
+CUST_01182,Ellen Thornton,Ajman,2025-01-12,Call Center,Regular
+CUST_01183,Terry Carrillo,Abu Dhabi,2025-03-30,App,Regular
+CUST_01184,Justin Fry,Abu Dhabi,2025-07-18,Call Center,Regular
+CUST_01185,Ryan Thomas,Ras Al Khaimah,2025-11-27,App,Regular
+CUST_01186,Sheryl Gutierrez,Dubai,2025-04-27,Web,Regular
+CUST_01187,Patrick Underwood,Ajman,2025-04-24,Web,Regular
+CUST_01188,Cole Anderson,Ajman,2025-12-15,App,Regular
+CUST_01189,Lisa Adams,ABU DHABI,2025-10-10,Referral,Regular
+CUST_01190,Crystal Johnson,Ajman,2025-01-22,Referral,Regular
+CUST_01191,Karen Shaw,Dubai,2025-11-15,App,Regular
+CUST_01192,Jacqueline Christian,Abu Dhabi,2025-06-08,Call Center,Regular
+CUST_01193,Christopher Perez,Sharjah,2025-08-12,App,Regular
+CUST_01194,Alexis Nelson,Dubai,2025-11-23,Referral,Regular
+CUST_01195,Michael Harris,Ras Al Khaimah,2025-04-08,Web,Regular
+CUST_01196,Timothy Duke,Dubai,2025-12-08,Call Center,Regular
+CUST_01197,Sharon Clay,Abu Dhabi,2025-06-28,Referral,Regular
+CUST_01198,Andrew Moss,Dubai,2025-09-10,Web,Premium
+CUST_01199,Jennifer Crosby,Dubai,2025-01-30,Call Center,Premium
+CUST_01200,Jocelyn Wilcox,Dubai,2025-08-25,Web,Premium
+CUST_01201,Danielle Medina,Abu Dhabi,2025-10-06,App,Premium
+CUST_01202,Kelli Mccoy,Abu Dhabi,2025-07-10,App,Regular
+CUST_01203,Jeffrey Wilkerson,DUBAI,2025-05-10,App,Regular
+CUST_01204,Jay Austin,Dubai,2025-06-21,Web,Regular
+CUST_01205,Stephanie Ford,Abu Dhabi,2025-11-10,App,Regular
+CUST_01206,Jonathan White,Sharjah,2025-06-26,App,Regular
+CUST_01207,Frank Johnson,Ajman,2025-03-30,Web,Regular
+CUST_01208,Michelle Harris,Abu Dhabi,2025-05-18,App,Regular
+CUST_01209,Fred Wong,Abu Dhabi,2025-12-22,App,Regular
+CUST_01210,Becky Wilson,Abu Dhabi,2025-08-17,Web,Regular
+CUST_01211,Angela Zimmerman,Dubai,2025-04-02,Web,Regular
+CUST_01212,James Tate,Dubai,2025-02-23,App,Regular
+CUST_01213,Mary Hernandez,Dubai,2025-09-06,Web,Premium
+CUST_01214,Michael Barnes,Sharjah,2025-04-26,App,Regular
+CUST_01215,Tonya Roberts,Dubai,2025-09-07,Web,Regular
+CUST_01216,Carlos Harris,Abu Dhabi,2025-01-29,App,Regular
+CUST_01217,Jonathan Jimenez,Ajman,2025-02-11,App,Regular
+CUST_01218,Katherine Robinson,Dubai,2025-09-20,App,Regular
+CUST_01219,Jeremy Burke,Dubai,2025-05-30,Web,Regular
+CUST_01220,Joshua Harvey,Dubai,2025-02-08,Call Center,Regular
+CUST_01221,Charles Delgado,Dubai,2025-05-10,Web,Premium
+CUST_01222,Andrew Lane,Abu Dhabi,2025-08-03,Web,Regular
+CUST_01223,Brandon Rodriguez,Dubai,2025-02-15,App,Regular
+CUST_01224,Duane Guerrero,Dubai,2025-02-07,Web,Regular
+CUST_01225,Nicole Ward,Abu Dhabi,2025-03-15,Web,Regular
+CUST_01226,Edwin Richardson,Dxb,2025-01-14,Web,Regular
+CUST_01227,Olivia Bridges,Dubai,2025-09-05,App,Regular
+CUST_01228,Chad Neal,Dubai,2025-06-21,Web,Premium
+CUST_01229,Jason Clark,Ajman,2025-10-03,App,Regular
+CUST_01230,Ashley Blair,Sharjah,2025-09-22,Web,Regular
+CUST_01231,Mr. Timothy Andersen,Sharjah,2025-01-17,App,Premium
+CUST_01232,Ryan Green,Dubai,2025-04-19,Call Center,Regular
+CUST_01233,Lisa Crawford,Dubai,2025-01-13,App,Regular
+CUST_01234,Christopher Lynch DDS,Ajman,2025-10-29,Call Center,Regular
+CUST_01235,Alexander Garrett,Sharjah,2025-03-19,Referral,Regular
+CUST_01236,Christine Gilbert,Abu Dhabi,2025-09-07,Web,Regular
+CUST_01237,Gene Castro,Ras Al Khaimah,2025-12-11,Referral,Regular
+CUST_01238,Curtis Campbell,Sharjah,2025-08-15,Web,VIP
+CUST_01239,Jonathon Nguyen,Dubai,2025-08-01,App,VIP
+CUST_01240,Gary Foster,Abu Dhabi,2025-08-12,App,Regular
+CUST_01241,Cheyenne Bass,Dubai,2025-03-27,App,Regular
+CUST_01242,Rebecca Brewer,Abu Dhabi,2025-08-06,Web,Regular
+CUST_01243,Joe Grimes,Dubai,2025-05-28,Call Center,Premium
+CUST_01244,Robert Reilly,Sharjah,2025-02-08,Call Center,Regular
+CUST_01245,Elizabeth Hardy,Ras Al Khaimah,2025-01-11,App,Premium
+CUST_01246,Alicia Ray,Ajman,2025-08-24,Call Center,Regular
+CUST_01247,Stacy Gomez,Abu Dhabi,2025-03-28,Call Center,Regular
+CUST_01248,Andre Terrell,Ajman,2025-06-08,Call Center,Regular
+CUST_01249,Jean Larson,Ajman,2025-08-07,Call Center,Regular
+CUST_01250,Emily Johnson,Dubai,2025-06-27,Web,Regular
+CUST_01251,Shawn Watson,Dubai,2025-10-15,Call Center,Premium
+CUST_01252,Eric Rodriguez,Dubai,2025-04-04,App,Regular
+CUST_01253,Susan Wallace,Dubai,2025-11-15,Call Center,VIP
+CUST_01254,Susan Moore,Dxb,2025-03-04,Call Center,VIP
+CUST_01255,Morgan Mills,Abu Dhabi,2025-07-23,Web,Regular
+CUST_01256,Shane Short,Ajman,2025-09-07,App,Premium
+CUST_01257,Andrew Hughes,Ras Al Khaimah,2025-08-22,App,Regular
+CUST_01258,Timothy Mcdaniel,Sharjah,2025-10-29,Web,Regular
+CUST_01259,Stephen Garcia,Sharjah,2025-07-10,Web,Regular
+CUST_01260,Peter Fowler,Sharjah,2025-08-16,Referral,VIP
+CUST_01261,Corey Hill,Abu Dhabi,2025-10-01,Web,Regular
+CUST_01262,Megan Nelson,dubai,2025-10-04,App,Regular
+CUST_01263,Adrian Dean,Abu Dhabi,2025-07-29,App,Regular
+CUST_01264,Gregory Flores,Dubai,2025-02-23,Web,Regular
+CUST_01265,Regina Andrews,Dubai,2025-02-20,Call Center,Regular
+CUST_01266,Louis Morgan,Ras Al Khaimah,2025-07-12,App,Regular
+CUST_01267,Allen Berger,Abu Dhabi,2025-01-05,App,Regular
+CUST_01268,Anthony Simmons,Abu Dhabi,2025-12-19,Web,Regular
+CUST_01269,Stephanie Soto,Ajman,2025-07-15,Web,Regular
+CUST_01270,Emily Roth,Ras Al Khaimah,2025-11-10,Web,Regular
+CUST_01271,Nicole Owens,Ajman,2025-04-08,Web,Regular
+CUST_01272,Robert Hale,Sharjah,2025-10-22,Call Center,Premium
+CUST_01273,Michael Mckinney,Sharjah,2025-10-04,App,Regular
+CUST_01274,Travis Thomas,Ajman,2025-12-20,Web,VIP
+CUST_01275,Jenna Lyons,Abu Dhabi,2025-06-01,App,Regular
+CUST_01276,Sonya Chavez,Abu Dhabi,2025-07-24,Web,Regular
+CUST_01277,Brian Mendoza,Dubai,2025-04-14,Web,Regular
+CUST_01278,Gregory Andrews,Sharjah,2025-06-10,App,Regular
+CUST_01279,Miguel Rodriguez,Sharjah,2025-04-11,Web,Regular
+CUST_01280,Kim Morales,Dubai,2025-10-14,App,Regular
+CUST_01281,David Moore,Sharjah,2025-04-19,Web,VIP
+CUST_01282,Glen Cervantes,Dubai,2025-10-21,App,Regular
+CUST_01283,Jessica Cobb,Dubai,2025-01-17,App,Regular
+CUST_01284,Michael Stevenson,Sharjah,2025-06-24,Web,Regular
+CUST_01285,Kyle Nguyen,Ajman,2025-07-05,App,Premium
+CUST_01286,Casey Blanchard,Abu Dhabi,2025-11-23,Call Center,Regular
+CUST_01287,Melissa Carlson,Abu Dhabi,2025-03-15,App,Regular
+CUST_01288,Matthew Brown,Ras Al Khaimah,2025-02-25,Call Center,Regular
+CUST_01289,Stacy Berger,Abu Dhabi,2025-01-13,App,Regular
+CUST_01290,Mary Chavez,Dubai,2025-07-02,App,VIP
+CUST_01291,Kenneth Gonzalez,Dubai,2025-11-28,App,Regular
+CUST_01292,Robert Frazier,Dubai,2025-03-28,Web,Regular
+CUST_01293,Suzanne Mooney,Dubai,2025-03-07,App,Premium
+CUST_01294,Kayla Abbott,Ajman,2025-02-15,App,VIP
+CUST_01295,Steven Faulkner,Dubai,2025-09-08,Referral,Regular
+CUST_01296,Samantha Howard,Sharjah,2025-07-30,Call Center,Regular
+CUST_01297,Cynthia Park,Abu Dhabi,2025-03-02,App,VIP
+CUST_01298,Michelle Sullivan,Dubai,2025-11-08,Call Center,Regular
+CUST_01299,Mary Wells,Dubai,2025-08-11,Web,Regular
+CUST_01300,Sarah Ward,Abu Dhabi,2025-02-27,App,Regular
+CUST_01301,Zachary Santiago,Sharjah,2025-03-19,Web,Regular
+CUST_01302,Matthew Thomas,SHARJAH,2025-07-04,App,Regular
+CUST_01303,Vanessa Taylor,Dubai,2025-07-29,Web,Regular
+CUST_01304,Jennifer Bryant,SHARJAH,2025-01-14,App,Regular
+CUST_01305,Jordan Coleman,Sharjah,2025-06-03,Web,Regular
+CUST_01306,Darius Coleman,Dubai,2025-03-03,App,Regular
+CUST_01307,Sarah Young,Abu Dhabi,2025-10-10,Referral,Regular
+CUST_01308,Joshua Richardson,Dubai,2025-01-31,App,Regular
+CUST_01309,Michele Wilson,Dubai,2025-07-15,App,Premium
+CUST_01310,Angela Cross,Abu Dhabi,2025-04-11,Web,Regular
+CUST_01311,Blake Wu,Abu Dhabi,2025-06-07,Call Center,Regular
+CUST_01312,Mark Alvarado,Abu Dhabi,2025-04-11,Referral,VIP
+CUST_01313,Kimberly Riley,Ajman,2025-02-05,Web,VIP
+CUST_01314,Kimberly Smith,Sharjah,2025-03-06,App,Regular
+CUST_01315,Julie Gross,Dubai,2025-03-16,Call Center,Regular
+CUST_01316,William Phillips,Abu Dhabi,2025-08-01,Web,VIP
+CUST_01317,Thomas Curry,Sharjah,2025-11-07,Web,Regular
+CUST_01318,John Jackson,Sharjah,2025-01-19,Call Center,Premium
+CUST_01319,Dorothy Mclaughlin,Dubai,2025-07-10,Call Center,Regular
+CUST_01320,Bradley Wagner,Dubai,2025-07-22,Web,Regular
+CUST_01321,Luis Hill,Abu Dhabi,2025-07-26,App,Regular
+CUST_01322,Brian Thompson,Dubai,2025-06-19,App,Regular
+CUST_01323,Jacqueline Thompson,Dubai,2025-04-11,App,VIP
+CUST_01324,Dr. Scott Cooper,dubai,2025-11-18,Call Center,Regular
+CUST_01325,Linda Underwood,Dubai,2025-11-06,Referral,Regular
+CUST_01326,Jennifer Reyes,Sharjah,2025-06-02,Web,Regular
+CUST_01327,Carol Lane,Dxb,2025-10-05,Web,Regular
+CUST_01328,Dennis Weiss,Abu Dhabi,2025-01-21,App,Premium
+CUST_01329,James Turner,Dubai,2025-12-08,Web,Regular
+CUST_01330,Michael Wells,Abu Dhabi,2025-04-22,App,Regular
+CUST_01331,Jessica Roberts,Abu Dhabi,2025-09-08,Web,VIP
+CUST_01332,Ethan Moreno,Abu Dhabi,2025-06-07,App,Regular
+CUST_01333,Joseph Gomez,Sharjah,2025-05-15,App,VIP
+CUST_01334,Marissa Nelson,Abu Dhabi,2025-03-21,Call Center,Regular
+CUST_01335,Brett Pena,Abu Dhabi,2025-02-28,Call Center,VIP
+CUST_01336,Michael Allen,Sharjah,2025-05-02,Web,Premium
+CUST_01337,Megan Kaiser,Sharjah,2025-07-12,Web,Regular
+CUST_01338,Megan Decker,Dubai,2025-05-02,Web,Regular
+CUST_01339,Joseph Jennings,Sharjah,2025-12-18,Web,Regular
+CUST_01340,Douglas Lee,Sharjah,2025-12-04,Web,Regular
+CUST_01341,Amy Wheeler,Dubai,2025-01-30,App,Regular
+CUST_01342,Margaret Erickson,Dubai,2025-03-13,Web,VIP
+CUST_01343,Larry Bennett,Abu Dhabi,2025-10-17,App,VIP
+CUST_01344,Melissa King,Abu Dhabi,2025-03-23,App,Regular
+CUST_01345,Angela Chavez,Dubai,2025-11-04,App,Regular
+CUST_01346,Melissa Contreras,Ras Al Khaimah,2025-03-24,App,Regular
+CUST_01347,Richard Ramirez,Dubai,2025-05-14,App,Premium
+CUST_01348,Gary Brown,Abu Dhabi,2025-09-29,Web,Premium
+CUST_01349,Benjamin Krause,Abu Dhabi,2025-12-09,App,Regular
+CUST_01350,Cassandra Vasquez,Dxb,2025-07-15,App,Regular
+CUST_01351,Jessica Mendez,Sharjah,2025-09-07,Web,Regular
+CUST_01352,Michelle Garcia,Abu Dhabi,2025-02-21,Web,Regular
+CUST_01353,Nicholas Waters,Ajman,2025-12-27,Call Center,Premium
+CUST_01354,Brittany Bowman,Dubai,2025-07-15,Call Center,Premium
+CUST_01355,Deborah Graves,SHJ,2025-01-13,Web,Regular
+CUST_01356,Kaylee Case,Dubai,2025-11-28,App,Regular
+CUST_01357,Jared Luna,Ajman,2025-02-08,App,Regular
+CUST_01358,April Finley,Sharjah,2025-10-25,Web,Regular
+CUST_01359,Joseph Frey,Dubai,2025-05-06,App,Premium
+CUST_01360,Jennifer Chen,Sharjah,2025-09-18,Web,Regular
+CUST_01361,Samuel Peterson,Dubai,2025-04-20,Web,Premium
+CUST_01362,Donna Harris,abu dhabi,2025-01-23,Referral,Premium
+CUST_01363,Mary Evans,Abu Dhabi,2025-05-09,Web,Regular
+CUST_01364,Lydia Howard,Abu Dhabi,2025-11-29,Web,Regular
+CUST_01365,Jessica Lopez,Dubai,2025-08-20,App,Premium
+CUST_01366,Nathan Watkins,Dubai,2026-01-01,Web,Regular
+CUST_01367,Ricky Schneider,Abu Dhabi,2025-12-12,Web,Regular
+CUST_01368,Sandra Cole,Ajman,2025-08-08,App,Regular
+CUST_01369,Anthony French,Sharjah,2025-10-25,App,Regular
+CUST_01370,Daniel Valdez,Dubai,2025-05-29,Web,Regular
+CUST_01371,Sheila Herrera,Dubai,2025-05-04,Referral,Regular
+CUST_01372,Amanda Thomas,Abu Dhabi,2025-02-12,Web,Regular
+CUST_01373,Thomas Williams,Dubai,2025-11-13,Web,Premium
+CUST_01374,Mark Conway,Dubai,2025-03-19,Web,Premium
+CUST_01375,Christopher Garza,Dubai,2025-10-13,Web,Premium
+CUST_01376,Kurt Gilbert,Abu Dhabi,2025-08-24,Call Center,Regular
+CUST_01377,Jessica Cain,Dubai,2025-08-24,Referral,Regular
+CUST_01378,William Johnston,Dubai,2025-08-21,App,Regular
+CUST_01379,Vincent Lewis,Abu Dhabi,2025-09-07,Web,Regular
+CUST_01380,Gabriela Martinez,Abu Dhabi,2025-02-03,App,Regular
+CUST_01381,Carol Wood,Sharjah,2025-05-23,Call Center,Regular
+CUST_01382,Timothy Williams,Abu Dhabi,2025-01-17,Web,Regular
+CUST_01383,Lynn Bennett,Abu Dhabi,2025-08-21,App,Regular
+CUST_01384,John Smith,Dubai,2025-07-31,App,VIP
+CUST_01385,Michelle Wheeler,Dubai,2025-01-22,Referral,Regular
+CUST_01386,Robert Barton,AD,2025-01-17,App,Regular
+CUST_01387,Mark Mills,abu dhabi,2025-07-09,Web,Regular
+CUST_01388,Christopher Holt,Dubai,2025-06-09,Web,Premium
+CUST_01389,Lisa Miller,Sharjah,2025-05-11,Web,VIP
+CUST_01390,Aaron Young,Abu Dhabi,2025-01-20,App,Premium
+CUST_01391,Dr. Lisa Huffman,Sharjah,2025-10-02,Call Center,Regular
+CUST_01392,Mark Clark,Ajman,2025-12-03,App,Regular
+CUST_01393,Robert Jennings,Sharjah,2025-09-09,Referral,Premium
+CUST_01394,Christopher Livingston Jr.,Sharjah,2025-09-16,Web,Regular
+CUST_01395,Jeffrey Cook,Dubai,2025-01-15,Web,VIP
+CUST_01396,Patrick Buckley,Ras Al Khaimah,2025-12-11,Web,Regular
+CUST_01397,Allen Robertson,Ras Al Khaimah,2025-06-04,Referral,Regular
+CUST_01398,Mikayla Watkins,Ras Al Khaimah,2025-04-18,Web,Regular
+CUST_01399,Paul Villanueva,Dubai,2025-04-04,Call Center,Premium
+CUST_01400,Erika Garcia,Dubai,2025-01-16,Web,Regular
+CUST_01401,Jaime Walker,Abu Dhabi,2025-04-13,App,VIP
+CUST_01402,Amy Graham,Sharjah,2025-04-20,Web,Premium
+CUST_01403,Jordan Hughes,Dubai,2025-11-24,Web,Regular
+CUST_01404,Cory Howard,Abu Dhabi,2025-04-15,Referral,Regular
+CUST_01405,Cameron Schwartz,Sharjah,2025-06-19,App,Regular
+CUST_01406,Brian Owens,Dubai,2025-01-14,App,VIP
+CUST_01407,Greg Tanner,Abu Dhabi,2025-10-23,Referral,Regular
+CUST_01408,Margaret Carr,Sharjah,2025-01-13,Call Center,Regular
+CUST_01409,Kristen Hall,Ajman,2025-03-08,Web,Regular
+CUST_01410,Katherine Forbes,Abu Dhabi,2025-12-19,Web,Regular
+CUST_01411,Diana Blair,Sharjah,2025-06-23,Referral,Regular
+CUST_01412,Jeffrey Walker,Dubai,2025-01-05,App,Regular
+CUST_01413,Stephanie Butler,Dubai,2025-12-17,Call Center,Regular
+CUST_01414,John Mack,sharjah,2025-04-04,Web,Regular
+CUST_01415,James Pacheco,Abu Dhabi,2025-03-04,Web,Regular
+CUST_01416,David Hansen,Dubai,2025-08-24,Web,Regular
+CUST_01417,Jennifer Robinson,Dubai,2025-06-21,App,Regular
+CUST_01418,Matthew Davis,Ajman,2025-06-30,Web,Regular
+CUST_01419,Candice Stevens,Sharjah,2025-01-31,Web,Regular
+CUST_01420,Julie Taylor,Dubai,2025-07-18,Web,Regular
+CUST_01421,Seth Sims,Ajman,2025-05-08,App,Regular
+CUST_01422,Andrea Barry,Abu Dhabi,2025-12-21,Call Center,Regular
+CUST_01423,Elizabeth Mullins,Dubai,2025-03-29,App,VIP
+CUST_01424,Angela Gilmore,abu dhabi,2025-05-29,Web,Premium
+CUST_01425,Susan Cox,Dubai,2025-07-29,App,Regular
+CUST_01426,Jacob Harvey,Sharjah,2026-01-04,App,Regular
+CUST_01427,Matthew Bush,Dubai,2025-02-07,Call Center,Regular
+CUST_01428,George Fernandez,abu dhabi,2025-10-28,App,Premium
+CUST_01429,Nicole Pitts,AD,2025-12-28,App,Premium
+CUST_01430,Paige Flores,Abu Dhabi,2025-07-16,Web,Regular
+CUST_01431,Jenny Brown,Dxb,2025-08-05,App,Regular
+CUST_01432,John Rose,Dubai,2025-03-07,Web,Regular
+CUST_01433,Joseph Bryan,Abu Dhabi,2025-03-08,App,Regular
+CUST_01434,Jacob Nunez,Dubai,2025-04-11,Web,Premium
+CUST_01435,Stephen Miller,Ras Al Khaimah,2025-04-22,App,Premium
+CUST_01436,Donna Frye,Ajman,2025-08-11,Web,VIP
+CUST_01437,Brian Hernandez,Ras Al Khaimah,2025-07-05,Call Center,Regular
+CUST_01438,Kelly Burton,Abu Dhabi,2025-07-21,Referral,Premium
+CUST_01439,Michael Huynh,Sharjah,2025-08-29,App,Regular
+CUST_01440,Jeremy Newman,Dubai,2025-11-23,Web,Regular
+CUST_01441,Alex Pham,Dubai,2025-06-25,App,Regular
+CUST_01442,Grant Lucas,Ras Al Khaimah,2025-07-21,App,Regular
+CUST_01443,Mr. Joseph Kelley,Ajman,2025-12-07,Web,VIP
+CUST_01444,Carlos Clarke,Sharjah,2025-05-02,App,VIP
+CUST_01445,Cristina Watson,Abu Dhabi,2025-01-21,App,Regular
+CUST_01446,Amber Gomez,Sharjah,2025-01-23,Web,VIP
+CUST_01447,Lisa Martin,Dubai,2025-09-12,App,Premium
+CUST_01448,Christopher Erickson,Dubai,2025-07-20,App,Premium
+CUST_01449,Bruce Chaney,Dubai,2025-07-19,Web,Regular
+CUST_01450,Jacob Harris,Abu Dhabi,2025-03-02,Web,Regular
+CUST_01451,Vanessa Hernandez,Ajman,2025-07-26,App,Regular
+CUST_01452,Carla Turner,Dubai,2025-09-13,App,Regular
+CUST_01453,Jonathan Thomas,Dubai,2025-08-06,Call Center,Regular
+CUST_01454,Brittney Cordova,Sharjah,2025-08-05,App,Regular
+CUST_01455,Elizabeth Kemp,Dubai,2025-11-15,App,Regular
+CUST_01456,Monica Nielsen,Abu Dhabi,2025-01-31,Web,Regular
+CUST_01457,Monique Mccullough,Ajman,2025-03-27,Call Center,Regular
+CUST_01458,Audrey Johnson,SHJ,2025-11-27,App,Regular
+CUST_01459,Brandon Brown,Dubai,2025-07-24,App,VIP
+CUST_01460,Courtney Walls,Ras Al Khaimah,2025-08-12,Web,Premium
+CUST_01461,Bradley Atkinson,Dubai,2025-07-27,App,Regular
+CUST_01462,Jennifer Henry,Dubai,2025-11-04,Web,Regular
+CUST_01463,Heather Hernandez,Dubai,2025-04-02,App,Premium
+CUST_01464,Jake Mitchell,Dubai,2025-04-20,App,Regular
+CUST_01465,Jeremy Hoffman,Dubai,2025-12-29,Web,Regular
+CUST_01466,Jill Riddle,Abu Dhabi,2025-05-06,Call Center,Regular
+CUST_01467,Robert Waller,Dubai,2025-09-13,App,Regular
+CUST_01468,Jennifer Houston,Dubai,2025-02-18,Web,Regular
+CUST_01469,Eric Mcneil,Sharjah,2025-03-23,Call Center,Regular
+CUST_01470,Tyler Avila,Dubai,2025-01-07,App,VIP
+CUST_01471,Mark Nelson,Dubai,2025-12-02,Web,Regular
+CUST_01472,Michelle Fischer,Dubai,2025-11-22,App,Regular
+CUST_01473,Ronnie Roberts,Dubai,2025-05-18,Call Center,Premium
+CUST_01474,Ronald Davenport,Dubai,2025-07-28,App,Regular
+CUST_01475,Patrick Walker DDS,Ras Al Khaimah,2025-09-20,Web,Regular
+CUST_01476,Tyler Flowers,Sharjah,2025-10-22,App,Regular
+CUST_01477,Maxwell Roberts,Sharjah,2025-11-24,Web,Regular
+CUST_01478,Michael Sanchez Jr.,Abu Dhabi,2025-08-24,App,Regular
+CUST_01479,Wesley George MD,Ras Al Khaimah,2025-03-22,Web,Regular
+CUST_01480,Sheena Burton,Sharjah,2025-01-26,App,Premium
+CUST_01481,Sabrina Brooks,Dubai,2025-08-08,Referral,Premium
+CUST_01482,Carla Brown,Dubai,2025-11-13,Web,Regular
+CUST_01483,Michael Howard,Ajman,2025-12-23,App,Regular
+CUST_01484,Jason Barr,Abu Dhabi,2025-02-08,Web,Regular
+CUST_01485,Eddie Fowler,Abu Dhabi,2025-11-27,App,Regular
+CUST_01486,Pamela White,Sharjah,2025-03-12,App,Regular
+CUST_01487,Carol Morris,Abu Dhabi,2025-03-11,Referral,Regular
+CUST_01488,Melinda Turner,Sharjah,2025-08-18,App,Regular
+CUST_01489,Kevin Morrow,Dxb,2025-05-29,Web,Regular
+CUST_01490,Douglas Maxwell,Dubai,2025-08-30,Call Center,Premium
+CUST_01491,Thomas Garcia,Sharjah,2025-04-03,Web,Regular
+CUST_01492,Sandra Pope,Abu Dhabi,2025-02-22,Web,Regular
+CUST_01493,Thomas Wilson,Abu Dhabi,2025-10-05,Web,Regular
+CUST_01494,Karen Collins,Abu Dhabi,2025-11-20,Web,Regular
+CUST_01495,Jeremy Huerta,Sharjah,2025-03-27,App,Regular
+CUST_01496,Eric Garner,Abu Dhabi,2025-04-12,Call Center,Regular
+CUST_01497,Scott Thomas,Abu Dhabi,2025-11-15,Referral,Regular
+CUST_01498,Daniel Zavala,Dubai,2025-06-01,Web,Regular
+CUST_01499,Rachel Jones,Dubai,2025-05-12,Web,Premium
+CUST_01500,Amanda Rodriguez,Dubai,2025-08-18,Referral,Regular
+CUST_01501,Terry Williams,Abu Dhabi,2025-05-31,Web,Regular
+CUST_01502,Nicole Patton,AD,2025-07-02,Web,Regular
+CUST_01503,Christina Lambert,Sharjah,2025-02-02,Referral,Regular
+CUST_01504,Ryan Mcmahon,Sharjah,2025-01-25,Web,Regular
+CUST_01505,Scott Norman,Dubai,2025-06-17,Call Center,Regular
+CUST_01506,Andrea Weiss,Abu Dhabi,2025-04-13,Web,Regular
+CUST_01507,Michelle Brandt,SHJ,2025-02-16,Web,Regular
+CUST_01508,Kimberly Beltran,Dubai,2025-08-02,App,Regular
+CUST_01509,Tami York,Sharjah,2025-09-26,Web,Regular
+CUST_01510,Kevin Gonzales,Ajman,2025-01-14,App,Regular
+CUST_01511,Henry Gray,Ajman,2025-11-26,Referral,VIP
+CUST_01512,Jennifer Juarez,Sharjah,2025-08-10,Web,Regular
+CUST_01513,Brian Taylor,Sharjah,2025-08-28,App,Regular
+CUST_01514,Kristin Williams,Sharjah,2025-05-28,App,Regular
+CUST_01515,James Bryant DDS,Ajman,2025-12-21,Referral,VIP
+CUST_01516,Jason Mercer,Abu Dhabi,2025-11-22,Web,Premium
+CUST_01517,Benjamin Randall,Dubai,2025-12-28,Call Center,Premium
+CUST_01518,Holly Smith,Dubai,2025-05-01,Web,Regular
+CUST_01519,Jennifer Mills,Dubai,2025-12-11,Call Center,Regular
+CUST_01520,James Neal,Sharjah,2025-02-04,Web,Regular
+CUST_01521,Stephanie Jackson,Abu Dhabi,2025-04-08,Call Center,Regular
+CUST_01522,Gina Larson,Dubai,2025-03-29,App,Regular
+CUST_01523,Ryan Hardy,Ajman,2025-08-24,App,Regular
+CUST_01524,Pamela Wheeler,Dubai,2025-06-12,Call Center,Regular
+CUST_01525,Melvin Clements,Dubai,2025-04-05,App,Regular
+CUST_01526,Brittany Gibson,Sharjah,2025-08-12,Web,Regular
+CUST_01527,Jonathan Fuller,Ajman,2025-02-15,App,Regular
+CUST_01528,Oscar Greer,Dubai,2025-01-29,Call Center,Regular
+CUST_01529,Valerie Reyes,Dubai,2025-06-06,App,Premium
+CUST_01530,Marco Davis,Abu Dhabi,2025-11-26,Call Center,Regular
+CUST_01531,Kelly Vasquez,Sharjah,2025-01-06,App,Premium
+CUST_01532,Matthew Henry,ajman,2025-08-04,Web,Regular
+CUST_01533,Rhonda Fernandez,Ras Al Khaimah,2025-04-30,Referral,Regular
+CUST_01534,Amanda Jordan,sharjah,2025-11-11,App,Regular
+CUST_01535,Ernest Bennett,Abu Dhabi,2025-12-03,App,Regular
+CUST_01536,Christopher Hopkins,SHJ,2025-02-01,App,Regular
+CUST_01537,Carly Jordan,SHJ,2025-09-04,App,Regular
+CUST_01538,Katherine Rodriguez,Sharjah,2025-09-28,Call Center,Regular
+CUST_01539,Melissa Armstrong,Ajman,2025-11-25,Web,VIP
+CUST_01540,Brooke Brown,Dubai,2025-04-17,Referral,Regular
+CUST_01541,Wesley Jensen MD,Sharjah,2025-02-12,Referral,Regular
+CUST_01542,Alfred Williams,Ajman,2025-12-27,Referral,Regular
+CUST_01543,Patrick Johnson,Abu Dhabi,2025-05-16,Web,Regular
+CUST_01544,Jeffrey Braun,Dubai,2025-12-03,App,Regular
+CUST_01545,Matthew Wright,Dubai,2025-11-10,App,Regular
+CUST_01546,Susan Jones,Abu Dhabi,2025-03-28,Call Center,Regular
+CUST_01547,Christopher Ryan,Dubai,2025-04-21,Web,Premium
+CUST_01548,Scott Bradley,Abu Dhabi,2025-03-13,Referral,Premium
+CUST_01549,Michael Chapman,Dubai,2025-06-22,App,Regular
+CUST_01550,James Armstrong,Dubai,2025-10-31,Web,Regular
+CUST_01551,Michael Rogers,Dxb,2025-03-30,Web,Regular
+CUST_01552,Elijah Montes,Dubai,2025-02-22,App,Regular
+CUST_01553,Ryan Cobb PhD,Sharjah,2025-03-04,Web,Regular
+CUST_01554,Anthony Davies,Dubai,2025-01-06,App,Premium
+CUST_01555,Lori Rubio,ajman,2025-05-28,Web,Regular
+CUST_01556,Denise Knight,Dubai,2025-01-16,App,Premium
+CUST_01557,Gregory Jones,Ajman,2025-03-19,Referral,VIP
+CUST_01558,Elizabeth Alvarado,Dubai,2025-04-14,Call Center,Regular
+CUST_01559,James Weber,Dubai,2025-04-28,Web,Regular
+CUST_01560,Kimberly Ibarra,Sharjah,2025-06-10,Web,Regular
+CUST_01561,Christy Hayden,Abu Dhabi,2025-06-25,Call Center,VIP
+CUST_01562,Mark Lamb,Ras Al Khaimah,2025-04-28,Web,Regular
+CUST_01563,Molly Brown,Dubai,2025-08-02,Referral,Regular
+CUST_01564,Charles Hernandez,Dubai,2025-11-13,App,Regular
+CUST_01565,Jennifer Dalton,SHARJAH,2025-04-06,App,Regular
+CUST_01566,Sarah Adams,Sharjah,2025-03-14,Referral,VIP
+CUST_01567,Dawn Burke,Dubai,2025-05-10,Web,Regular
+CUST_01568,Chris Johnson,Sharjah,2025-07-08,App,Regular
+CUST_01569,Justin Graham,Dubai,2025-01-07,Web,Regular
+CUST_01570,Dominic Johnson,Dubai,2025-10-31,App,Regular
+CUST_01571,Casey Phelps,Dubai,2025-09-07,App,Regular
+CUST_01572,Amy Mosley,Abu Dhabi,2025-05-14,App,Regular
+CUST_01573,Sharon Lester,Abu Dhabi,2025-04-20,Web,Premium
+CUST_01574,Megan Blackwell,Dubai,2025-06-15,Web,Regular
+CUST_01575,Misty Taylor,Dxb,2025-02-28,App,Regular
+CUST_01576,Kathryn Martinez,Abu Dhabi,2025-02-26,App,Regular
+CUST_01577,Brandon Greene DDS,Ajman,2025-07-27,Web,Regular
+CUST_01578,Kevin Price,Abu Dhabi,2025-05-30,App,Regular
+CUST_01579,Claudia Rodriguez,Dxb,2025-10-09,App,Regular
+CUST_01580,Jessica King,Dubai,2025-02-03,Web,Regular
+CUST_01581,James Fry MD,Ras Al Khaimah,2025-10-07,Web,Regular
+CUST_01582,David Ramirez,Dubai,2025-11-28,Web,VIP
+CUST_01583,Mike Underwood,AD,2025-01-31,Web,Regular
+CUST_01584,Susan Johnson,Dubai,2025-06-20,Web,Regular
+CUST_01585,Rachel Allen,Ajman,2025-04-11,App,Premium
+CUST_01586,Tyler Cox,abu dhabi,2025-01-16,App,Regular
+CUST_01587,Cynthia Ramos,Dubai,2025-06-30,Web,Regular
+CUST_01588,Jenna Spence,Ajman,2025-06-14,Web,Regular
+CUST_01589,Timothy Sherman,Sharjah,2025-05-01,Web,Regular
+CUST_01590,Steve Moon,Ras Al Khaimah,2025-06-07,Web,Regular
+CUST_01591,Pamela Sullivan,Dubai,2025-05-18,Call Center,Regular
+CUST_01592,Bobby Chan,Sharjah,2025-03-17,Web,Regular
+CUST_01593,Jason Randall,Dubai,2025-07-09,Referral,Regular
+CUST_01594,Samantha Holloway,Ras Al Khaimah,2025-05-24,Web,Regular
+CUST_01595,Heather Guzman,Dubai,2025-04-18,App,Regular
+CUST_01596,Alexander Williams,Abu Dhabi,2025-07-06,App,Regular
+CUST_01597,Rachel Taylor,Abu Dhabi,2025-09-30,Referral,VIP
+CUST_01598,Eric Johnston,Dubai,2025-05-15,App,VIP
+CUST_01599,Jose Booker,Sharjah,2025-07-15,Web,Regular
+CUST_01600,Melissa Sparks,Ras Al Khaimah,2025-05-17,Referral,Regular
+CUST_01601,Shane Anderson,Abu Dhabi,2025-05-13,Web,Regular
+CUST_01602,Samantha Marsh,Ajman,2025-12-03,Web,Regular
+CUST_01603,Jacob Long,Abu Dhabi,2025-01-28,App,Premium
+CUST_01604,Stacey Walker,Sharjah,2025-06-27,Call Center,Regular
+CUST_01605,Maria Sims,Dubai,2025-12-21,App,Regular
+CUST_01606,Christina Haynes,Ajman,2025-07-15,Web,Regular
+CUST_01607,Luke Burke,Dubai,2025-11-22,Web,Premium
+CUST_01608,Jacob Valentine,Dubai,2025-07-18,Web,Premium
+CUST_01609,Joseph Ayala,Dubai,2025-11-23,Web,Premium
+CUST_01610,Kathleen Walker,Abu Dhabi,2025-06-02,Call Center,Regular
+CUST_01611,Scott Casey,Ajman,2025-07-21,Web,Regular
+CUST_01612,Janet Reynolds,Dubai,2025-01-21,Referral,Regular
+CUST_01613,Whitney Campbell,Ajman,2025-03-21,Call Center,Regular
+CUST_01614,Jason Thomas,Abu Dhabi,2025-08-07,Call Center,Regular
+CUST_01615,Cynthia Hayes,Ras Al Khaimah,2025-04-13,Web,Regular
+CUST_01616,Michael Ellis,Ras Al Khaimah,2025-04-08,App,VIP
+CUST_01617,Seth Mccann,Abu Dhabi,2025-01-15,App,Regular
+CUST_01618,Michelle Erickson,Abu Dhabi,2025-08-19,App,Regular
+CUST_01619,Justin Williams,Dubai,2025-07-03,Web,Regular
+CUST_01620,Hector Obrien,Abu Dhabi,2025-02-11,Web,Regular
+CUST_01621,Jonathan James,Sharjah,2025-01-30,Web,Regular
+CUST_01622,Brandi Mcclain,Abu Dhabi,2025-11-07,Call Center,Regular
+CUST_01623,Debbie Gordon,Abu Dhabi,2025-11-13,Referral,Regular
+CUST_01624,Bonnie Stewart,Dubai,2025-10-09,App,Regular
+CUST_01625,Bruce Williams,Dubai,2025-11-09,Referral,Regular
+CUST_01626,Dr. Douglas Ward MD,Sharjah,2025-06-14,App,Regular
+CUST_01627,Pam Baker,Abu Dhabi,2025-12-02,App,Regular
+CUST_01628,Christopher Doyle,Ras Al Khaimah,2025-09-17,App,Regular
+CUST_01629,Brittany Farrell,Ajman,2025-05-21,App,Regular
+CUST_01630,Charles Hall,Abu Dhabi,2025-07-11,App,Premium
+CUST_01631,Christopher Mcdonald,Dubai,2025-11-19,App,Regular
+CUST_01632,Tammy Williams MD,Sharjah,2025-11-05,App,Regular
+CUST_01633,Brian Cortez,Dubai,2025-11-11,Web,Regular
+CUST_01634,Brandon Oneill,Sharjah,2025-06-04,Call Center,Regular
+CUST_01635,Nicole Carson,Dubai,2025-10-08,Referral,Regular
+CUST_01636,Valerie Fox,Ras Al Khaimah,2025-04-07,App,Premium
+CUST_01637,Billy Tate,Abu Dhabi,2025-03-22,Call Center,Regular
+CUST_01638,Allison Maldonado,dubai,2025-01-22,Web,VIP
+CUST_01639,Kevin Bean,Sharjah,2025-01-23,App,Premium
+CUST_01640,Brad Rivas,Abu Dhabi,2025-03-29,Web,VIP
+CUST_01641,Tyler Wheeler,Sharjah,2025-01-15,App,Regular
+CUST_01642,Andrew Dean,Abu Dhabi,2025-03-25,Web,Premium
+CUST_01643,Nicholas Navarro,Dubai,2025-01-16,App,Regular
+CUST_01644,Anthony Schneider,Dubai,2025-10-04,App,Regular
+CUST_01645,Natasha Payne,Dubai,2025-06-06,App,Premium
+CUST_01646,David Allen,Dubai,2025-09-20,Web,Regular
+CUST_01647,Samuel Martin,Sharjah,2025-04-15,App,Premium
+CUST_01648,Paul Valdez,Dubai,2025-01-30,Call Center,Regular
+CUST_01649,Robert Fitzgerald,Dubai,2025-09-16,Web,Regular
+CUST_01650,Lindsey Howard,Ajman,2025-04-20,App,Regular
+CUST_01651,Kayla Burns,Dubai,2025-01-28,Referral,VIP
+CUST_01652,Justin Henderson,Dubai,2025-10-19,App,Regular
+CUST_01653,Lisa Hamilton,Ajman,2025-05-21,Web,VIP
+CUST_01654,Jose Mcpherson,Dubai,2026-01-01,Web,Regular
+CUST_01655,Michelle Arias,Dubai,2025-08-27,Referral,Premium
+CUST_01656,Jeffrey Solomon,Sharjah,2025-04-14,Web,Regular
+CUST_01657,William Sutton,Abu Dhabi,2025-04-15,App,Premium
+CUST_01658,Kelly Phillips,Dubai,2026-01-03,App,Regular
+CUST_01659,Sylvia Palmer,Abu Dhabi,2025-11-06,App,Premium
+CUST_01660,John Cortez,Abu Dhabi,2025-07-17,App,Premium
+CUST_01661,Kevin Mack,Sharjah,2025-02-23,App,Regular
+CUST_01662,Matthew White,Ras Al Khaimah,2025-07-14,Web,Regular
+CUST_01663,Amber Butler,Sharjah,2025-03-20,App,Premium
+CUST_01664,Nathaniel Todd,Sharjah,2025-08-03,Web,Regular
+CUST_01665,Deborah Levy,Ajman,2025-11-06,Web,Premium
+CUST_01666,Blake Hendrix,Dubai,2025-01-13,App,Regular
+CUST_01667,Ashley Ferguson,Abu Dhabi,2025-05-30,App,Regular
+CUST_01668,Adam Rios,Dubai,2025-02-16,App,Premium
+CUST_01669,Sheila Church,Dubai,2025-04-14,Web,Regular
+CUST_01670,Robert Jensen,Sharjah,2025-12-07,Web,Regular
+CUST_01671,Anita Taylor,Dubai,2025-06-11,Call Center,Premium
+CUST_01672,Alan Waller,Dubai,2025-09-23,App,Regular
+CUST_01673,Matthew Santos,Dubai,2025-12-28,Call Center,VIP
+CUST_01674,Shannon Ryan,Sharjah,2025-09-07,App,VIP
+CUST_01675,John Wells,Dubai,2026-01-02,App,Premium
+CUST_01676,Steven Rodgers,ABU DHABI,2025-06-15,Web,Regular
+CUST_01677,Kaitlyn Heath,Sharjah,2025-02-15,App,Regular
+CUST_01678,Keith Bass,Abu Dhabi,2025-10-11,Web,Premium
+CUST_01679,Brian Abbott,Sharjah,2025-04-14,Call Center,Premium
+CUST_01680,Sarah Mclaughlin,Dubai,2025-04-17,Web,Regular
+CUST_01681,James Palmer,Sharjah,2025-01-11,Web,Regular
+CUST_01682,Antonio Smith,Dubai,2025-02-26,App,VIP
+CUST_01683,Debra Wong,Sharjah,2025-04-26,Web,Regular
+CUST_01684,Marcus Lucas,Dubai,2026-01-03,App,Regular
+CUST_01685,Alisha Roberts,Sharjah,2025-09-01,App,Regular
+CUST_01686,Jeffrey Romero,Dubai,2025-07-12,App,Regular
+CUST_01687,Sarah Espinoza,Sharjah,2025-01-13,Call Center,Regular
+CUST_01688,Edward Dawson,Dubai,2025-08-26,App,Regular
+CUST_01689,Megan Navarro,Abu Dhabi,2025-02-12,App,Regular
+CUST_01690,Sarah Howell,Dubai,2025-07-14,App,Regular
+CUST_01691,Angelica Webb,Ajman,2025-05-07,Call Center,Regular
+CUST_01692,Larry Garcia,Dubai,2025-10-17,Web,Regular
+CUST_01693,Katherine Young,Abu Dhabi,2025-09-19,App,Premium
+CUST_01694,Mrs. Debbie Rhodes MD,Dubai,2025-08-13,Referral,Regular
+CUST_01695,Gail Wilson,Sharjah,2025-12-19,Web,Regular
+CUST_01696,Danny Scott,Sharjah,2025-12-27,Web,Regular
+CUST_01697,Patricia Carrillo,Sharjah,2025-05-11,Call Center,Regular
+CUST_01698,Sarah Russo,Sharjah,2025-08-27,App,Regular
+CUST_01699,Tammy Kim,Dubai,2025-10-04,Web,VIP
+CUST_01700,Nicole Villegas,Abu Dhabi,2025-04-01,App,VIP
+CUST_01701,Amanda Garcia,Dubai,2025-03-29,Web,Regular
+CUST_01702,Susan Moore,Sharjah,2025-06-05,App,Regular
+CUST_01703,Pamela Jimenez,Sharjah,2025-10-26,Web,Premium
+CUST_01704,Jack Fuentes,Dubai,2025-11-10,Web,Regular
+CUST_01705,Jessica Perry,Dubai,2025-03-24,Call Center,Regular
+CUST_01706,Robert Peterson,Abu Dhabi,2025-11-08,Web,Regular
+CUST_01707,Jaime Fischer,Dubai,2025-04-27,Web,Regular
+CUST_01708,Danielle Mullins,Abu Dhabi,2025-09-27,Web,Premium
+CUST_01709,Brenda Patterson,Dubai,2025-10-07,App,Regular
+CUST_01710,Tiffany Black,Dubai,2025-08-25,Web,Regular
+CUST_01711,Jessica Carrillo,Dubai,2025-06-30,Referral,Regular
+CUST_01712,Ernest Holden,Dubai,2025-02-26,App,Premium
+CUST_01713,James Johnson,Dubai,2025-03-01,Call Center,VIP
+CUST_01714,Amy Welch,Sharjah,2025-10-22,Web,Regular
+CUST_01715,Stephen Haynes,Sharjah,2025-07-19,Call Center,Premium
+CUST_01716,Emily Cooper,Abu Dhabi,2025-08-17,App,VIP
+CUST_01717,Lisa Thomas,DUBAI,2025-01-11,App,Regular
+CUST_01718,Daniel Stephens,Ajman,2025-09-01,Web,VIP
+CUST_01719,Stacy Harrington,Ajman,2025-12-03,Web,Regular
+CUST_01720,Shirley Miller,Abu Dhabi,2025-05-29,Web,Regular
+CUST_01721,Nathan Hobbs,Dubai,2025-05-27,App,Regular
+CUST_01722,Jorge Collins,Sharjah,2025-05-24,Web,Regular
+CUST_01723,Caitlin Johnson,Abu Dhabi,2025-10-01,App,Regular
+CUST_01724,Raymond Barber,Sharjah,2025-02-04,Referral,Regular
+CUST_01725,Sarah Green,Dubai,2025-05-25,Web,Regular
+CUST_01726,Peter Pugh,Dubai,2025-11-27,Web,Regular
+CUST_01727,Norman Chavez,Sharjah,2025-02-10,Call Center,Regular
+CUST_01728,Virginia Cunningham,Abu Dhabi,2025-02-25,Call Center,Regular
+CUST_01729,Dustin Glover,Ras Al Khaimah,2025-08-30,Web,Regular
+CUST_01730,Kelly Wright,Abu Dhabi,2026-01-01,Web,Regular
+CUST_01731,Cheryl Osborne,Sharjah,2025-04-28,Call Center,Regular
+CUST_01732,Michael Poole,Ajman,2025-06-19,Web,Regular
+CUST_01733,Jeffery Anderson,Sharjah,2025-10-31,App,Regular
+CUST_01734,Jacob Fox,Dubai,2025-06-29,App,VIP
+CUST_01735,Lauren Fields,Sharjah,2025-08-16,App,Premium
+CUST_01736,Theresa Dennis,Dubai,2025-08-18,App,Regular
+CUST_01737,Brianna Martinez,Dubai,2025-08-02,App,Premium
+CUST_01738,Michael Boyer,Abu Dhabi,2025-09-05,Web,VIP
+CUST_01739,Joy Johnson,Ajman,2025-12-02,App,Regular
+CUST_01740,Jaclyn Crane,Sharjah,2025-10-10,App,Regular
+CUST_01741,Jacob Roberts,Abu Dhabi,2025-02-19,Web,Regular
+CUST_01742,Eric Brooks,Sharjah,2025-12-04,Web,Regular
+CUST_01743,Dr. Charles Lawrence,Ras Al Khaimah,2025-04-18,Web,Regular
+CUST_01744,Elizabeth Campbell,Abu Dhabi,2025-09-03,Referral,Regular
+CUST_01745,Katherine Martinez,Dubai,2025-02-19,Web,Regular
+CUST_01746,Andrew Olson,Sharjah,2025-08-04,App,Regular
+CUST_01747,Stephanie Harrington,Sharjah,2025-10-04,Referral,Regular
+CUST_01748,Sandra Anderson,Sharjah,2025-02-18,Web,Regular
+CUST_01749,Julia Cole,Ajman,2025-08-20,Web,Regular
+CUST_01750,Nicholas Davis,Abu Dhabi,2025-11-26,Referral,Premium
+CUST_01751,Steven Morgan,AJMAN,2025-12-27,Web,Regular
+CUST_01752,Stacy Fitzgerald,Sharjah,2025-02-13,Web,Regular
+CUST_01753,Michelle Armstrong,Abu Dhabi,2025-03-28,Referral,Regular
+CUST_01754,Becky Hansen,Dubai,2025-07-03,App,Regular
+CUST_01755,Kimberly Todd,Sharjah,2025-08-29,App,Regular
+CUST_01756,Kathryn Smith,Dubai,2025-06-17,Web,Premium
+CUST_01757,Denise Harris,Abu Dhabi,2025-05-11,Web,VIP
+CUST_01758,Joseph Flores,Abu Dhabi,2025-10-11,App,Regular
+CUST_01759,Timothy Morgan Jr.,sharjah,2025-08-20,Web,Regular
+CUST_01760,Emily Scott,Dubai,2025-08-21,App,Premium
+CUST_01761,Kimberly Mitchell,SHJ,2025-12-01,Web,Regular
+CUST_01762,Brandon Parker,Sharjah,2025-12-29,Referral,Regular
+CUST_01763,Amy Woodward,Dubai,2025-12-01,Web,VIP
+CUST_01764,Anthony Price,Sharjah,2025-10-24,Referral,Regular
+CUST_01765,Steven Scott,Sharjah,2025-04-16,App,Premium
+CUST_01766,David Harper,Dubai,2025-07-26,Referral,Regular
+CUST_01767,Paul Cruz Jr.,Dubai,2025-04-17,Call Center,Regular
+CUST_01768,Juan Jones,Dubai,2025-07-17,Web,Regular
+CUST_01769,David Mercado,Sharjah,2025-06-18,App,Regular
+CUST_01770,Laurie Garcia,RAS AL KHAIMAH,2025-08-17,Web,Regular
+CUST_01771,Jason Miller,Dubai,2025-04-06,Call Center,Regular
+CUST_01772,Brenda Fernandez,Abu Dhabi,2025-02-25,App,Regular
+CUST_01773,Kimberly Henderson,Dubai,2026-01-05,Call Center,VIP
+CUST_01774,Robert Woodward,Dubai,2025-03-31,Web,Regular
+CUST_01775,Carol Brown,Sharjah,2025-09-21,App,Regular
+CUST_01776,David Frazier,Abu Dhabi,2025-04-03,Web,Regular
+CUST_01777,Christy Pittman,Abu Dhabi,2025-03-01,Call Center,Regular
+CUST_01778,Patrick Hart,SHARJAH,2025-10-03,App,Regular
+CUST_01779,Michael Rivas,Ajman,2025-10-06,Referral,Premium
+CUST_01780,Christine Wagner,Dubai,2025-06-03,Web,Regular
+CUST_01781,Theresa Reid,Dubai,2025-08-10,App,Regular
+CUST_01782,Matthew Morris,Dubai,2025-11-23,App,Premium
+CUST_01783,Kyle Smith,sharjah,2025-02-21,Referral,Regular
+CUST_01784,April Alvarez,Sharjah,2025-10-27,Web,Regular
+CUST_01785,Jennifer Woodard,Dubai,2025-07-26,Web,Regular
+CUST_01786,Kimberly Cobb,Dubai,2025-12-26,Referral,Regular
+CUST_01787,Stephanie Cabrera,Ajman,2025-07-09,Web,Regular
+CUST_01788,Heather Hess,Sharjah,2025-01-26,Web,Regular
+CUST_01789,Ryan Cain,Abu Dhabi,2025-02-24,App,Regular
+CUST_01790,Jacob Lee,Sharjah,2025-08-19,Web,Premium
+CUST_01791,Alejandro Campbell,Dubai,2025-07-27,App,Regular
+CUST_01792,Robert Garrett,Sharjah,2025-05-23,Call Center,Regular
+CUST_01793,Johnny Cox,Ajman,2025-11-14,App,Regular
+CUST_01794,Michael Obrien Jr.,Abu Dhabi,2025-09-14,App,Regular
+CUST_01795,Donald Mason,Sharjah,2025-09-20,Web,Regular
+CUST_01796,Mary Knight,Dubai,2025-07-26,Web,Premium
+CUST_01797,Carl Brown,Ajman,2025-11-03,Call Center,Regular
+CUST_01798,Savannah Ibarra,Dubai,2025-03-27,App,Regular
+CUST_01799,Michael Braun,Dubai,2025-02-16,App,Regular
+CUST_01800,Sonya Smith,Dubai,2025-03-10,Web,Regular
+CUST_01801,Terri Williams,Dubai,2025-06-01,Call Center,Regular
+CUST_01802,Zachary Hill,Dubai,2025-10-09,App,Premium
+CUST_01803,Joseph Williams DDS,Dubai,2025-10-11,Call Center,Regular
+CUST_01804,Jason Cole,Dubai,2025-12-21,Web,Regular
+CUST_01805,George Beard,Abu Dhabi,2025-01-30,App,Regular
+CUST_01806,Courtney Norris DVM,Ajman,2025-03-20,Call Center,Regular
+CUST_01807,Gary Brown,Sharjah,2025-07-09,Web,Regular
+CUST_01808,Jeffrey Johnson,Sharjah,2025-05-22,Call Center,Regular
+CUST_01809,Danielle Wells,Sharjah,2025-12-20,App,Regular
+CUST_01810,Samantha Stone,Sharjah,2025-03-01,Web,Regular
+CUST_01811,Patricia Harvey,Dubai,2025-08-23,App,Regular
+CUST_01812,Lauren Miller,Abu Dhabi,2025-04-24,Call Center,VIP
+CUST_01813,Jamie Wu,Abu Dhabi,2025-12-26,App,Regular
+CUST_01814,Amy Lang,Abu Dhabi,2025-06-03,App,Regular
+CUST_01815,Mark Jones,Dubai,2025-05-18,App,Regular
+CUST_01816,Elizabeth James,Dubai,2025-10-03,Call Center,Regular
+CUST_01817,Jennifer Hancock,Sharjah,2025-06-18,App,Regular
+CUST_01818,John Patterson,Sharjah,2025-11-28,App,VIP
+CUST_01819,Timothy Logan,Sharjah,2025-01-24,App,Regular
+CUST_01820,Leah Rodriguez,Abu Dhabi,2025-05-16,Web,Premium
+CUST_01821,Andrea Clarke,Dubai,2025-09-14,App,VIP
+CUST_01822,Beth Hicks,Dubai,2025-07-24,Web,Premium
+CUST_01823,Nathaniel Wallace,Abu Dhabi,2025-11-21,Call Center,Regular
+CUST_01824,Andrew Anderson,Sharjah,2025-11-25,App,Regular
+CUST_01825,Marissa Howard,Dubai,2025-03-16,App,VIP
+CUST_01826,Eric Cooper,Dubai,2025-06-15,Referral,Regular
+CUST_01827,Kelly Sandoval,Dubai,2025-11-07,Web,Regular
+CUST_01828,Jonathon Conley,Ras Al Khaimah,2025-03-07,Referral,VIP
+CUST_01829,Craig Gonzalez,DUBAI,2025-12-05,App,Regular
+CUST_01830,Gloria Contreras,Abu Dhabi,2025-07-19,Web,Regular
+CUST_01831,Erin Lane,Abu Dhabi,2025-04-18,App,Regular
+CUST_01832,Jennifer Martin,Dubai,2025-01-14,App,Regular
+CUST_01833,Susan Crawford,Abu Dhabi,2025-03-10,Web,Regular
+CUST_01834,Melissa Owens,Abu Dhabi,2025-12-13,Referral,Premium
+CUST_01835,Nicholas Cisneros,Ajman,2025-12-24,Web,Regular
+CUST_01836,Jamie Ross,Dubai,2025-12-03,App,Regular
+CUST_01837,Benjamin Johnson,Dubai,2025-08-15,Referral,Regular
+CUST_01838,Jeremiah Welch,Dubai,2025-12-24,App,Regular
+CUST_01839,Allen Gonzalez,dubai,2025-04-13,Web,Premium
+CUST_01840,Dennis Thompson,Sharjah,2025-01-14,Call Center,Regular
+CUST_01841,Alex Cameron,Dubai,2025-07-21,App,Regular
+CUST_01842,Michael Gray,sharjah,2025-05-14,App,Regular
+CUST_01843,Daniel Bryant,Ajman,2025-10-12,Web,Premium
+CUST_01844,Mary Pugh,Sharjah,2025-10-21,Referral,VIP
+CUST_01845,Ana Thomas,Dubai,2025-05-14,App,Regular
+CUST_01846,Cheryl Gray,Dubai,2025-01-05,Web,VIP
+CUST_01847,Jeffrey Fields,Dubai,2025-02-26,App,VIP
+CUST_01848,Laurie Dickerson,Dubai,2025-05-31,App,Regular
+CUST_01849,Erin Brown,Dubai,2025-10-07,Web,Regular
+CUST_01850,Sarah Schmitt,Sharjah,2025-12-24,App,VIP
+CUST_01851,Brad Ruiz,Dubai,2025-02-15,App,Regular
+CUST_01852,James Khan,Abu Dhabi,2025-07-19,App,VIP
+CUST_01853,Mr. Frank Brooks DDS,Ajman,2025-07-02,App,Regular
+CUST_01854,Kevin Little,Abu Dhabi,2025-06-06,Referral,Regular
+CUST_01855,Steven Hayes,Dubai,2025-10-09,Call Center,Premium
+CUST_01856,Eric Oneal,Dubai,2025-01-27,Web,Regular
+CUST_01857,Jacqueline Pierce,Dubai,2025-03-18,Referral,Regular
+CUST_01858,Elizabeth Stone,Dubai,2025-03-30,App,Regular
+CUST_01859,Julie Oliver,Dubai,2025-04-26,App,Regular
+CUST_01860,Jeffrey Richardson,Sharjah,2025-06-09,App,Regular
+CUST_01861,James White,Dubai,2025-05-16,Web,VIP
+CUST_01862,Bill Valenzuela,Ajman,2025-02-11,App,Premium
+CUST_01863,Kayla Schneider,Abu Dhabi,2025-12-01,Web,VIP
+CUST_01864,Annette Jones,Ajman,2025-08-31,Call Center,Regular
+CUST_01865,Felicia Leonard,Dubai,2025-04-18,App,Regular
+CUST_01866,Robert Sutton,Abu Dhabi,2025-09-14,App,Regular
+CUST_01867,Larry Taylor,Abu Dhabi,2025-08-28,App,Regular
+CUST_01868,Elijah Short,Sharjah,2025-01-13,Web,Regular
+CUST_01869,Samantha Todd,Ras Al Khaimah,2025-05-23,Referral,Regular
+CUST_01870,Jose Juarez,Dubai,2025-05-20,Web,Regular
+CUST_01871,Crystal Cummings,Dubai,2025-04-08,Referral,Regular
+CUST_01872,Jose Hartman,Dubai,2025-12-10,Call Center,Regular
+CUST_01873,Julia Conner,Sharjah,2025-01-08,Web,Regular
+CUST_01874,Jessica Mcmahon,Abu Dhabi,2025-04-16,Web,Regular
+CUST_01875,Jerry Hansen,Dubai,2025-04-02,Referral,Regular
+CUST_01876,Shane Torres,Dubai,2025-09-06,App,Premium
+CUST_01877,Mr. Henry Perez MD,Dubai,2025-07-24,Call Center,Regular
+CUST_01878,Melissa Evans,dubai,2025-12-22,App,Premium
+CUST_01879,Amanda Taylor,Dubai,2025-09-12,Referral,Premium
+CUST_01880,Rebecca Mcintyre,Dubai,2025-02-16,Web,Regular
+CUST_01881,Christina Myers,Sharjah,2025-01-20,Web,Regular
+CUST_01882,Brian Hudson,Dubai,2025-02-22,Web,Regular
+CUST_01883,Elizabeth Jackson,Ras Al Khaimah,2025-01-19,Call Center,Regular
+CUST_01884,Michael Burns,Sharjah,2025-04-08,App,Regular
+CUST_01885,Thomas Cruz,Abu Dhabi,2025-08-26,Web,Regular
+CUST_01886,Matthew Jones,Abu Dhabi,2025-09-07,App,Regular
+CUST_01887,Adam Murphy,Dubai,2025-02-25,Call Center,Regular
+CUST_01888,William Anderson,Dubai,2025-01-24,Web,Regular
+CUST_01889,Benjamin Friedman,Dubai,2025-11-13,App,Regular
+CUST_01890,Daniel Reynolds,Abu Dhabi,2025-10-03,App,Premium
+CUST_01891,Kenneth Collins,Sharjah,2025-07-16,App,Regular
+CUST_01892,Melinda Hill,Ajman,2025-08-02,Web,Regular
+CUST_01893,Jill Summers DDS,Sharjah,2025-04-25,App,Regular
+CUST_01894,Susan Suarez,Dubai,2025-05-17,Call Center,Regular
+CUST_01895,Andrew Davis,Dubai,2025-04-25,App,Regular
+CUST_01896,Ryan Sparks,Dubai,2025-05-15,App,Regular
+CUST_01897,Rhonda Thompson,Abu Dhabi,2025-01-27,Web,Premium
+CUST_01898,Luke Reynolds,Dubai,2025-11-07,Call Center,Regular
+CUST_01899,Catherine Carroll,Sharjah,2025-07-14,Call Center,Premium
+CUST_01900,Amanda Mcclure,Abu Dhabi,2025-07-30,App,VIP
+CUST_01901,Mark Carter,Dubai,2025-09-04,Web,Regular
+CUST_01902,Miranda Robinson,Abu Dhabi,2026-01-04,Web,Premium
+CUST_01903,Philip Martinez,Dubai,2025-08-21,Call Center,Regular
+CUST_01904,Brian Miranda,Abu Dhabi,2025-01-15,Web,Regular
+CUST_01905,Christopher Clark,Ajman,2025-04-03,Web,Premium
+CUST_01906,Benjamin Neal,Sharjah,2025-08-01,Web,Premium
+CUST_01907,Patrick Foley,Abu Dhabi,2025-05-31,Web,Regular
+CUST_01908,David Fletcher,Dubai,2025-10-20,Web,Regular
+CUST_01909,Paul Washington,ABU DHABI,2025-12-15,Referral,Regular
+CUST_01910,Matthew Reeves,Sharjah,2025-10-01,Web,Regular
+CUST_01911,Robert Skinner,Dubai,2025-03-17,Web,Regular
+CUST_01912,Lisa Thompson,Dubai,2025-11-28,Web,Regular
+CUST_01913,Jeanne Jones,Dubai,2026-01-01,Call Center,Regular
+CUST_01914,Brittany Howard,Ajman,2025-08-17,Web,Premium
+CUST_01915,Stephanie Patel,Dubai,2025-06-13,Web,Regular
+CUST_01916,Sara Cain,Dubai,2025-06-05,Web,Regular
+CUST_01917,Eric Williams,Dubai,2025-09-27,App,Regular
+CUST_01918,James Harris,Ajman,2025-02-01,Web,Regular
+CUST_01919,David Davis,Dubai,2025-08-21,Call Center,Regular
+CUST_01920,Adrian Hoover,Dubai,2025-09-02,Referral,Regular
+CUST_01921,Stephen Robles,Ras Al Khaimah,2025-11-30,App,Regular
+CUST_01922,Amanda Hunt,Abu Dhabi,2025-04-19,App,Premium
+CUST_01923,Mark Weber,Abu Dhabi,2025-06-11,App,Regular
+CUST_01924,Barbara Lewis,Sharjah,2025-08-05,Web,VIP
+CUST_01925,Adrian Valdez,Sharjah,2025-08-23,Web,Regular
+CUST_01926,Jimmy Jones,Ajman,2025-11-17,Web,Premium
+CUST_01927,Jackie Jones,Abu Dhabi,2025-08-10,Web,Regular
+CUST_01928,Randall Porter,Dubai,2025-03-07,App,Premium
+CUST_01929,Raven Nielsen,ajman,2025-03-17,Web,Regular
+CUST_01930,Brandon Nguyen,Abu Dhabi,2025-08-26,Referral,Regular
+CUST_01931,Valerie Benson,Ras Al Khaimah,2025-09-30,Call Center,Regular
+CUST_01932,Philip Watts,Abu Dhabi,2025-12-21,App,VIP
+CUST_01933,Alan Barr,Sharjah,2025-04-10,App,Regular
+CUST_01934,Martin Hall,Abu Dhabi,2025-03-28,App,VIP
+CUST_01935,Luis Mosley,Ajman,2025-07-15,Web,Regular
+CUST_01936,Jeffrey Sanchez,Dubai,2025-09-05,App,Premium
+CUST_01937,James Phillips,Dubai,2025-08-02,Web,Regular
+CUST_01938,Martin Young,Sharjah,2025-05-07,Web,Regular
+CUST_01939,Erin Ramirez,Sharjah,2025-07-09,App,Regular
+CUST_01940,Vanessa Wong,Ajman,2025-10-06,Call Center,Regular
+CUST_01941,Crystal Quinn,Dubai,2025-06-26,Referral,Premium
+CUST_01942,Joshua Knox,Dubai,2025-10-04,Referral,Regular
+CUST_01943,Melissa Walker,Dubai,2025-07-19,App,VIP
+CUST_01944,Catherine Soto,Abu Dhabi,2025-04-03,Web,Regular
+CUST_01945,Andrea Lee,AD,2025-04-03,Call Center,Premium
+CUST_01946,Beth Thompson,Sharjah,2025-07-19,App,Premium
+CUST_01947,Blake Hardy,Ajman,2025-04-28,Web,Regular
+CUST_01948,Craig Coleman,AJMAN,2025-04-16,App,VIP
+CUST_01949,Kenneth Faulkner,Dubai,2025-08-15,Web,Regular
+CUST_01950,Richard Miller,Sharjah,2025-01-27,App,Regular
+CUST_01951,Christopher Alexander,Dubai,2025-12-26,App,Regular
+CUST_01952,Sally Leon,Dubai,2025-11-27,Referral,VIP
+CUST_01953,Jessica Miller,Dubai,2026-01-04,Referral,Regular
+CUST_01954,Brittany Barber,Ajman,2025-08-26,App,VIP
+CUST_01955,Eric Campbell,Abu Dhabi,2025-07-31,App,Premium
+CUST_01956,Chad Harrison,Dubai,2025-07-10,App,Regular
+CUST_01957,April Hensley,Abu Dhabi,2025-10-01,Web,Regular
+CUST_01958,Timothy Bentley DVM,Sharjah,2025-11-20,App,Regular
+CUST_01959,Eric Archer,Sharjah,2025-06-18,App,Regular
+CUST_01960,Andrew Dorsey,Ajman,2025-10-13,App,Regular
+CUST_01961,Carla Hines,Abu Dhabi,2025-08-27,App,VIP
+CUST_01962,Nicole Bailey,Dubai,2025-03-07,App,VIP
+CUST_01963,Isabel Brown,Ras Al Khaimah,2025-01-25,Web,Regular
+CUST_01964,Nancy Allen,Dubai,2025-05-02,Web,Regular
+CUST_01965,Heather Mann,Sharjah,2025-10-24,App,Regular
+CUST_01966,Maria Green,Abu Dhabi,2025-11-25,App,Regular
+CUST_01967,Brittany Wright,Dubai,2025-02-21,App,Regular
+CUST_01968,Ray Newman,Abu Dhabi,2025-09-18,Referral,Regular
+CUST_01969,Kevin Santana,Dubai,2025-03-04,Call Center,Regular
+CUST_01970,Carol Simmons,Sharjah,2025-03-02,Web,Regular
+CUST_01971,Kim Tanner,Ajman,2025-03-10,App,VIP
+CUST_01972,Nicole Glass,Abu Dhabi,2025-10-12,Web,Regular
+CUST_01973,Kenneth Salinas,Ajman,2025-05-31,Web,Regular
+CUST_01974,Daniel Goodman,Abu Dhabi,2025-05-29,Web,Regular
+CUST_01975,Christopher Vasquez,Ajman,2025-12-02,App,Regular
+CUST_01976,Michael Warren,Sharjah,2025-02-23,Call Center,Regular
+CUST_01977,Carolyn Brooks,Ras Al Khaimah,2025-10-02,Call Center,Regular
+CUST_01978,Christopher Fry,Dubai,2025-10-11,Referral,Regular
+CUST_01979,Christy Harris,Sharjah,2025-03-10,App,Premium
+CUST_01980,Cheryl Bird,Dubai,2025-04-03,Web,Regular
+CUST_01981,Thomas Rodriguez,Sharjah,2025-08-06,App,Premium
+CUST_01982,Brady Martinez,Dubai,2025-11-02,Web,Regular
+CUST_01983,Kevin Woods,Dubai,2025-08-19,Web,Regular
+CUST_01984,Derek Moses,Dubai,2025-05-19,Referral,Regular
+CUST_01985,Joseph Smith,Ras Al Khaimah,2025-07-26,Referral,Regular
+CUST_01986,Kara Rogers,Sharjah,2025-01-21,Web,Regular
+CUST_01987,Michael Cooper,Abu Dhabi,2025-05-01,Web,VIP
+CUST_01988,Teresa Ortega,Dubai,2025-04-27,App,Regular
+CUST_01989,Vanessa Marks,Ras Al Khaimah,2025-08-20,Web,Regular
+CUST_01990,Seth Morales,Sharjah,2025-03-03,App,Regular
+CUST_01991,Bryce Schmidt,SHJ,2025-11-22,Web,Regular
+CUST_01992,Luke Hopkins,Abu Dhabi,2025-07-12,App,Regular
+CUST_01993,Mary Smith,Abu Dhabi,2025-03-17,App,Regular
+CUST_01994,Isaac Williams,Dubai,2025-07-18,App,Regular
+CUST_01995,Cynthia Washington,Sharjah,2025-02-27,App,VIP
+CUST_01996,Todd David,Abu Dhabi,2025-07-01,Web,Regular
+CUST_01997,Dr. Susan Navarro,Ajman,2025-01-15,App,Regular
+CUST_01998,Michelle Kane,Abu Dhabi,2025-06-29,Call Center,Regular
+CUST_01999,Robert Turner,Dubai,2025-04-21,Call Center,Regular
+CUST_02000,Jeremy Wilson,Dubai,2025-04-21,App,Regular
+CUST_01490,Douglas Maxwell,Dubai,2025-08-30,Call Center,Premium
+CUST_01623,Debbie Gordon,Abu Dhabi,2025-11-13,Referral,Regular
+CUST_01849,Erin Brown,Dubai,2025-10-07,Web,Regular
+CUST_01898,Luke Reynolds,Dubai,2025-11-07,Call Center,Regular
+CUST_00014,Daniel Adams,Dubai,2025-09-21,App,VIP
+CUST_00977,David White,sharjah,2025-02-05,Call Center,Regular
+CUST_00046,Jeffrey Henderson,Abu Dhabi,2025-12-19,Call Center,Regular
+CUST_00039,Jennifer Powers,Dubai,2025-02-25,App,Regular
+CUST_00180,Vernon Huff,Dubai,2025-06-03,App,Regular
+CUST_00025,Jennifer Brown,Abu Dhabi,2025-02-08,Web,Regular
+CUST_00123,Elizabeth Price,Dubai,2025-06-26,App,Regular
+CUST_00643,Danielle Newman,Ajman,2025-02-03,Web,Premium
+CUST_00104,Diane Beck,Ajman,2025-08-09,Call Center,Regular
+CUST_01154,Jason Diaz,Dubai,2025-11-06,Web,Regular
+CUST_00538,Kimberly Reyes,Dubai,2026-01-03,App,Premium
+CUST_01391,Dr. Lisa Huffman,Sharjah,2025-10-02,Call Center,Regular
+CUST_00269,Jacqueline Hernandez,Sharjah,2025-06-25,Referral,Regular
+CUST_00919,Cheryl Palmer,SHARJAH,2025-09-19,Web,Premium
+CUST_01630,Charles Hall,Abu Dhabi,2025-07-11,App,Premium
+CUST_00649,Michael Farmer,Abu Dhabi,2025-05-10,Web,Regular
+CUST_00627,Brooke Bryant,Sharjah,2025-03-17,Referral,Premium
+CUST_01688,Edward Dawson,Dubai,2025-08-26,App,Regular
+CUST_01668,Adam Rios,Dubai,2025-02-16,App,Premium
+CUST_01551,Michael Rogers,Dubai,2025-03-30,Web,Regular
+CUST_01207,Frank Johnson,Ajman,2025-03-30,Web,Regular
+CUST_01211,Angela Zimmerman,Dubai,2025-04-02,Web,Regular
+CUST_00751,Brandon Colon,Abu Dhabi,2025-11-02,Web,Regular
+CUST_00963,Daniel Velez,Dubai,2025-11-13,Web,Regular
+CUST_00162,Cody Williams,Dubai,2025-05-06,App,Premium
+CUST_01579,Claudia Rodriguez,Dubai,2025-10-09,App,Regular
