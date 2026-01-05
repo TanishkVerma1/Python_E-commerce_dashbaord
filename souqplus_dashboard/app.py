@@ -341,15 +341,24 @@ if page == "Executive View":
     colA, colB = st.columns(2)
     with colA:
         st.subheader("Revenue Trend (Daily)")
-        trend = delivered.groupby(pd.Grouper(key="order_date", freq="D"))["net_amount"].sum().reset_index()
-        fig = px.line(trend, x="order_date", y="net_amount")
+
+        # Robust daily aggregation (avoids pandas Grouper edge-cases on some environments)
+        trend = delivered.copy()
+        trend["order_day"] = pd.to_datetime(trend["order_date"], errors="coerce").dt.floor("D")
+        trend["net_amount"] = pd.to_numeric(trend["net_amount"], errors="coerce")
+        
+        trend = trend.groupby("order_day", as_index=False)["net_amount"].sum()
+        
+        fig = px.line(trend, x="order_day", y="net_amount")
         fig.update_layout(height=380, margin=dict(l=10,r=10,t=30,b=10), yaxis_title="AED", xaxis_title="Date")
         st.plotly_chart(fig, use_container_width=True)
+        
         if len(trend):
             best = trend.loc[trend["net_amount"].idxmax()]
-            st.info(f"**Insight:** Best day was **{best['order_date'].date()}** with **{fmt_aed(best['net_amount'])}** delivered revenue.")
+            st.info(f"**Insight:** Best day was **{best['order_day'].date()}** with **{fmt_aed(best['net_amount'])}** delivered revenue.")
         else:
             st.info("**Insight:** No delivered orders under current filters.")
+
 
     with colB:
         st.subheader("Revenue by City (Delivered)")
